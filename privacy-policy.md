@@ -1,35 +1,67 @@
-# Sleeply - Gizlilik Politikası
+# Kullanım Şartları ve Gizlilik Politikası
 
-**Son Güncelleme:** 1 Şubat 2025
+Yaş Sınırı:  
+Bu uygulamaları kullanmak için minimum yaş 13’tür. 13 yaşından küçük kullanıcıların ebeveyn veya yasal vasisi izni olmadan kullanmaları yasaktır.  
 
-Sleeply ("uygulama"), kullanıcı gizliliğine ve veri güvenliğine en üst düzeyde önem verir. Bu politika, hangi verilerin toplandığını ve bu verilerin nasıl korunduğunu açıklar.
+## 1. Uygulamalar Hakkında
+- Habitly: Günlük alışkanlık takip ve motivasyon uygulaması  
+- Fitnessly: Fitness ve vücut geliştirme uygulaması  
+- Sleepyl: Uyku düzeni takibi ve analiz uygulaması  
 
-## 1. Toplanan Veriler ve Kullanım Amacı
+Tüm uygulamalar bilgilendirme, takip ve motivasyon amaçlıdır.  
+Hiçbir uygulama tıbbi teşhis, tedavi, kesin sonuç veya finansal kazanç vaadi içermez.
 
-Uygulamamız, size kişiselleştirilmiş bir uyku analizi sunmak için aşağıdaki verileri kullanır:
+---
 
-*   **Ses Verileri (Mikrofon):** Gece boyunca horlama, konuşma ve hareket seslerini analiz etmek için mikrofon erişimi istenir. **ÖNEMLİ:** Ses kayıtlarınız asla cihaz dışına aktarılmaz, sunucularımıza yüklenmez veya üçüncü taraflarla paylaşılmaz. Tüm analizler gerçek zamanlı olarak cihazınızda yapılır.
-*   **Profil Bilgileri:** Yaş, boy, kilo ve cinsiyet bilgileriniz; ideal uyku sürenizi hesaplamak ve Vücut Kitle İndeksi (VKİ) üzerinden horlama riski tahmini yapmak için kullanılır.
-*   **Alışkanlık Verileri:** Kahve tüketimi ve rüya notlarınız, uyku kalitenizle olan ilişkinizi görmeniz için kaydedilir.
+## 2. Veri Toplama ve Kullanım
+- Kullanıcı verileri yalnızca Firebase, Firestore ve AdMob servisleri üzerinden toplanır.  
+- Toplanan veriler:
+  - Kullanıcı hesap bilgileri (isteğe bağlı)
+  - Egzersiz ve alışkanlık takibi verileri
+  - Uyku verileri (Sleepyl) – cihaz içinde işlenir, üçüncü kişilerle paylaşılmaz
+  - Uygulama içi reklam gösterim verileri (AdMob)  
+- Veriler kesinlikle satılmaz veya üçüncü taraflara aktarılmaz.  
 
-## 2. Veri Depolama ve Güvenlik
+---
 
-*   Verileriniz, Google tarafından sağlanan güvenli **Firebase** altyapısında saklanır.
-*   Uygulama, verilerinizi korumak için endüstri standardı güvenlik önlemlerini kullanır.
+## 3. Kullanım Şartları
+- Uygulamaları yalnızca kişisel kullanım amacıyla kullanabilirsiniz.  
+- Uygulama içeriğini paylaşamaz veya çoğaltamazsınız.  
+- Uygulamanın kullanımından doğabilecek herhangi bir zarar veya sağlık sorunu durumunda uygulamalar sorumlu tutulamaz.  
 
-## 3. Üçüncü Taraf Hizmetleri
+---
 
-Uygulama, yalnızca aşağıdaki güvenli altyapıları kullanır:
-*   **Firebase (Google):** Veri depolama ve anonim giriş (Authentication) işlemleri için.
-*   **AdMob:** Uygulama içi reklam gösterimi için (isteğe bağlı).
+## 4. Premium ve Ücretsiz Farkları
+- Ücretsiz kullanıcı: Temel özellikler, sınırlı içerik, reklamlı kullanım  
+- Pro / Premium kullanıcı: Sınırsız içerik, detaylı analiz, reklam yok, ek premium özellikler  
 
-## 4. Kullanıcı Hakları
+---
 
-Kullanıcılar olarak aşağıdaki haklara sahipsiniz:
-*   Verilerinize uygulama içerisinden her zaman erişebilirsiniz.
-*   İstediğiniz zaman ayarlar menüsünden tüm verilerinizi ve hesabınızı kalıcı olarak silebilirsiniz.
+## 5. Mikrofon ve Sensör Kullanımı (Sleepyl)
+- Uygulama yalnızca kullanıcı izniyle mikrofon erişimi kullanır.  
+- Ses verileri cihaz dışında paylaşılmaz ve üçüncü taraflarla bağlantılı değildir.  
 
-## 5. İletişim
+---
 
-Bu gizlilik politikasıyla ilgili herhangi bir sorunuz varsa, lütfen bizimle iletişime geçin:
-**E-posta:** [E-posta Adresini Buraya Yaz]
+## 6. Sorumluluk Reddi
+- Habitly: Motivasyon ve alışkanlık takibi amaçlıdır. Psikolojik veya tıbbi destek yerine geçmez.  
+- Fitnessly: Egzersiz rehberi, tıbbi tavsiye değildir. Egzersize başlamadan önce doktorunuza danışın.  
+- Sleepyl: Uyku verisi sadece analiz amaçlıdır. Uyku problemleri için sağlık uzmanına başvurun.  
+
+---
+
+## 7. Kullanıcı Hakları
+- İstediğiniz zaman hesabınızı silebilirsiniz.  
+- Toplanan verileri görüntüleyebilir ve talep ederseniz silebilirsiniz.  
+
+---
+
+## 8. Üçüncü Parti Hizmetler
+- Firebase (Auth, Firestore, Analytics)  
+- Google AdMob  
+- API servisleri (uygulama içi veri)  
+
+---
+
+## 9. Değişiklikler
+Bu politika, uygulama güncellemeleriyle değiştirilebilir. Kullanıcıların güncel politikayı incelemesi önerilir.
