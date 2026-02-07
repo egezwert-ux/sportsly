@@ -1,67 +1,56 @@
-# Kullanım Şartları ve Gizlilik Politikası
+Privacy Policy – Sportsly Network (Fitnessly + Footbally + Sportsly Apps)
 
-Yaş Sınırı:  
-Bu uygulamaları kullanmak için minimum yaş 13’tür. 13 yaşından küçük kullanıcıların ebeveyn veya yasal vasisi izni olmadan kullanmaları yasaktır.  
+Last updated: [Tarih]
 
-## 1. Uygulamalar Hakkında
-- Habitly: Günlük alışkanlık takip ve motivasyon uygulaması  
-- Fitnessly: Fitness ve vücut geliştirme uygulaması  
-- Sleepyl: Uyku düzeni takibi ve analiz uygulaması  
+Sportsly Network (“we”, “our”, “app”) collects, stores, and processes certain personal data to provide personalized fitness and football training programs, manage accounts, and improve user experience. This policy is fully compliant with GDPR (EU) and KVKK (Turkey).
 
-Tüm uygulamalar bilgilendirme, takip ve motivasyon amaçlıdır.  
-Hiçbir uygulama tıbbi teşhis, tedavi, kesin sonuç veya finansal kazanç vaadi içermez.
+1. Data Collected:
+- Personal information: Age, Height, Weight, Gender
+- Account information: Email, password, subscription status
+- App usage: Selected programs, completed workouts, positions (Footbally), training goals
+- Device and analytics data: Device type, session duration, app interactions
 
----
+2. Purpose of Processing:
+- Generate personalized programs and suggestions
+- Track progress and adherence
+- Improve app experience and features
+- Manage subscriptions, payments, and customer support
 
-## 2. Veri Toplama ve Kullanım
-- Kullanıcı verileri yalnızca Firebase, Firestore ve AdMob servisleri üzerinden toplanır.  
-- Toplanan veriler:
-  - Kullanıcı hesap bilgileri (isteğe bağlı)
-  - Egzersiz ve alışkanlık takibi verileri
-  - Uyku verileri (Sleepyl) – cihaz içinde işlenir, üçüncü kişilerle paylaşılmaz
-  - Uygulama içi reklam gösterim verileri (AdMob)  
-- Veriler kesinlikle satılmaz veya üçüncü taraflara aktarılmaz.  
+3. Legal Basis:
+- User consent for personal data collection
+- Contractual necessity for subscription services
+- Legitimate interest for app improvement and analytics
 
----
+4. Data Sharing:
+- Personal data is **never sold or shared** with third parties without explicit consent
+- Anonymized usage data may be used for internal analytics and reporting
 
-## 3. Kullanım Şartları
-- Uygulamaları yalnızca kişisel kullanım amacıyla kullanabilirsiniz.  
-- Uygulama içeriğini paylaşamaz veya çoğaltamazsınız.  
-- Uygulamanın kullanımından doğabilecek herhangi bir zarar veya sağlık sorunu durumunda uygulamalar sorumlu tutulamaz.  
+5. Data Retention:
+- Data is stored as long as the account exists
+- Users may request deletion at any time
+- Data will be permanently deleted from our systems upon account deletion
 
----
+6. User Rights:
+- Access and view personal data
+- Correct or update inaccurate data
+- Delete account and personal data
+- Withdraw consent at any time
+- Request data portability
 
-## 4. Premium ve Ücretsiz Farkları
-- Ücretsiz kullanıcı: Temel özellikler, sınırlı içerik, reklamlı kullanım  
-- Pro / Premium kullanıcı: Sınırsız içerik, detaylı analiz, reklam yok, ek premium özellikler  
+7. Security:
+- Encryption of data in transit and at rest
+- Access limited to authorized personnel only
+- Regular security audits
 
----
+8. Cookies and Analytics:
+- Only anonymized analytics and performance tracking
+- No third-party advertising tracking
 
-## 5. Mikrofon ve Sensör Kullanımı (Sleepyl)
-- Uygulama yalnızca kullanıcı izniyle mikrofon erişimi kullanır.  
-- Ses verileri cihaz dışında paylaşılmaz ve üçüncü taraflarla bağlantılı değildir.  
+9. Children:
+- Minimum age to use the apps: 14
+- Users under 18 are recommended to have parental supervision (optional, not enforced)
 
----
+10. Contact:
+For privacy-related questions, contact: [email@example.com]
 
-## 6. Sorumluluk Reddi
-- Habitly: Motivasyon ve alışkanlık takibi amaçlıdır. Psikolojik veya tıbbi destek yerine geçmez.  
-- Fitnessly: Egzersiz rehberi, tıbbi tavsiye değildir. Egzersize başlamadan önce doktorunuza danışın.  
-- Sleepyl: Uyku verisi sadece analiz amaçlıdır. Uyku problemleri için sağlık uzmanına başvurun.  
-
----
-
-## 7. Kullanıcı Hakları
-- İstediğiniz zaman hesabınızı silebilirsiniz.  
-- Toplanan verileri görüntüleyebilir ve talep ederseniz silebilirsiniz.  
-
----
-
-## 8. Üçüncü Parti Hizmetler
-- Firebase (Auth, Firestore, Analytics)  
-- Google AdMob  
-- API servisleri (uygulama içi veri)  
-
----
-
-## 9. Değişiklikler
-Bu politika, uygulama güncellemeleriyle değiştirilebilir. Kullanıcıların güncel politikayı incelemesi önerilir.
+By using Sportsly Network apps, you consent to this Privacy Policy.
