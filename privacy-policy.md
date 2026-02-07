@@ -1,6 +1,6 @@
 Privacy Policy – Sportsly Network (Fitnessly + Footbally + Sportsly Apps)
 
-Last updated: [Tarih]
+Last updated: [07/02/2026]
 
 Sportsly Network (“we”, “our”, “app”) collects, stores, and processes certain personal data to provide personalized fitness and football training programs, manage accounts, and improve user experience. This policy is fully compliant with GDPR (EU) and KVKK (Turkey).
 
