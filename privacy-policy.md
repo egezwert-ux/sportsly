@@ -1,4 +1,4 @@
-Privacy Policy – Sportsly Network (Fitnessly + Footbally + Sportsly Apps)
+iPrivacy Policy – Sportsly Network (Fitnessly + Footbally + Sportsly Apps)
 
 Last updated: [07/02/2026]
 
