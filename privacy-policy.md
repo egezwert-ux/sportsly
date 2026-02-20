@@ -1,56 +1,25 @@
-iPrivacy Policy – Sportsly Network (Fitnessly + Footbally + Sportsly Apps)
+# Privacy Policy for Matchly Predictions
 
-Last updated: [07/02/2026]
+**Effective Date: [DATE]**
 
-Sportsly Network (“we”, “our”, “app”) collects, stores, and processes certain personal data to provide personalized fitness and football training programs, manage accounts, and improve user experience. This policy is fully compliant with GDPR (EU) and KVKK (Turkey).
+Matchly Predictions ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
 
-1. Data Collected:
-- Personal information: Age, Height, Weight, Gender
-- Account information: Email, password, subscription status
-- App usage: Selected programs, completed workouts, positions (Footbally), training goals
-- Device and analytics data: Device type, session duration, app interactions
+### 1. Information Collection
+We do not require a traditional login (email/password). We collect minimal data to provide our services:
+- **Device Identifiers:** We use industry-standard identifiers to track your daily free ad-unlocks.
+- **Preferences:** We store your language choice and VIP status locally on your device using Jetpack DataStore.
+- **Payment Data:** All subscriptions are handled securely through Google Play Billing. We do not store your credit card information.
 
-2. Purpose of Processing:
-- Generate personalized programs and suggestions
-- Track progress and adherence
-- Improve app experience and features
-- Manage subscriptions, payments, and customer support
+### 2. Third-Party Services
+We use the following third-party services which may collect data according to their own policies:
+- **Google AdMob:** To serve rewarded video ads.
+- **Google Play Services:** For app functionality and security.
 
-3. Legal Basis:
-- User consent for personal data collection
-- Contractual necessity for subscription services
-- Legitimate interest for app improvement and analytics
+### 3. Children's Privacy
+Our services are strictly for individuals aged **18 and older**. We do not knowingly collect data from anyone under 18. If we discover such data, we will delete it immediately.
 
-4. Data Sharing:
-- Personal data is **never sold or shared** with third parties without explicit consent
-- Anonymized usage data may be used for internal analytics and reporting
+### 4. Data Security
+We implement professional security measures to protect your local data. However, no electronic transmission over the internet is 100% secure.
 
-5. Data Retention:
-- Data is stored as long as the account exists
-- Users may request deletion at any time
-- Data will be permanently deleted from our systems upon account deletion
-
-6. User Rights:
-- Access and view personal data
-- Correct or update inaccurate data
-- Delete account and personal data
-- Withdraw consent at any time
-- Request data portability
-
-7. Security:
-- Encryption of data in transit and at rest
-- Access limited to authorized personnel only
-- Regular security audits
-
-8. Cookies and Analytics:
-- Only anonymized analytics and performance tracking
-- No third-party advertising tracking
-
-9. Children:
-- Minimum age to use the apps: 14
-- Users under 18 are recommended to have parental supervision (optional, not enforced)
-
-10. Contact:
-For privacy-related questions, contact: [email@example.com]
-
-By using Sportsly Network apps, you consent to this Privacy Policy.
+### 5. Contact Us
+If you have questions about this policy, contact us at: **[CONTACT_EMAIL]**
