@@ -1,0 +1,16 @@
+{
+  "updated_at": "2026-02-24",
+  "matches": [
+    {
+      "id": "1",
+      "league": "Premier League",
+      "home": "Arsenal",
+      "away": "Chelsea",
+      "kickoff_tr": "2026-02-24 22:45",
+      "main_pick": "BTTS",
+      "odds": 1.85,
+      "confidence": "Medium",
+      "result": null
+    }
+  ]
+}
