@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-24",
+  "date": "2026-02-25",
   "baseTimezone": "UTC",
   "displayLocalTime": true,
   "matches": [
@@ -38,9 +38,9 @@
       "prediction": "BTTS",
       "odds": 2.05,
 
-      "overUnder": "2.5 ALT",
+      "overUnder": "2.5 Over",
       "predictedScore": "1-1",
-      "corners": "9.5 ALT",
+      "corners": "9.5 Under",
 
       "vipOnly": true,
       "adUnlock": true,
@@ -56,7 +56,7 @@
       "league": "La Liga",
       "home": "Alaves",
       "away": "Girona",
-      "kickoffUTC": "2026-02-24T20:00:00Z",
+      "kickoffUTC": "2026-02-25T20:00:00Z",
 
       "mainPick": false,
       "prediction": "2.5 ÜST",
