@@ -1,53 +1,66 @@
 {
-  "last_update_utc": "2025-02-26T10:00:00Z",
+  "summary": "Yesterday: 22/24 Wins! 🔥 Recent performance is high.",
   "matches": [
     {
-      "id": "m26_01",
-      "league": "Champions League",
-      "home_team": "Arsenal",
-      "away_team": "Inter Milan",
-      "kickoff_utc": "2025-02-26T20:00:00Z",
-      "status": "pending",
-      "access_type": "free",
-      "home_main_pick": "Home Win",
-      "main_pick_odds": 1.75,
-      "confidence_percent": 88
-    },
-    {
-      "id": "m26_02",
-      "league": "Premier League",
-      "home_team": "Liverpool",
-      "away_team": "Chelsea",
-      "kickoff_utc": "2025-02-26T19:30:00Z",
-      "status": "pending",
-      "access_type": "vip",
-      "home_main_pick": "Over 2.5",
-      "main_pick_odds": 1.65,
-      "confidence_percent": 82
-    },
-    {
-      "id": "m27_01",
-      "league": "Europa League",
-      "home_team": "Galatasaray",
-      "away_team": "Ajax",
-      "kickoff_utc": "2025-02-27T18:45:00Z",
-      "status": "pending",
-      "access_type": "free",
-      "home_main_pick": "BTTS Yes",
-      "main_pick_odds": 1.55,
-      "confidence_percent": 91
-    },
-    {
       "id": "m25_01",
+      "date": "2026-02-25",
+      "time": "21:00",
+      "league": "Champions League",
+      "homeTeam": "Manchester City",
+      "awayTeam": "Inter Milan",
+      "prediction": {
+        "mainPick": "MS1",
+        "confidence": 92,
+        "overUnder": "2.5 ÜST",
+        "predictedScore": "3-1",
+        "corners": "9.5 ÜST",
+        "odds": "1.65"
+      },
+      "analysis": "Man City is dominant at home. Haaland is in top form.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true
+    },
+    {
+      "id": "m25_02",
+      "date": "2026-02-25",
+      "time": "22:45",
+      "league": "Premier League",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Liverpool",
+      "prediction": {
+        "mainPick": "KG VAR",
+        "confidence": 85,
+        "overUnder": "3.5 ALT",
+        "predictedScore": "1-1",
+        "corners": "10.5 ÜST",
+        "odds": "1.80"
+      },
+      "analysis": "Both teams have strong attacks. High chance of BTTS.",
+      "result": "pending",
+      "vip": true,
+      "adUnlock": false
+    },
+    {
+      "id": "h24_01",
+      "date": "2026-02-24",
+      "time": "20:00",
       "league": "Serie A",
-      "home_team": "Juventus",
-      "away_team": "AC Milan",
-      "kickoff_utc": "2025-02-25T20:45:00Z",
-      "status": "won",
-      "access_type": "free",
-      "home_main_pick": "Under 3.5",
-      "main_pick_odds": 1.45,
-      "confidence_percent": 85
+      "homeTeam": "Juventus",
+      "awayTeam": "Parma",
+      "prediction": {
+        "mainPick": "MS1",
+        "confidence": 95,
+        "overUnder": "1.5 ÜST",
+        "predictedScore": "2-0",
+        "corners": "8.5 ÜST",
+        "odds": "1.45"
+      },
+      "analysis": "Juventus dominated the game as expected.",
+      "result": "won",
+      "finalScore": "2-0",
+      "vip": false,
+      "adUnlock": true
     }
   ]
 }
