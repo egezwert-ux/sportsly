@@ -1,6 +1,7 @@
 {
   "date": "2026-03-09",
-  "status": "Merged & Cleaned",
+  "totalMatches": 35,
+  "status": "Verified All 10 Screenshots",
   "matches": [
     {
       "id": "m9_01",
@@ -14,9 +15,10 @@
         "confidence": 65,
         "overUnder": "2.5 ALT",
         "predictedScore": "1-1",
-        "btts": "KG VAR"
+        "btts": "KG VAR",
+        "corners": "8.5 ÜST"
       },
-      "analysis": "El Salvador liginde savunma disiplini ön planda, beraberlik ihtimali yüksek.",
+      "analysis": "İki takımın da kontrollü oyunu beraberliği ön plana çıkarıyor.",
       "vip": false,
       "adUnlock": true
     },
@@ -35,7 +37,7 @@
         "btts": "KG YOK",
         "corners": "9.5 ÜST"
       },
-      "analysis": "Uni. Catolica evinde çok güçlü, zayıf rakibi karşısında hata yapmaz.",
+      "analysis": "Catolica sahasında dominant bir performans sergileyecektir.",
       "vip": false,
       "adUnlock": true
     },
@@ -54,7 +56,7 @@
         "btts": "KG YOK",
         "corners": "10.5 ÜST"
       },
-      "analysis": "Olimpia şampiyonluk yolunda bu iç saha maçında mutlak favori.",
+      "analysis": "Olimpia'nın iç saha serisi bu maçla devam eder.",
       "vip": false,
       "adUnlock": true
     },
@@ -70,9 +72,10 @@
         "confidence": 88,
         "overUnder": "2.5 ALT",
         "predictedScore": "1-0",
-        "btts": "KG YOK"
+        "btts": "KG YOK",
+        "corners": "9.5 ALT"
       },
-      "analysis": "Berkane iç sahada kalesini gole kapatmakta usta bir ekip.",
+      "analysis": "Kuzey Afrika futbolunun klasik az gollü, ev sahibi lehine maçı.",
       "vip": false,
       "adUnlock": true
     },
@@ -88,9 +91,10 @@
         "confidence": 94,
         "overUnder": "2.5 ÜST",
         "predictedScore": "3-1",
-        "btts": "KG VAR"
+        "btts": "KG VAR",
+        "corners": "10.5 ÜST"
       },
-      "analysis": "Meksika'nın bu liginde iç saha avantajı galibiyeti getirir.",
+      "analysis": "Ev sahibi ekip ligin en az gol yiyen takımlarından biri.",
       "vip": false,
       "adUnlock": true
     },
@@ -109,7 +113,7 @@
         "btts": "KG VAR",
         "corners": "11.5 ÜST"
       },
-      "analysis": "MLS'te Cincinnati iç saha avantajıyla Toronto'yu geçecektir.",
+      "analysis": "Cincinnati yıldız oyuncularıyla Toronto savunmasını aşacaktır.",
       "vip": false,
       "adUnlock": true
     },
@@ -120,15 +124,15 @@
       "homeTeam": "Hougang Utd",
       "awayTeam": "Balestier",
       "prediction": {
-        "mainPick": "2.5 ÜST",
-        "odds": "1.45",
-        "confidence": 85,
+        "mainPick": "MS 1",
+        "odds": "2.05",
+        "confidence": 70,
         "overUnder": "3.5 ÜST",
-        "predictedScore": "2-2",
+        "predictedScore": "3-2",
         "btts": "KG VAR",
         "corners": "10.5 ÜST"
       },
-      "analysis": "Singapur ligi golcü yapısıyla bilinir, yine bol gollü bir maç bekliyoruz.",
+      "analysis": "Bol gollü geçmeye en aday maçlardan biri.",
       "vip": false,
       "adUnlock": true
     },
@@ -147,7 +151,7 @@
         "btts": "KG YOK",
         "corners": "9.5 ALT"
       },
-      "analysis": "Kocaelispor'un deplasman savunması bu maçta belirleyici olacaktır.",
+      "analysis": "Zirve yarışındaki Kocaelispor, disiplinli savunmasıyla kazanır.",
       "vip": true,
       "adUnlock": false
     },
@@ -166,7 +170,7 @@
         "btts": "KG YOK",
         "corners": "10.5 ÜST"
       },
-      "analysis": "Lokomotiv Moskova evinde taraftarıyla rahat bir galibiyet alır.",
+      "analysis": "Lokomotiv Moskova soğuk havaya rağmen evinde hata yapmaz.",
       "vip": false,
       "adUnlock": true
     },
@@ -182,9 +186,10 @@
         "confidence": 96,
         "overUnder": "3.5 ÜST",
         "predictedScore": "4-1",
-        "btts": "KG VAR"
+        "btts": "KG VAR",
+        "corners": "9.5 ÜST"
       },
-      "analysis": "Persib Bandung ligin en formda hücum hattına sahip.",
+      "analysis": "Bandung sahasında gol olup yağacaktır.",
       "vip": false,
       "adUnlock": true
     },
@@ -200,9 +205,10 @@
         "confidence": 98,
         "overUnder": "3.5 ÜST",
         "predictedScore": "0-4",
-        "btts": "KG YOK"
+        "btts": "KG YOK",
+        "corners": "11.5 ÜST"
       },
-      "analysis": "Chelsea U21 kadro kalitesiyle Birmingham karşısında şov yapar.",
+      "analysis": "Chelsea'nin altyapı kalitesi fark yaratır.",
       "vip": false,
       "adUnlock": true
     },
@@ -221,12 +227,31 @@
         "btts": "KG YOK",
         "corners": "8.5 ÜST"
       },
-      "analysis": "Zira sahasında Kapaz'a geçit vermeyecek formda.",
+      "analysis": "Zira evinde savunma güvenliğiyle kazanacaktır.",
       "vip": false,
       "adUnlock": true
     },
     {
       "id": "m9_13",
+      "time": "18:00",
+      "league": "Mısır Premier Ligi",
+      "homeTeam": "Al-Ahly",
+      "awayTeam": "Future FC",
+      "prediction": {
+        "mainPick": "MS 1",
+        "odds": "1.35",
+        "confidence": 89,
+        "overUnder": "2.5 ALT",
+        "predictedScore": "2-0",
+        "btts": "KG YOK",
+        "corners": "9.5 ÜST"
+      },
+      "analysis": "Kahire'de Al-Ahly rüzgarı esecektir.",
+      "vip": false,
+      "adUnlock": true
+    },
+    {
+      "id": "m9_14",
       "time": "19:00",
       "league": "Bulgaristan Parva Ligi",
       "homeTeam": "Levski Sofya",
@@ -240,12 +265,12 @@
         "btts": "KG YOK",
         "corners": "10.5 ÜST"
       },
-      "analysis": "Levski Sofya kendi liginin en dominant takımlarından biri.",
+      "analysis": "Levski Sofya taraftarıyla farka gider.",
       "vip": false,
       "adUnlock": true
     },
     {
-      "id": "m9_14",
+      "id": "m9_15",
       "time": "19:00",
       "league": "Rusya Premier Lig",
       "homeTeam": "S. Moskova",
@@ -256,14 +281,15 @@
         "confidence": 93,
         "overUnder": "2.5 ÜST",
         "predictedScore": "3-1",
-        "btts": "KG VAR"
+        "btts": "KG VAR",
+        "corners": "10.5 ÜST"
       },
-      "analysis": "Spartak Moskova hücumda etkili silahlarıyla kazanır.",
+      "analysis": "Spartak Moskova hücumda durdurulamaz görünüyor.",
       "vip": false,
       "adUnlock": true
     },
     {
-      "id": "m9_15",
+      "id": "m9_16",
       "time": "19:30",
       "league": "Slovenya Prvaliga",
       "homeTeam": "NK Radomlje",
@@ -277,12 +303,12 @@
         "btts": "KG YOK",
         "corners": "9.5 ALT"
       },
-      "analysis": "Dengeli bir maç, Bravo'nun kontratakları sonucu belirler.",
+      "analysis": "Kısır geçmeye aday bir mücadele.",
       "vip": false,
       "adUnlock": true
     },
     {
-      "id": "m9_16",
+      "id": "m9_17",
       "time": "20:00",
       "league": "Trendyol Süper Lig",
       "homeTeam": "Alanyaspor",
@@ -296,12 +322,12 @@
         "btts": "KG VAR",
         "corners": "10.5 ÜST"
       },
-      "analysis": "Alanyaspor iç sahada ofansif oynayan bir takım, galibiyete yakın.",
+      "analysis": "Alanyaspor sahasında ofansif bir futbol tercih edecektir.",
       "vip": false,
       "adUnlock": true
     },
     {
-      "id": "m9_17",
+      "id": "m9_18",
       "time": "21:00",
       "league": "Romanya 1. Lig",
       "homeTeam": "Cluj",
@@ -309,18 +335,18 @@
       "prediction": {
         "mainPick": "MS 1",
         "odds": "2.11",
-        "confidence": 75,
+        "confidence": 74,
         "overUnder": "2.5 ALT",
         "predictedScore": "1-0",
         "btts": "KG YOK",
         "corners": "9.5 ÜST"
       },
-      "analysis": "Cluj evinde zorlansa da tecrübesiyle kazanmayı bilir.",
+      "analysis": "Haftanın en dengeli maçlarından biri, Cluj tecrübesiyle kazanır.",
       "vip": false,
       "adUnlock": true
     },
     {
-      "id": "m9_18",
+      "id": "m9_19",
       "time": "21:00",
       "league": "İsveç Kupası",
       "homeTeam": "Vasteraas",
@@ -334,12 +360,31 @@
         "btts": "KG YOK",
         "corners": "11.5 ÜST"
       },
-      "analysis": "Kupa mücadelesinde Vasteraas rakibine göre çok üstün.",
+      "analysis": "Vasteraas kupa yolunda hata yapmayacaktır.",
       "vip": false,
       "adUnlock": true
     },
     {
-      "id": "m9_19",
+      "id": "m9_20",
+      "time": "21:30",
+      "league": "Polonya Ekstraklasa",
+      "homeTeam": "Widzew Lodz",
+      "awayTeam": "Gornik Zabrze",
+      "prediction": {
+        "mainPick": "KG VAR",
+        "odds": "1.75",
+        "confidence": 82,
+        "overUnder": "2.5 ÜST",
+        "predictedScore": "2-2",
+        "btts": "KG VAR",
+        "corners": "10.5 ÜST"
+      },
+      "analysis": "Polonya'da gol düellosu bekliyoruz.",
+      "vip": false,
+      "adUnlock": true
+    },
+    {
+      "id": "m9_21",
       "time": "22:00",
       "league": "İngiltere Premier Lig 2",
       "homeTeam": "Leicester City U21",
@@ -353,14 +398,14 @@
         "btts": "KG VAR",
         "corners": "12.5 ÜST"
       },
-      "analysis": "Gençler liginde hücum futbolu ön planda olur.",
+      "analysis": "Gençlerin mücadelesi bol gollü geçer.",
       "vip": false,
       "adUnlock": true
     },
     {
-      "id": "m9_20",
+      "id": "m9_22",
       "time": "22:00",
-      "league": "Hollanda 1. Lig (Eerste Divisie)",
+      "league": "Hollanda 1. Lig",
       "homeTeam": "Jong AZ Alkmaar",
       "awayTeam": "Emmen",
       "prediction": {
@@ -369,14 +414,53 @@
         "confidence": 76,
         "overUnder": "3.5 ÜST",
         "predictedScore": "3-2",
-        "btts": "KG VAR"
+        "btts": "KG VAR",
+        "corners": "11.5 ÜST"
       },
-      "analysis": "Jong takımların maçları Hollanda'da her zaman gollü geçer.",
+      "analysis": "Eerste Divisie'nin karakterine uygun bol gollü bir maç.",
       "vip": false,
       "adUnlock": true
     },
     {
-      "id": "m9_21",
+      "id": "m9_23",
+      "time": "22:00",
+      "league": "Portekiz Liga 2",
+      "homeTeam": "Tondela",
+      "awayTeam": "Mafra",
+      "prediction": {
+        "mainPick": "MS 1",
+        "odds": "1.95",
+        "confidence": 71,
+        "overUnder": "2.5 ALT",
+        "predictedScore": "2-0",
+        "btts": "KG YOK",
+        "corners": "9.5 ÜST"
+      },
+      "analysis": "Tondela sahasında daha derli toplu bir takım.",
+      "vip": false,
+      "adUnlock": true
+    },
+    {
+      "id": "m9_24",
+      "time": "22:15",
+      "league": "İzlanda Kupası",
+      "homeTeam": "Valur",
+      "awayTeam": "FH Hafnarfjordur",
+      "prediction": {
+        "mainPick": "MS 1",
+        "odds": "1.65",
+        "confidence": 80,
+        "overUnder": "2.5 ÜST",
+        "predictedScore": "3-1",
+        "btts": "KG VAR",
+        "corners": "12.5 ÜST"
+      },
+      "analysis": "İzlanda'da hücum futbolu galibiyeti getirir.",
+      "vip": false,
+      "adUnlock": true
+    },
+    {
+      "id": "m9_25",
       "time": "22:30",
       "league": "İspanya 2. Lig",
       "homeTeam": "Almeria",
@@ -390,12 +474,31 @@
         "btts": "KG YOK",
         "corners": "9.5 ÜST"
       },
-      "analysis": "Almeria zirve yarışında hata yapmayacaktır.",
+      "analysis": "Almeria evinde çok üstün.",
       "vip": false,
       "adUnlock": true
     },
     {
-      "id": "m9_22",
+      "id": "m9_26",
+      "time": "22:30",
+      "league": "İtalya Serie C",
+      "homeTeam": "Calcio Catania",
+      "awayTeam": "Casertana",
+      "prediction": {
+        "mainPick": "MS 1",
+        "odds": "1.27",
+        "confidence": 91,
+        "overUnder": "2.5 ALT",
+        "predictedScore": "2-0",
+        "btts": "KG YOK",
+        "corners": "10.5 ALT"
+      },
+      "analysis": "Catania taraftar desteğiyle Serie C'de hata yapmaz.",
+      "vip": false,
+      "adUnlock": true
+    },
+    {
+      "id": "m9_27",
       "time": "22:30",
       "league": "İngiltere Federasyon Kupası (FA Cup)",
       "homeTeam": "West Ham",
@@ -406,14 +509,15 @@
         "confidence": 68,
         "overUnder": "2.5 ÜST",
         "predictedScore": "1-2",
-        "btts": "KG VAR"
+        "btts": "KG VAR",
+        "corners": "11.5 ÜST"
       },
-      "analysis": "Kupa rotasyonları sürprize açık, Brentford deplasmanda vurabilir.",
+      "analysis": "Kupa sürprizlerine açık bir maç.",
       "vip": false,
       "adUnlock": true
     },
     {
-      "id": "m9_23",
+      "id": "m9_28",
       "time": "22:45",
       "league": "İtalya Serie A",
       "homeTeam": "Lazio",
@@ -424,14 +528,15 @@
         "confidence": 78,
         "overUnder": "2.5 ALT",
         "predictedScore": "2-0",
-        "btts": "KG YOK"
+        "btts": "KG YOK",
+        "corners": "10.5 ÜST"
       },
-      "analysis": "Lazio evinde Şampiyonlar Ligi yarışı için kazanmak zorunda.",
+      "analysis": "Lazio, Roma'da Sassuolo engelini aşacaktır.",
       "vip": true,
       "adUnlock": false
     },
     {
-      "id": "m9_24",
+      "id": "m9_29",
       "time": "23:00",
       "league": "İspanya La Liga",
       "homeTeam": "Espanyol",
@@ -442,9 +547,124 @@
         "confidence": 81,
         "overUnder": "2.5 ALT",
         "predictedScore": "1-0",
-        "btts": "KG YOK"
+        "btts": "KG YOK",
+        "corners": "9.5 ÜST"
       },
-      "analysis": "Espanyol'un sahasındaki baskı bu maçın sonucunu belirler.",
+      "analysis": "Savunmaların ön planda olduğu bir İspanyol gecesi.",
+      "vip": false,
+      "adUnlock": true
+    },
+    {
+      "id": "m9_30",
+      "time": "23:00",
+      "league": "Portekiz Premier Ligi",
+      "homeTeam": "Moreirense",
+      "awayTeam": "Estrela Amadora",
+      "prediction": {
+        "mainPick": "MS 1",
+        "odds": "1.85",
+        "confidence": 77,
+        "overUnder": "2.5 ALT",
+        "predictedScore": "1-0",
+        "btts": "KG YOK",
+        "corners": "10.5 ÜST"
+      },
+      "analysis": "Moreirense iç saha disipliniyle bir adım önde.",
+      "vip": false,
+      "adUnlock": true
+    },
+    {
+      "id": "m9_31",
+      "time": "23:15",
+      "league": "Fransa National",
+      "homeTeam": "Dijon",
+      "awayTeam": "Nancy",
+      "prediction": {
+        "mainPick": "MS X",
+        "odds": "3.10",
+        "confidence": 60,
+        "overUnder": "2.5 ALT",
+        "predictedScore": "1-1",
+        "btts": "KG VAR",
+        "corners": "9.5 ALT"
+      },
+      "analysis": "Fransa alt liginde beraberlik kokan bir maç.",
+      "vip": false,
+      "adUnlock": true
+    },
+    {
+      "id": "m9_32",
+      "time": "02:00",
+      "league": "Brezilya Serie A",
+      "homeTeam": "Botafogo",
+      "awayTeam": "Vasco da Gama",
+      "prediction": {
+        "mainPick": "MS 1",
+        "odds": "1.62",
+        "confidence": 84,
+        "overUnder": "2.5 ÜST",
+        "predictedScore": "2-1",
+        "btts": "KG VAR",
+        "corners": "11.5 ÜST"
+      },
+      "analysis": "Rio Derbisi'nde Botafogo bir adım önde.",
+      "vip": false,
+      "adUnlock": true
+    },
+    {
+      "id": "m9_33",
+      "time": "03:00",
+      "league": "Arjantin Liga Profesional",
+      "homeTeam": "Argentinos Jrs",
+      "awayTeam": "Huracan",
+      "prediction": {
+        "mainPick": "MS 1",
+        "odds": "2.10",
+        "confidence": 72,
+        "overUnder": "2.5 ALT",
+        "predictedScore": "1-0",
+        "btts": "KG YOK",
+        "corners": "9.5 ÜST"
+      },
+      "analysis": "Arjantin'in sert futbolunda tek gol maçı çözer.",
+      "vip": false,
+      "adUnlock": true
+    },
+    {
+      "id": "m9_34",
+      "time": "04:00",
+      "league": "Kolombiya Primera A",
+      "homeTeam": "Atl. Nacional",
+      "awayTeam": "Junior",
+      "prediction": {
+        "mainPick": "KG VAR",
+        "odds": "1.82",
+        "confidence": 79,
+        "overUnder": "2.5 ÜST",
+        "predictedScore": "2-2",
+        "btts": "KG VAR",
+        "corners": "10.5 ÜST"
+      },
+      "analysis": "Kolombiya'nın iki devi gollü bir maç izletir.",
+      "vip": false,
+      "adUnlock": true
+    },
+    {
+      "id": "m9_35",
+      "time": "06:00",
+      "league": "Meksika Liga MX",
+      "homeTeam": "Club Leon",
+      "awayTeam": "Monterrey",
+      "prediction": {
+        "mainPick": "MS 2",
+        "odds": "2.25",
+        "confidence": 68,
+        "overUnder": "2.5 ÜST",
+        "predictedScore": "1-2",
+        "btts": "KG VAR",
+        "corners": "11.5 ÜST"
+      },
+      "analysis": "Monterrey deplasmanda kalitesiyle kazanmaya yakın.",
       "vip": false,
       "adUnlock": true
     }
