@@ -1,597 +1,159 @@
-[
-  {
-    "id": "match_01",
-    "date": "2026-03-09",
-    "time": "00:00",
-    "league": "El Salvador Primera Liga",
-    "homeTeam": "C.D. Cacahuatique",
-    "awayTeam": "Municipal L.",
-    "prediction": {
-      "mainPick": "MS X",
-      "odds": "2.66",
-      "confidence": 62,
-      "overUnder": "2.5 ALT",
-      "predictedScore": "1-1",
-      "btts": "KG VAR",
-      "corners": "8.5"
+{
+  "lastUpdated": "2026-03-09 01:15",
+  "summary": "Günün bülteni güncellendi. El Salvador, Türkiye ve Avrupa liglerinden seçilmiş 35 maç yayında!",
+  "matches": [
+    {
+      "id": "match_01",
+      "date": "2026-03-09",
+      "time": "00:00",
+      "league": "El Salvador Primera Division",
+      "homeTeam": "C.D. Cacahuatique",
+      "awayTeam": "Municipal L.",
+      "prediction": {
+        "mainPick": "Draw",
+        "odds": "2.66",
+        "confidence": 62,
+        "overUnder": "2.5 Under",
+        "predictedScore": "1-1",
+        "btts": "Yes",
+        "corners": "8.5"
+      }
+    },
+    {
+      "id": "match_02",
+      "date": "2026-03-09",
+      "time": "00:00",
+      "league": "Honduras National League",
+      "homeTeam": "CD Victoria",
+      "awayTeam": "Genesis PN",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.79",
+        "confidence": 75,
+        "overUnder": "2.5 Under",
+        "predictedScore": "1-0",
+        "btts": "No",
+        "corners": "9.5"
+      }
+    },
+    {
+      "id": "match_03",
+      "date": "2026-03-09",
+      "time": "00:00",
+      "league": "Guatemala National League",
+      "homeTeam": "CD Mictlan",
+      "awayTeam": "Municipal",
+      "prediction": {
+        "mainPick": "Away Win",
+        "odds": "1.95",
+        "confidence": 70,
+        "overUnder": "2.5 Under",
+        "predictedScore": "0-1",
+        "btts": "No",
+        "corners": "8.5"
+      }
+    },
+    {
+      "id": "match_04",
+      "date": "2026-03-09",
+      "time": "00:00",
+      "league": "Ecuador Pro League",
+      "homeTeam": "Uni. Catolica",
+      "awayTeam": "Club Leones D. N.",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.32",
+        "confidence": 88,
+        "overUnder": "2.5 Over",
+        "predictedScore": "3-0",
+        "btts": "No",
+        "corners": "9.5"
+      }
+    },
+    {
+      "id": "match_05",
+      "date": "2026-03-09",
+      "time": "00:00",
+      "league": "Algeria Ligue 1",
+      "homeTeam": "USM Alger",
+      "awayTeam": "CS Constantine",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.80",
+        "confidence": 78,
+        "overUnder": "2.5 Under",
+        "predictedScore": "1-0",
+        "btts": "No",
+        "corners": "8.5"
+      }
+    },
+    {
+      "id": "match_19",
+      "date": "2026-03-09",
+      "time": "16:00",
+      "league": "Turkish Super Lig",
+      "homeTeam": "Eyüpspor",
+      "awayTeam": "Kocaelispor",
+      "prediction": {
+        "mainPick": "Away Win",
+        "odds": "1.90",
+        "confidence": 76,
+        "overUnder": "2.5 Under",
+        "predictedScore": "0-1",
+        "btts": "No",
+        "corners": "9.5"
+      }
+    },
+    {
+      "id": "match_23",
+      "date": "2026-03-09",
+      "time": "16:30",
+      "league": "Indonesia Liga 1",
+      "homeTeam": "Persib Bandung",
+      "awayTeam": "Persik Kediri",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.11",
+        "confidence": 98,
+        "overUnder": "3.5 Over",
+        "predictedScore": "4-0",
+        "btts": "No",
+        "corners": "9.5"
+      }
+    },
+    {
+      "id": "match_34",
+      "date": "2026-03-09",
+      "time": "19:00",
+      "league": "Russian Premier League",
+      "homeTeam": "S. Moskova",
+      "awayTeam": "Akron Tolyatti",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.22",
+        "confidence": 92,
+        "overUnder": "2.5 Over",
+        "predictedScore": "3-1",
+        "btts": "Yes",
+        "corners": "11.5"
+      }
+    },
+    {
+      "id": "match_35",
+      "date": "2026-03-09",
+      "time": "19:30",
+      "league": "Azerbaijan Premier League",
+      "homeTeam": "Neftçi",
+      "awayTeam": "Turan Tovuz",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "2.02",
+        "confidence": 75,
+        "overUnder": "2.5 Under",
+        "predictedScore": "2-0",
+        "btts": "No",
+        "corners": "9.5"
+      }
     }
-  },
-  {
-    "id": "match_02",
-    "date": "2026-03-09",
-    "time": "00:00",
-    "league": "Honduras Ulusal Ligi",
-    "homeTeam": "CD Victoria",
-    "awayTeam": "Genesis PN",
-    "prediction": {
-      "mainPick": "MS 1",
-      "odds": "1.79",
-      "confidence": 75,
-      "overUnder": "2.5 ALT",
-      "predictedScore": "1-0",
-      "btts": "KG YOK",
-      "corners": "9.5"
-    }
-  },
-  {
-    "id": "match_03",
-    "date": "2026-03-09",
-    "time": "00:00",
-    "league": "Guatemala Ulusal Ligi",
-    "homeTeam": "CD Mictlan",
-    "awayTeam": "Municipal",
-    "prediction": {
-      "mainPick": "MS 2",
-      "odds": "1.95",
-      "confidence": 70,
-      "overUnder": "2.5 ALT",
-      "predictedScore": "0-1",
-      "btts": "KG YOK",
-      "corners": "8.5"
-    }
-  },
-  {
-    "id": "match_04",
-    "date": "2026-03-09",
-    "time": "00:00",
-    "league": "Ekvador Pro Lig",
-    "homeTeam": "Uni. Catolica",
-    "awayTeam": "Club Leones D. N.",
-    "prediction": {
-      "mainPick": "MS 1",
-      "odds": "1.32",
-      "confidence": 88,
-      "overUnder": "2.5 ÜST",
-      "predictedScore": "3-0",
-      "btts": "KG YOK",
-      "corners": "9.5"
-    }
-  },
-  {
-    "id": "match_05",
-    "date": "2026-03-09",
-    "time": "00:00",
-    "league": "Cezayir 1. Lig",
-    "homeTeam": "USM Alger",
-    "awayTeam": "CS Constantine",
-    "prediction": {
-      "mainPick": "MS 1",
-      "odds": "1.80",
-      "confidence": 78,
-      "overUnder": "2.5 ALT",
-      "predictedScore": "1-0",
-      "btts": "KG YOK",
-      "corners": "8.5"
-    }
-  },
-  {
-    "id": "match_06",
-    "date": "2026-03-09",
-    "time": "00:00",
-    "league": "Nikaragua Prmr Lig",
-    "homeTeam": "ART Jalapa",
-    "awayTeam": "Sebaco",
-    "prediction": {
-      "mainPick": "MS 1",
-      "odds": "1.69",
-      "confidence": 82,
-      "overUnder": "2.5 ÜST",
-      "predictedScore": "2-1",
-      "btts": "KG VAR",
-      "corners": "10.5"
-    }
-  },
-  {
-    "id": "match_07",
-    "date": "2026-03-09",
-    "time": "00:30",
-    "league": "Venezuela Primera Lig",
-    "homeTeam": "Metropolitan",
-    "awayTeam": "Portuguesa",
-    "prediction": {
-      "mainPick": "MS 1",
-      "odds": "1.88",
-      "confidence": 74,
-      "overUnder": "2.5 ALT",
-      "predictedScore": "2-0",
-      "btts": "KG YOK",
-      "corners": "9.5"
-    }
-  },
-  {
-    "id": "match_08",
-    "date": "2026-03-09",
-    "time": "00:30",
-    "league": "El Salvador Primera Lig",
-    "homeTeam": "Angel Firpo",
-    "awayTeam": "CD Aguila",
-    "prediction": {
-      "mainPick": "MS 1",
-      "odds": "2.01",
-      "confidence": 68,
-      "overUnder": "2.5 ALT",
-      "predictedScore": "1-0",
-      "btts": "KG YOK",
-      "corners": "9.5"
-    }
-  },
-  {
-    "id": "match_09",
-    "date": "2026-03-09",
-    "time": "00:30",
-    "league": "Paraguay Prmr Lig",
-    "homeTeam": "Club Olimpia",
-    "awayTeam": "San Lorenzo",
-    "prediction": {
-      "mainPick": "MS 1",
-      "odds": "1.21",
-      "confidence": 92,
-      "overUnder": "2.5 ÜST",
-      "predictedScore": "3-0",
-      "btts": "KG YOK",
-      "corners": "10.5"
-    }
-  },
-  {
-    "id": "match_10",
-    "date": "2026-03-09",
-    "time": "01:00",
-    "league": "Fas Premier Ligi",
-    "homeTeam": "RSB Berkane",
-    "awayTeam": "Hassan Jdidi",
-    "prediction": {
-      "mainPick": "MS 1",
-      "odds": "1.30",
-      "confidence": 88,
-      "overUnder": "2.5 ALT",
-      "predictedScore": "2-0",
-      "btts": "KG YOK",
-      "corners": "9.5"
-    }
-  },
-  {
-    "id": "match_11",
-    "date": "2026-03-09",
-    "time": "01:00",
-    "league": "Fas Premier Ligi",
-    "homeTeam": "UTS U. Touarga",
-    "awayTeam": "Wydad",
-    "prediction": {
-      "mainPick": "MS 2",
-      "odds": "1.23",
-      "confidence": 90,
-      "overUnder": "2.5 ÜST",
-      "predictedScore": "0-3",
-      "btts": "KG YOK",
-      "corners": "10.5"
-    }
-  },
-  {
-    "id": "match_12",
-    "date": "2026-03-09",
-    "time": "02:00",
-    "league": "Meksika Expansion MX",
-    "homeTeam": "Tepatitlan",
-    "awayTeam": "M.D. Zacatecas",
-    "prediction": {
-      "mainPick": "MS 1",
-      "odds": "1.67",
-      "confidence": 80,
-      "overUnder": "2.5 ÜST",
-      "predictedScore": "2-1",
-      "btts": "KG VAR",
-      "corners": "11.5"
-    }
-  },
-  {
-    "id": "match_13",
-    "date": "2026-03-09",
-    "time": "02:00",
-    "league": "Meksika Expansion MX",
-    "homeTeam": "Tampico Madero",
-    "awayTeam": "CSD D. Sinaloa",
-    "prediction": {
-      "mainPick": "MS 1",
-      "odds": "1.15",
-      "confidence": 94,
-      "overUnder": "2.5 ÜST",
-      "predictedScore": "3-1",
-      "btts": "KG VAR",
-      "corners": "10.5"
-    }
-  },
-  {
-    "id": "match_14",
-    "date": "2026-03-09",
-    "time": "02:00",
-    "league": "Kosta Rika Prmr Lig",
-    "homeTeam": "D. Saprissa",
-    "awayTeam": "CS Herediano",
-    "prediction": {
-      "mainPick": "MS 1",
-      "odds": "1.50",
-      "confidence": 84,
-      "overUnder": "2.5 ÜST",
-      "predictedScore": "2-1",
-      "btts": "KG VAR",
-      "corners": "11.5"
-    }
-  },
-  {
-    "id": "match_15",
-    "date": "2026-03-09",
-    "time": "02:00",
-    "league": "ABD Major Lig (MLS)",
-    "homeTeam": "Cincinnati",
-    "awayTeam": "Toronto",
-    "prediction": {
-      "mainPick": "MS 1",
-      "odds": "1.61",
-      "confidence": 82,
-      "overUnder": "2.5 ÜST",
-      "predictedScore": "3-1",
-      "btts": "KG VAR",
-      "corners": "11.5"
-    }
-  },
-  {
-    "id": "match_16",
-    "date": "2026-03-09",
-    "time": "02:00",
-    "league": "Meksika Prmr Lig",
-    "homeTeam": "D. Toluca",
-    "awayTeam": "Juarez",
-    "prediction": {
-      "mainPick": "MS 1",
-      "odds": "1.16",
-      "confidence": 95,
-      "overUnder": "2.5 ÜST",
-      "predictedScore": "4-1",
-      "btts": "KG VAR",
-      "corners": "10.5"
-    }
-  },
-  {
-    "id": "match_17",
-    "date": "2026-03-09",
-    "time": "02:00",
-    "league": "Uruguay Prmr Lig",
-    "homeTeam": "Defensor Sp.",
-    "awayTeam": "Central Espanol",
-    "prediction": {
-      "mainPick": "MS 1",
-      "odds": "1.68",
-      "confidence": 80,
-      "overUnder": "2.5 ALT",
-      "predictedScore": "2-0",
-      "btts": "KG YOK",
-      "corners": "9.5"
-    }
-  },
-  {
-    "id": "match_18",
-    "date": "2026-03-09",
-    "time": "15:30",
-    "league": "Singapur Premier Lig",
-    "homeTeam": "Hougang Utd",
-    "awayTeam": "Balestier",
-    "prediction": {
-      "mainPick": "KG VAR",
-      "odds": "2.05",
-      "confidence": 72,
-      "overUnder": "3.5 ÜST",
-      "predictedScore": "2-2",
-      "btts": "KG VAR",
-      "corners": "10.5"
-    }
-  },
-  {
-    "id": "match_19",
-    "date": "2026-03-09",
-    "time": "16:00",
-    "league": "Türkiye Süper Lig",
-    "homeTeam": "Eyüpspor",
-    "awayTeam": "Kocaelispor",
-    "prediction": {
-      "mainPick": "MS 2",
-      "odds": "1.90",
-      "confidence": 76,
-      "overUnder": "2.5 ALT",
-      "predictedScore": "0-1",
-      "btts": "KG YOK",
-      "corners": "9.5"
-    }
-  },
-  {
-    "id": "match_20",
-    "date": "2026-03-09",
-    "time": "16:00",
-    "league": "İngiltere Prof. Gelişim Ligi",
-    "homeTeam": "Bournemouth U21",
-    "awayTeam": "Brentford U21",
-    "prediction": {
-      "mainPick": "MS 1",
-      "odds": "1.99",
-      "confidence": 74,
-      "overUnder": "3.5 ÜST",
-      "predictedScore": "3-2",
-      "btts": "KG VAR",
-      "corners": "11.5"
-    }
-  },
-  {
-    "id": "match_21",
-    "date": "2026-03-09",
-    "time": "16:30",
-    "league": "Ukrayna Premier Ligi",
-    "homeTeam": "Rukh Vinnyky",
-    "awayTeam": "Metalist 1925",
-    "prediction": {
-      "mainPick": "MS 2",
-      "odds": "1.62",
-      "confidence": 85,
-      "overUnder": "2.5 ALT",
-      "predictedScore": "0-2",
-      "btts": "KG YOK",
-      "corners": "9.5"
-    }
-  },
-  {
-    "id": "match_22",
-    "date": "2026-03-09",
-    "time": "16:30",
-    "league": "Bulgaristan Parva Ligi",
-    "homeTeam": "Montana 1921",
-    "awayTeam": "Ludogorets",
-    "prediction": {
-      "mainPick": "MS 2",
-      "odds": "1.42",
-      "confidence": 94,
-      "overUnder": "2.5 ÜST",
-      "predictedScore": "0-3",
-      "btts": "KG YOK",
-      "corners": "10.5"
-    }
-  },
-  {
-    "id": "match_23",
-    "date": "2026-03-09",
-    "time": "16:30",
-    "league": "Endonezya 1. Lig",
-    "homeTeam": "Persib Bandung",
-    "awayTeam": "Persik Kediri",
-    "prediction": {
-      "mainPick": "MS 1",
-      "odds": "1.11",
-      "confidence": 98,
-      "overUnder": "3.5 ÜST",
-      "predictedScore": "4-0",
-      "btts": "KG YOK",
-      "corners": "9.5"
-    }
-  },
-  {
-    "id": "match_24",
-    "date": "2026-03-09",
-    "time": "16:30",
-    "league": "Rusya Premier Lig",
-    "homeTeam": "L. Moskova",
-    "awayTeam": "Akhmat Grozny",
-    "prediction": {
-      "mainPick": "MS 1",
-      "odds": "1.62",
-      "confidence": 84,
-      "overUnder": "2.5 ÜST",
-      "predictedScore": "2-1",
-      "btts": "KG VAR",
-      "corners": "10.5"
-    }
-  },
-  {
-    "id": "match_25",
-    "date": "2026-03-09",
-    "time": "17:00",
-    "league": "İtalya Camp. Primavera 1",
-    "homeTeam": "Cesena U20",
-    "awayTeam": "Milan U20",
-    "prediction": {
-      "mainPick": "MS 1",
-      "odds": "2.07",
-      "confidence": 70,
-      "overUnder": "2.5 ÜST",
-      "predictedScore": "2-1",
-      "btts": "KG VAR",
-      "corners": "11.5"
-    }
-  },
-  {
-    "id": "match_26",
-    "date": "2026-03-09",
-    "time": "17:00",
-    "league": "Rusya Ulusal Ligi",
-    "homeTeam": "Arsenal Tula",
-    "awayTeam": "Volga Ulyan.",
-    "prediction": {
-      "mainPick": "MS 1",
-      "odds": "1.74",
-      "confidence": 78,
-      "overUnder": "2.5 ALT",
-      "predictedScore": "2-0",
-      "btts": "KG YOK",
-      "corners": "9.5"
-    }
-  },
-  {
-    "id": "match_27",
-    "date": "2026-03-09",
-    "time": "17:00",
-    "league": "İngiltere Premier Lig 2",
-    "homeTeam": "Birmingham City U21",
-    "awayTeam": "Chelsea U21",
-    "prediction": {
-      "mainPick": "MS 2",
-      "odds": "1.09",
-      "confidence": 96,
-      "overUnder": "3.5 ÜST",
-      "predictedScore": "0-4",
-      "btts": "KG YOK",
-      "corners": "12.5"
-    }
-  },
-  {
-    "id": "match_28",
-    "date": "2026-03-09",
-    "time": "17:30",
-    "league": "Azerbaycan Premier Lig",
-    "homeTeam": "Zira",
-    "awayTeam": "FK Kapaz",
-    "prediction": {
-      "mainPick": "MS 1",
-      "odds": "1.26",
-      "confidence": 91,
-      "overUnder": "2.5 ALT",
-      "predictedScore": "2-0",
-      "btts": "KG YOK",
-      "corners": "8.5"
-    }
-  },
-  {
-    "id": "match_29",
-    "date": "2026-03-09",
-    "time": "18:00",
-    "league": "Etiyopya Premier Lig",
-    "homeTeam": "Dire Dawa Kenema",
-    "awayTeam": "Ethiopia Nigu Bank",
-    "prediction": {
-      "mainPick": "MS 1",
-      "odds": "1.98",
-      "confidence": 72,
-      "overUnder": "2.5 ALT",
-      "predictedScore": "1-0",
-      "btts": "KG YOK",
-      "corners": "9.5"
-    }
-  },
-  {
-    "id": "match_30",
-    "date": "2026-03-09",
-    "time": "18:00",
-    "league": "Etiyopya Premier Lig",
-    "homeTeam": "Ethiopian Insurance",
-    "awayTeam": "Hadiya Hossana",
-    "prediction": {
-      "mainPick": "MS 1",
-      "odds": "2.03",
-      "confidence": 68,
-      "overUnder": "2.5 ALT",
-      "predictedScore": "1-0",
-      "btts": "KG YOK",
-      "corners": "8.5"
-    }
-  },
-  {
-    "id": "match_31",
-    "date": "2026-03-09",
-    "time": "19:00",
-    "league": "Ukrayna Premier Ligi",
-    "homeTeam": "Veres Rivne",
-    "awayTeam": "LNZ Cherkasy",
-    "prediction": {
-      "mainPick": "MS 2",
-      "odds": "1.58",
-      "confidence": 86,
-      "overUnder": "2.5 ALT",
-      "predictedScore": "0-2",
-      "btts": "KG YOK",
-      "corners": "9.5"
-    }
-  },
-  {
-    "id": "match_32",
-    "date": "2026-03-09",
-    "time": "19:00",
-    "league": "Bulgaristan Parva Ligi",
-    "homeTeam": "Levski Sofya",
-    "awayTeam": "Loko Plovdiv",
-    "prediction": {
-      "mainPick": "MS 1",
-      "odds": "1.12",
-      "confidence": 96,
-      "overUnder": "2.5 ÜST",
-      "predictedScore": "3-0",
-      "btts": "KG YOK",
-      "corners": "11.5"
-    }
-  },
-  {
-    "id": "match_33",
-    "date": "2026-03-09",
-    "time": "19:00",
-    "league": "Yunanistan Süper Lig",
-    "homeTeam": "Paneitolikos",
-    "awayTeam": "AE Kifisia",
-    "prediction": {
-      "mainPick": "MS 1",
-      "odds": "2.06",
-      "confidence": 74,
-      "overUnder": "2.5 ALT",
-      "predictedScore": "1-0",
-      "btts": "KG YOK",
-      "corners": "10.5"
-    }
-  },
-  {
-    "id": "match_34",
-    "date": "2026-03-09",
-    "time": "19:00",
-    "league": "Rusya Premier Lig",
-    "homeTeam": "S. Moskova",
-    "awayTeam": "Akron Tolyatti",
-    "prediction": {
-      "mainPick": "MS 1",
-      "odds": "1.22",
-      "confidence": 92,
-      "overUnder": "2.5 ÜST",
-      "predictedScore": "3-1",
-      "btts": "KG VAR",
-      "corners": "11.5"
-    }
-  },
-  {
-    "id": "match_35",
-    "date": "2026-03-09",
-    "time": "19:30",
-    "league": "Azerbaycan Premier Lig",
-    "homeTeam": "Neftçi",
-    "awayTeam": "Turan Tovuz",
-    "prediction": {
-      "mainPick": "MS 1",
-      "odds": "2.02",
-      "confidence": 75,
-      "overUnder": "2.5 ALT",
-      "predictedScore": "2-0",
-      "btts": "KG YOK",
-      "corners": "9.5"
-    }
-  }
-]
+  ]
+}
