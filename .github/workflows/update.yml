@@ -1,26 +1,26 @@
-name: Daily AI Update
+name: Daily AI Prediction Automation
 
 on:
   schedule:
-    - cron: '0 0 * * *' # her gün UTC 00:00'da çalışır
-  workflow_dispatch: # manuel tetikleme için
+    - cron: '0 01 * * *'  # UTC 01:00'de çalışır
+  workflow_dispatch:
 
 jobs:
-  update_predictions:
+  run:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
       - name: Install dependencies
-        run: pip install -r requirements.txt
-      - name: Generate predictions
+        run: pip install requests beautifulsoup4
+      - name: Generate Predictions
         run: python automation/generate_predictions.py
-      - name: Update match results
+      - name: Update Results
         run: python automation/update_results.py
-      - name: Commit changes
+      - name: Commit & Push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
