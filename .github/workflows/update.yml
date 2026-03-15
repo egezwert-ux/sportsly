@@ -1,0 +1,29 @@
+name: Daily AI Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # her gün UTC 00:00'da çalışır
+  workflow_dispatch: # manuel tetikleme için
+
+jobs:
+  update_predictions:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Generate predictions
+        run: python automation/generate_predictions.py
+      - name: Update match results
+        run: python automation/update_results.py
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add docs/predictions.json
+          git commit -m "Daily AI predictions update" || echo "No changes"
+          git push
