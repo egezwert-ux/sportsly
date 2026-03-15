@@ -1,29 +1,37 @@
-name: Daily AI Prediction Automation
+name: Matchly AI Automation
 
 on:
   schedule:
-    - cron: '0 01 * * *'  # UTC 01:00'de çalışır
+    - cron: '0 1 * * *'
   workflow_dispatch:
 
 jobs:
   run:
     runs-on: ubuntu-latest
+
     steps:
+
       - uses: actions/checkout@v3
+
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.11'
-      - name: Install dependencies
-        run: pip install requests beautifulsoup4
-      - name: Generate Predictions
-        run: python automation/generate_predictions.py
-      - name: Update Results
-        run: python automation/update_results.py
-      - name: Commit & Push
+          python-version: "3.11"
+
+      - name: Install libs
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          pip install requests beautifulsoup4
+
+      - name: Generate predictions
+        run: python automation/generate_predictions.py
+
+      - name: Update results
+        run: python automation/update_results.py
+
+      - name: Commit update
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "github-actions"
           git add docs/predictions.json
-          git commit -m "Daily AI predictions update" || echo "No changes"
+          git commit -m "Daily AI predictions update" || echo "No change"
           git push
