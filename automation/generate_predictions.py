@@ -4,7 +4,7 @@ from datetime import datetime
 from helpers import fetch_today_fixtures, parse_fixture
 
 AI_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent"
-AI_KEY = "YOUR_GEMINI_API_KEY"
+AI_KEY = "AIzaSyCNJU1rEO-z2ssxgWEYCOWsjoboi1lmyos"
 
 JSON_PATH = "docs/predictions.json"
 
