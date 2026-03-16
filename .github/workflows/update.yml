@@ -2,7 +2,8 @@ name: Daily AI Prediction Automation
 
 on:
   schedule:
-    - cron: '13 13 * * *' # UTC 13:13 -> Türkiye saati 16:13
+    # 01:30 UTC = 04:30 Türkiye saati
+    - cron: '30 01 * * *'
   workflow_dispatch:
 
 jobs:
@@ -10,18 +11,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
+
       - name: Install dependencies
         run: pip install requests
+
       - name: Generate Predictions
         env:
           GEMINI_KEY: ${{ secrets.GEMINI_KEY }}
-        run: python generate_predictions.py
+        run: python automation/generate_predictions.py
+
       - name: Update Results
-        run: python update_results.py
+        run: python automation/update_results.py
+
       - name: Commit & Push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
