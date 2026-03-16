@@ -1,48 +1,25 @@
-import json
 import os
-import requests
+import json
 from datetime import datetime
 from helpers import fetch_today_fixtures
+import requests
 
 JSON_PATH = "docs/predictions.json"
-AI_KEY = os.getenv("GEMINI_KEY")  # GitHub secret
-
+GEMINI_KEY = os.getenv("GEMINI_KEY")
 AI_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent"
 
 def ai_predict(home, away):
-    if not AI_KEY:
-        print("GEMINI_KEY missing, returning dummy prediction")
-        return {
-            "mainPick": "MS X",
-            "odds": "2.5",
-            "confidence": 50,
-            "predictedScore": "1-1",
-            "btts": "KG VAR",
-            "corners": "8.5 ALT",
-            "cards": "2+",
-            "htFt": "0-0",
-            "analysis": "Dummy prediction since AI key is missing"
-        }
     prompt = f"Predict for {home} vs {away} in JSON with mainPick, odds, confidence, predictedScore, btts, corners, cards, htFt, analysis"
     payload = {"contents":[{"parts":[{"text": prompt}]}]}
-    headers = {"Authorization": f"Bearer {AI_KEY}"}
+    headers = {"Authorization": f"Bearer {GEMINI_KEY}"}
     try:
-        r = requests.post(AI_URL, json=payload, headers=headers)
+        r = requests.post(AI_URL, json=payload, headers=headers, timeout=15)
+        r.raise_for_status()
         text = r.json()["candidates"][0]["content"]["parts"][0]["text"]
         return json.loads(text)
-    except Exception as ex:
-        print("AI prediction error:", ex)
-        return {
-            "mainPick": "MS X",
-            "odds": "2.5",
-            "confidence": 50,
-            "predictedScore": "1-1",
-            "btts": "KG VAR",
-            "corners": "8.5 ALT",
-            "cards": "2+",
-            "htFt": "0-0",
-            "analysis": "AI error, dummy prediction"
-        }
+    except Exception as e:
+        print("AI prediction failed:", e)
+        return {}
 
 def generate_predictions():
     fixtures = fetch_today_fixtures()
@@ -61,8 +38,7 @@ def generate_predictions():
             "vip": False,
             "adUnlock": True
         })
-    os.makedirs("docs", exist_ok=True)
-    with open(JSON_PATH, "w", encoding="utf-8") as f:
+    with open(JSON_PATH, "w") as f:
         json.dump({"lastUpdated": str(datetime.utcnow()), "matches": predictions}, f, indent=4)
 
 if __name__ == "__main__":
