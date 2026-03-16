@@ -1,31 +1,38 @@
-name: Daily AI Prediction Automation
+name: Update Predictions
 
 on:
   schedule:
-    - cron: '30 1 * * *' # UTC 01:30 -> Türkiye saati ile 04:30
+    # Türkiye saati ile 04:30 (UTC+3 → cron "30 1 * * *")
+    - cron: "30 1 * * *"
   workflow_dispatch:
 
 jobs:
-  run:
+  update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.11'
+          python-version: 3.11
+
       - name: Install dependencies
-        run: pip install requests
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: Ensure predictions.json exists
+        run: |
+          mkdir -p docs
+          if [ ! -f docs/predictions.json ]; then
+            echo "{}" > docs/predictions.json
+          fi
+
       - name: Generate Predictions
-        run: python automation/generate_predictions.py
+        run: python generate_predictions.py
         env:
           GEMINI_KEY: ${{ secrets.GEMINI_KEY }}
+
       - name: Update Results
-        run: python automation/update_results.py
-      - name: Commit & Push
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add docs/predictions.json
-          git commit -m "Daily AI predictions update" || echo "No changes"
-          git push
+        run: python update_results.py
