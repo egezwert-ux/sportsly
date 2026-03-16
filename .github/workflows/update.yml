@@ -1,10 +1,9 @@
-# .github/workflows/update.yml
 name: Daily AI Prediction Automation
 
 on:
   schedule:
-    # Türkiye saati UTC+3 → 04:15 TRT = 01:15 UTC
-    - cron: '15 1 * * *'
+    # 01:30 UTC = 04:30 Türkiye saati
+    - cron: '30 01 * * *'
   workflow_dispatch:
 
 jobs:
@@ -19,17 +18,12 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4
-
-      - name: Set GEMINI_KEY secret
-        env:
-          GEMINI_KEY: ${{ secrets.GEMINI_KEY }}
-        run: echo "Gemini key ready"
+        run: pip install requests
 
       - name: Generate Predictions
-        run: python automation/generate_predictions.py
         env:
           GEMINI_KEY: ${{ secrets.GEMINI_KEY }}
+        run: python automation/generate_predictions.py
 
       - name: Update Results
         run: python automation/update_results.py
