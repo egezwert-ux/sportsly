@@ -1,1 +1,115 @@
 
+{
+  "fixtures": [
+    {
+      "id": 1,
+      "date": "2026-03-25",
+      "league": "Premier League",
+      "homeTeam": "Chelsea",
+      "awayTeam": "Arsenal",
+      "predictedScore": "2-1",
+      "mainPick": "Home Win",
+      "overUnder2_5": "Over",
+      "BTTS": "Yes"
+    },
+    {
+      "id": 2,
+      "date": "2026-03-25",
+      "league": "La Liga",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Barcelona",
+      "predictedScore": "1-1",
+      "mainPick": "Draw",
+      "overUnder2_5": "Under",
+      "BTTS": "Yes"
+    },
+    {
+      "id": 3,
+      "date": "2026-03-25",
+      "league": "Serie A",
+      "homeTeam": "Juventus",
+      "awayTeam": "AC Milan",
+      "predictedScore": "2-2",
+      "mainPick": "Draw",
+      "overUnder2_5": "Over",
+      "BTTS": "Yes"
+    },
+    {
+      "id": 4,
+      "date": "2026-03-25",
+      "league": "Bundesliga",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Borussia Dortmund",
+      "predictedScore": "3-1",
+      "mainPick": "Home Win",
+      "overUnder2_5": "Over",
+      "BTTS": "No"
+    },
+    {
+      "id": 5,
+      "date": "2026-03-25",
+      "league": "Ligue 1",
+      "homeTeam": "Paris Saint-Germain",
+      "awayTeam": "Marseille",
+      "predictedScore": "2-0",
+      "mainPick": "Home Win",
+      "overUnder2_5": "Under",
+      "BTTS": "No"
+    },
+    {
+      "id": 6,
+      "date": "2026-03-25",
+      "league": "Premier League",
+      "homeTeam": "Manchester City",
+      "awayTeam": "Liverpool",
+      "predictedScore": "2-2",
+      "mainPick": "Draw",
+      "overUnder2_5": "Over",
+      "BTTS": "Yes"
+    },
+    {
+      "id": 7,
+      "date": "2026-03-25",
+      "league": "La Liga",
+      "homeTeam": "Atletico Madrid",
+      "awayTeam": "Sevilla",
+      "predictedScore": "1-0",
+      "mainPick": "Home Win",
+      "overUnder2_5": "Under",
+      "BTTS": "No"
+    },
+    {
+      "id": 8,
+      "date": "2026-03-25",
+      "league": "Serie A",
+      "homeTeam": "Inter Milan",
+      "awayTeam": "Napoli",
+      "predictedScore": "1-2",
+      "mainPick": "Away Win",
+      "overUnder2_5": "Under",
+      "BTTS": "Yes"
+    },
+    {
+      "id": 9,
+      "date": "2026-03-25",
+      "league": "Bundesliga",
+      "homeTeam": "RB Leipzig",
+      "awayTeam": "Schalke 04",
+      "predictedScore": "3-0",
+      "mainPick": "Home Win",
+      "overUnder2_5": "Over",
+      "BTTS": "No"
+    },
+    {
+      "id": 10,
+      "date": "2026-03-25",
+      "league": "Ligue 1",
+      "homeTeam": "Lyon",
+      "awayTeam": "Nice",
+      "predictedScore": "2-1",
+      "mainPick": "Home Win",
+      "overUnder2_5": "Over",
+      "BTTS": "Yes"
+    }
+  ]
+}
