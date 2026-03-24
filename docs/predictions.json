@@ -1,244 +1,75 @@
 {
-  "lastUpdated": "2026-03-09 01:11",
-  "summary": "The daily bulletin has been fully updated. We have published 65 reliable analyses from all major leagues with high-precision corner and score predictions!",
+  "lastUpdated": "2026-03-26T10:00:00Z",
+  "summary": "Matchly AI: Today's focus is on High-Value Card & Corner markets.",
   "matches": [
     {
-      "id": "match_01",
-      "date": "2026-03-09",
-      "time": "00:00",
-      "league": "El Salvador Primera Division",
-      "homeTeam": "C.D. Cacahuatique",
-      "awayTeam": "Municipal L.",
-      "prediction": {
-        "mainPick": "MS X",
-        "odds": "2.66",
-        "confidence": 62,
-        "overUnder": "2.5 ALT",
-        "predictedScore": "1-1",
-        "btts": "KG VAR",
-        "corners": "8.5 ALT"
-      }
-    },
-    {
-      "id": "match_02",
-      "date": "2026-03-09",
-      "time": "00:00",
-      "league": "Honduras Ulusal Ligi",
-      "homeTeam": "CD Victoria",
-      "awayTeam": "Genesis PN",
-      "prediction": {
-        "mainPick": "MS 1",
-        "odds": "1.79",
-        "confidence": 75,
-        "overUnder": "2.5 ALT",
-        "predictedScore": "1-0",
-        "btts": "KG YOK",
-        "corners": "9.5 ALT"
-      }
-    },
-    {
-      "id": "match_03",
-      "date": "2026-03-09",
-      "time": "02:00",
-      "league": "Meksika Expansion MX",
-      "homeTeam": "Tampico Madero",
-      "awayTeam": "CSD D. Sinaloa",
-      "prediction": {
-        "mainPick": "MS 1",
-        "odds": "1.15",
-        "confidence": 94,
-        "overUnder": "2.5 ÜST",
-        "predictedScore": "3-1",
-        "btts": "KG VAR",
-        "corners": "10.5 ÜST"
-      }
-    },
-    {
-      "id": "match_04",
-      "date": "2026-03-09",
-      "time": "15:30",
-      "league": "Singapur Premier Lig",
-      "homeTeam": "Hougang Utd",
-      "awayTeam": "Balestier",
-      "prediction": {
-        "mainPick": "KG VAR",
-        "odds": "1.48",
-        "confidence": 88,
-        "overUnder": "3.5 ÜST",
-        "predictedScore": "2-3",
-        "btts": "KG VAR",
-        "corners": "11.5 ÜST"
-      }
-    },
-    {
-      "id": "match_05",
-      "date": "2026-03-09",
-      "time": "16:00",
-      "league": "Türkiye Süper Lig",
-      "homeTeam": "Eyüpspor",
-      "awayTeam": "Kocaelispor",
-      "prediction": {
-        "mainPick": "MS 1",
-        "odds": "1.82",
-        "confidence": 76,
-        "overUnder": "2.5 ALT",
-        "predictedScore": "1-0",
-        "btts": "KG YOK",
-        "corners": "9.5 ALT"
-      }
-    },
-    {
-      "id": "match_06",
-      "date": "2026-03-09",
-      "time": "16:30",
-      "league": "Rusya Premier Lig",
-      "homeTeam": "L. Moskova",
-      "awayTeam": "Akhmat Grozny",
-      "prediction": {
-        "mainPick": "MS 1",
-        "odds": "1.65",
-        "confidence": 84,
-        "overUnder": "2.5 ÜST",
-        "predictedScore": "2-1",
-        "btts": "KG VAR",
-        "corners": "10.5 ÜST"
-      }
-    },
-    {
-      "id": "match_07",
-      "date": "2026-03-09",
-      "time": "17:30",
-      "league": "Azerbaycan Premier Lig",
-      "homeTeam": "Zira",
-      "awayTeam": "FK Kapaz",
-      "prediction": {
-        "mainPick": "MS 1",
-        "odds": "1.26",
-        "confidence": 91,
-        "overUnder": "2.5 ALT",
-        "predictedScore": "2-0",
-        "btts": "KG YOK",
-        "corners": "8.5 ALT"
-      }
-    },
-    {
-      "id": "match_08",
-      "date": "2026-03-09",
-      "time": "19:00",
-      "league": "Bulgaristan Parva Ligi",
-      "homeTeam": "Levski Sofya",
-      "awayTeam": "Loko Plovdiv",
-      "prediction": {
-        "mainPick": "MS 1",
-        "odds": "1.52",
-        "confidence": 89,
-        "overUnder": "2.5 ÜST",
-        "predictedScore": "3-0",
-        "btts": "KG YOK",
-        "corners": "10.5 ÜST"
-      }
-    },
-    {
-      "id": "match_09",
-      "date": "2026-03-09",
-      "time": "20:00",
-      "league": "Türkiye Süper Lig",
-      "homeTeam": "Kayserispor",
-      "awayTeam": "Trabzonspor",
-      "prediction": {
-        "mainPick": "MS 2",
-        "odds": "2.12",
-        "confidence": 72,
-        "overUnder": "2.5 ÜST",
-        "predictedScore": "1-2",
-        "btts": "KG VAR",
-        "corners": "10.5 ÜST"
-      }
-    },
-    {
-      "id": "match_10",
-      "date": "2026-03-09",
+      "id": "match_2026_001",
+      "league": "Champions League",
+      "homeTeam": "Manchester City",
+      "awayTeam": "Real Madrid",
+      "date": "2026-03-26",
       "time": "21:00",
-      "league": "Romanya 1. Lig",
-      "homeTeam": "CFR Cluj",
-      "awayTeam": "Dinamo Bükreş",
       "prediction": {
-        "mainPick": "MS 1",
-        "odds": "1.45",
-        "confidence": 92,
-        "overUnder": "2.5 ÜST",
-        "predictedScore": "3-1",
-        "btts": "KG VAR",
-        "corners": "10.5 ÜST"
-      }
+        "mainPick": "Home Win",
+        "odds": "1.72",
+        "overUnder": "2.5 Over",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "corners": "10.5 Over",
+        "cards": "3.5 Over",
+        "confidence": 88
+      },
+      "analysis": "A high-stakes tactical battle. City's home advantage is key, but Madrid's counter-attacks are lethal.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": false,
+      "isDailyPick": true
     },
     {
-      "id": "match_11",
-      "date": "2026-03-09",
-      "time": "22:00",
-      "league": "Hollanda 1. Lig",
-      "homeTeam": "Jong AZ Alkmaar",
-      "awayTeam": "Emmen",
+      "id": "match_2026_002",
+      "league": "Premier League",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Liverpool",
+      "date": "2026-03-26",
+      "time": "19:30",
       "prediction": {
-        "mainPick": "KG VAR",
+        "mainPick": "Draw or Away",
         "odds": "1.65",
-        "confidence": 82,
-        "overUnder": "3.5 ÜST",
-        "predictedScore": "2-2",
-        "btts": "KG VAR",
-        "corners": "11.5 ÜST"
-      }
+        "overUnder": "3.5 Under",
+        "btts": "Yes",
+        "predictedScore": "1-1",
+        "corners": "9.5 Under",
+        "cards": "4.5 Over",
+        "confidence": 74
+      },
+      "analysis": "Both teams are struggling with mid-week fatigue. Expect a physical game with many cards.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     },
     {
-      "id": "match_12",
-      "date": "2026-03-09",
-      "time": "22:30",
-      "league": "İngiltere FA Cup",
-      "homeTeam": "West Ham",
-      "awayTeam": "Brentford",
+      "id": "match_2026_003",
+      "league": "La Liga",
+      "homeTeam": "Barcelona",
+      "awayTeam": "Atletico Madrid",
+      "date": "2026-03-27",
+      "time": "22:00",
       "prediction": {
-        "mainPick": "MS 2",
-        "odds": "2.40",
-        "confidence": 68,
-        "overUnder": "2.5 ÜST",
-        "predictedScore": "1-2",
-        "btts": "KG VAR",
-        "corners": "10.5 ÜST"
-      }
-    },
-    {
-      "id": "match_13",
-      "date": "2026-03-09",
-      "time": "22:45",
-      "league": "İtalya Serie A",
-      "homeTeam": "Lazio",
-      "awayTeam": "Sassuolo",
-      "prediction": {
-        "mainPick": "MS 1",
-        "odds": "1.95",
-        "confidence": 76,
-        "overUnder": "2.5 ALT",
-        "predictedScore": "2-0",
-        "btts": "KG YOK",
-        "corners": "10.5 ALT"
-      }
-    },
-    {
-      "id": "match_14",
-      "date": "2026-03-09",
-      "time": "23:00",
-      "league": "İspanya La Liga",
-      "homeTeam": "Espanyol",
-      "awayTeam": "Real Oviedo",
-      "prediction": {
-        "mainPick": "MS 1",
+        "mainPick": "Home Over 1.5 Goals",
         "odds": "1.80",
-        "confidence": 80,
-        "overUnder": "2.5 ALT",
-        "predictedScore": "1-0",
-        "btts": "KG YOK",
-        "corners": "9.5 ALT"
-      }
+        "overUnder": "2.5 Over",
+        "btts": "No",
+        "predictedScore": "2-0",
+        "corners": "11.5 Over",
+        "cards": "5.5 Over",
+        "confidence": 82
+      },
+      "analysis": "Barcelona's young squad is peaking. Atletico will defend deep, leading to high corner counts.",
+      "result": "pending",
+      "vip": true,
+      "adUnlock": false,
+      "isDailyPick": false
     }
   ]
 }
