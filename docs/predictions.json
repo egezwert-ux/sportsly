@@ -459,7 +459,7 @@
         "confidence": 62
       },
       "analysis": "Bristol City edge it at home in this youth development match.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -480,7 +480,7 @@
         "confidence": 70
       },
       "analysis": "Tajikistan favored at home against Philippines.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -501,7 +501,7 @@
         "confidence": 74
       },
       "analysis": "Eswatini are favorites in this qualifier.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -522,7 +522,7 @@
         "confidence": 60
       },
       "analysis": "Evenly matched. Draw with BTTS is a realistic outcome.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -543,7 +543,7 @@
         "confidence": 68
       },
       "analysis": "Ukraine U21 slight favorites in this youth qualifier.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -564,7 +564,7 @@
         "confidence": 80
       },
       "analysis": "Germany U19 are strong favorites and expected to win comfortably.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -585,7 +585,7 @@
         "confidence": 85
       },
       "analysis": "Romania heavy favorites against weak San Marino.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -606,7 +606,7 @@
         "confidence": 78
       },
       "analysis": "Denmark strong favorites at home.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -627,7 +627,7 @@
         "confidence": 75
       },
       "analysis": "Germany U21 clear favorites.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -648,7 +648,7 @@
         "confidence": 83
       },
       "analysis": "Bulgaria heavy favorites.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -669,7 +669,7 @@
         "confidence": 79
       },
       "analysis": "Austria strong favorites at home.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -682,7 +682,7 @@
       "date": "2026-03-31",
       "time": "20:00",
       "prediction": {
-        "mainPick": "Home Win",
+        "mainPick": "Draw",
         "odds": "2.44",
         "overUnder": "Over 2.5",
         "btts": "Yes",
@@ -690,7 +690,7 @@
         "confidence": 61
       },
       "analysis": "Mirandes slight favorites at home in this Segunda match.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -703,15 +703,15 @@
       "date": "2026-03-31",
       "time": "20:00",
       "prediction": {
-        "mainPick": "Home Win",
+        "mainPick": "Draw",
         "odds": "2.09",
-        "overUnder": "Over 2.5",
+        "overUnder": "Under 2.5",
         "btts": "Yes",
         "predictedScore": "2-1",
         "confidence": 66
       },
       "analysis": "Hungary slight favorites in friendly.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -732,7 +732,7 @@
         "confidence": 57
       },
       "analysis": "Very even game. Low-scoring draw possible.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -753,7 +753,7 @@
         "confidence": 88
       },
       "analysis": "Switzerland massive favorites.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -774,7 +774,7 @@
         "confidence": 90
       },
       "analysis": "England expected to win comfortably.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -795,7 +795,7 @@
         "confidence": 69
       },
       "analysis": "La Coruna favorites at home.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -837,7 +837,7 @@
         "confidence": 74
       },
       "analysis": "Turkey are favorites to win this playoff.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -858,7 +858,7 @@
         "confidence": 82
       },
       "analysis": "Italy strong favorites.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -879,7 +879,7 @@
         "confidence": 67
       },
       "analysis": "Denmark slight favorites in this playoff.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -900,7 +900,7 @@
         "confidence": 76
       },
       "analysis": "England strong favorites at home.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -913,7 +913,7 @@
       "date": "2026-03-31",
       "time": "21:45",
       "prediction": {
-        "mainPick": "Home Win",
+        "mainPick": "Draw",
         "odds": "1.38",
         "overUnder": "Over 2.5",
         "btts": "Yes",
@@ -921,7 +921,7 @@
         "confidence": 73
       },
       "analysis": "Netherlands clear favorites.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
