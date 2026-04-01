@@ -925,6 +925,425 @@
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
+    },
+    {
+      {
+      "id": "m65",
+      "league": "Australia NPL Northern NSW / Southern NSW",
+      "homeTeam": "Newcastle Olympic",
+      "awayTeam": "Adamstown Rosebuds",
+      "date": "2026-04-01",
+      "time": "12:00",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.62",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 72
+      },
+      "analysis": "Newcastle evinde çok etkili ve favori. Adamstown deplasmanda gol buluyor ama savunma zayıf. Ev galibiyeti + karşılıklı gol ve 2.5 üstü mantıklı.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m66",
+      "league": "Japan J1 League East",
+      "homeTeam": "Machida Zelvia",
+      "awayTeam": "Tokyo",
+      "date": "2026-04-01",
+      "time": "13:00",
+      "prediction": {
+        "mainPick": "Draw",
+        "odds": "2.70",
+        "overUnder": "Under 2.5",
+        "btts": "Yes",
+        "predictedScore": "1-1",
+        "confidence": 65
+      },
+      "analysis": "Dengeli J1 maçı. Machida evinde sağlam, Tokyo deplasmanda zorlanmıyor. 2.5 altı ve beraberlik en olası sonuç.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m67",
+      "league": "Japan J1 League West",
+      "homeTeam": "Vissel Kobe",
+      "awayTeam": "Shimizu S-Pulse",
+      "date": "2026-04-01",
+      "time": "13:00",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.65",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 71
+      },
+      "analysis": "Vissel Kobe evinde çok güçlü ve favori. Shimizu kontrada tehlikeli. Ev galibiyeti + karşılıklı gol ve 2.5 üstü bekleniyor.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m68",
+      "league": "Kenya Premier League",
+      "homeTeam": "Nairobi United",
+      "awayTeam": "Mara Sugar",
+      "date": "2026-04-01",
+      "time": "15:00",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.92",
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "predictedScore": "1-0",
+        "confidence": 63
+      },
+      "analysis": "Nairobi evinde favori. Mara Sugar deplasmanda zorlanıyor. Düşük skorlu ev galibiyeti en mantıklı.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m69",
+      "league": "Tanzania Premier League",
+      "homeTeam": "Black Star",
+      "awayTeam": "Azam FC",
+      "date": "2026-04-01",
+      "time": "16:00",
+      "prediction": {
+        "mainPick": "Away Win",
+        "odds": "2.06",
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "predictedScore": "0-1",
+        "confidence": 64
+      },
+      "analysis": "Azam ligin güçlü takımlarından ve deplasmanda etkili. Black Star evinde direnir ama Azam dar galibiyet alır.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m70",
+      "league": "South Africa Championship",
+      "homeTeam": "Black Leopards",
+      "awayTeam": "Upington City",
+      "date": "2026-04-01",
+      "time": "16:00",
+      "prediction": {
+        "mainPick": "Draw",
+        "odds": "2.54",
+        "overUnder": "Under 2.5",
+        "btts": "Yes",
+        "predictedScore": "1-1",
+        "confidence": 60
+      },
+      "analysis": "İki orta sıra takımı arasında dengeli maç. Her iki taraf da temkinli oynar, 1-1 beraberlik ve karşılıklı gol olası.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m71",
+      "league": "Portugal U23 Championship Relegation Playoff",
+      "homeTeam": "CS Maritimo U23",
+      "awayTeam": "Vizela U23",
+      "date": "2026-04-01",
+      "time": "17:00",
+      "prediction": {
+        "mainPick": "Away Win",
+        "odds": "1.91",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "1-2",
+        "confidence": 68
+      },
+      "analysis": "Vizela U23 daha formda ve deplasmanda etkili. Maritimo genç takımda zorlanıyor. Deplasman galibiyeti + gollü maç.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m72",
+      "league": "Algeria Ligue 2 Centre-West",
+      "homeTeam": "ESM Kolea",
+      "awayTeam": "Bechar Djedid",
+      "date": "2026-04-01",
+      "time": "17:00",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.10",
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "predictedScore": "1-0",
+        "confidence": 82
+      },
+      "analysis": "ESM Kolea çok güçlü favori. Bechar Djedid deplasmanda zayıf. Temiz, düşük skorlu ev galibiyeti.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m73",
+      "league": "Algeria Ligue 1",
+      "homeTeam": "Paradou AC",
+      "awayTeam": "CR Belouizdad",
+      "date": "2026-04-01",
+      "time": "17:00",
+      "prediction": {
+        "mainPick": "Away Win",
+        "odds": "1.70",
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "predictedScore": "0-1",
+        "confidence": 70
+      },
+      "analysis": "Belouizdad ligin üst sıralarında ve deplasmanda etkili. Paradou evinde direnir ama Belouizdad dar galibiyet alır.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m74",
+      "league": "Algeria Ligue 1",
+      "homeTeam": "MC Alger",
+      "awayTeam": "USM Alger",
+      "date": "2026-04-01",
+      "time": "18:00",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.59",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 67
+      },
+      "analysis": "MC Alger evinde derbi havasında güçlü. USM Alger kontrada tehlikeli. Ev galibiyeti + karşılıklı gol ve 2.5 üstü.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m75",
+      "league": "Algeria Ligue 1",
+      "homeTeam": "JS Kabylie",
+      "awayTeam": "Ben Aknoun",
+      "date": "2026-04-01",
+      "time": "18:00",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.41",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 73
+      },
+      "analysis": "Kabylie evinde favori ve formda. Ben Aknoun deplasmanda gol buluyor. Ev galibiyeti + karşılıklı gol.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m76",
+      "league": "Finland Ykkönen (2. Lig)",
+      "homeTeam": "KTP Kotka",
+      "awayTeam": "FC Haka",
+      "date": "2026-04-01",
+      "time": "18:30",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.97",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 64
+      },
+      "analysis": "KTP evinde etkili. Haka deplasmanda açık oynuyor. Gollü ev galibiyeti bekleniyor.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m77",
+      "league": "Denmark 3. Division",
+      "homeTeam": "Horsholm Usserod IK",
+      "awayTeam": "Bronshoj",
+      "date": "2026-04-01",
+      "time": "19:30",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "2.08",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 62
+      },
+      "analysis": "Horsholm evinde favori. Bronshoj deplasmanda gol yiyor. Ev galibiyeti + karşılıklı gol.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m78",
+      "league": "Russia National League",
+      "homeTeam": "Neftekhimik",
+      "awayTeam": "Fakel Voronezh",
+      "date": "2026-04-01",
+      "time": "19:30",
+      "prediction": {
+        "mainPick": "Draw",
+        "odds": "2.67",
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "predictedScore": "0-0",
+        "confidence": 61
+      },
+      "analysis": "İki dengeli takım. Fakel deplasmanda kapalı oynuyor. Düşük skorlu beraberlik en olası.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m79",
+      "league": "UEFA Women's Champions League",
+      "homeTeam": "Bayern Munich Women",
+      "awayTeam": "Manchester United Women",
+      "date": "2026-04-01",
+      "time": "19:45",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.25",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "3-1",
+        "confidence": 80
+      },
+      "analysis": "Bayern evinde çok güçlü favori. Man Utd gol atabilir ama Bayern net galip gelir ve 2.5 üstü olur.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m80",
+      "league": "Switzerland Promotion League",
+      "homeTeam": "Vevey Sports 05",
+      "awayTeam": "SC Cham",
+      "date": "2026-04-01",
+      "time": "20:00",
+      "prediction": {
+        "mainPick": "Away Win",
+        "odds": "1.17",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "1-3",
+        "confidence": 78
+      },
+      "analysis": "SC Cham net favori. Vevey evinde direnir ama Cham rahat galip gelir ve gollü maç olur.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m81",
+      "league": "Denmark 2. Division",
+      "homeTeam": "Hellerup IK",
+      "awayTeam": "Ishoej IF",
+      "date": "2026-04-01",
+      "time": "20:00",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.95",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 66
+      },
+      "analysis": "Hellerup evinde etkili. Ishoej deplasmanda açık oynuyor. Ev galibiyeti + karşılıklı gol.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m82",
+      "league": "Denmark 2. Division",
+      "homeTeam": "Fremad Amager",
+      "awayTeam": "Thisted FC",
+      "date": "2026-04-01",
+      "time": "20:00",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.80",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 68
+      },
+      "analysis": "Fremad Amager evinde favori. Thisted deplasmanda gol yiyor. Gollü ev galibiyeti.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m83",
+      "league": "Spain Segunda Division",
+      "homeTeam": "Andorra",
+      "awayTeam": "Malaga",
+      "date": "2026-04-01",
+      "time": "20:00",
+      "prediction": {
+        "mainPick": "Draw",
+        "odds": "2.98",
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "predictedScore": "0-0",
+        "confidence": 64
+      },
+      "analysis": "Dengeli Segunda maçı. Her iki takım da temkinli. Düşük skorlu beraberlik en olası.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m84",
+      "league": "Germany Regionalliga North",
+      "homeTeam": "Eintracht Norderstedt",
+      "awayTeam": "Phönix Lübeck",
+      "date": "2026-04-01",
+      "time": "20:00",
+      "prediction": {
+        "mainPick": "Away Win",
+        "odds": "1.75",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "1-2",
+        "confidence": 67
+      },
+      "analysis": "Phönix Lübeck deplasmanda etkili. Norderstedt evinde direnir ama Phönix dar galibiyet alır ve maç gollü geçer.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     }
-  ]
-}
