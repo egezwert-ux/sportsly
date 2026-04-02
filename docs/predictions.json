@@ -1765,8 +1765,239 @@
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
+    },
+    {
+      "id": "m123",
+      "league": "Spain Segunda Division",
+      "homeTeam": "Real Sociedad B",
+      "awayTeam": "Eibar",
+      "date": "2026-04-01",
+      "time": "21:00",
+      "prediction": {
+        "mainPick": "Draw",
+        "odds": "2.77",
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "predictedScore": "0-0",
+        "confidence": 67
+      },
+      "analysis": "Two mid-table sides with similar quality. Both tend to play cautiously. A low-scoring draw is the most probable result.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m124",
+      "league": "Spain Segunda Division",
+      "homeTeam": "Castellon",
+      "awayTeam": "Almeria",
+      "date": "2026-04-01",
+      "time": "21:00",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "2.06",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 69
+      },
+      "analysis": "Castellon are in good attacking form at home. Almeria are dangerous on the counter but leaky defensively. Expect goals at both ends.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m125",
+      "league": "Argentina Primera Division",
+      "homeTeam": "Barracas Central",
+      "awayTeam": "CA Sarmiento",
+      "date": "2026-04-01",
+      "time": "21:00",
+      "prediction": {
+        "mainPick": "Under 2.5",
+        "odds": "1.19",
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "predictedScore": "1-0",
+        "confidence": 70
+      },
+      "analysis": "Barracas are very difficult to break down at home. Sarmiento struggle to create chances away. Expect a tight, low-scoring home win.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m126",
+      "league": "England League One",
+      "homeTeam": "Wigan Athletic",
+      "awayTeam": "Leyton Orient",
+      "date": "2026-04-01",
+      "time": "21:45",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.97",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 68
+      },
+      "analysis": "Wigan have a strong home record. Leyton Orient are dangerous on the counter but concede regularly away. Home win with both teams scoring is likely.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m127",
+      "league": "England Northern Premier League",
+      "homeTeam": "Cleethorpes",
+      "awayTeam": "Stocksbridge Park Steels",
+      "date": "2026-04-01",
+      "time": "21:45",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.62",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 66
+      },
+      "analysis": "Both teams play open football in this lower-league clash. Expect an entertaining match with goals at both ends.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m128",
+      "league": "England League Two",
+      "homeTeam": "Cambridge United",
+      "awayTeam": "Swindon Town",
+      "date": "2026-04-01",
+      "time": "22:00",
+      "prediction": {
+        "mainPick": "BTTS Yes",
+        "odds": "1.74",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "1-2",
+        "confidence": 67
+      },
+      "analysis": "Both teams have shown they can score and concede recently. Swindon are in good attacking form while Cambridge are leaky at home. Expect goals at both ends.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m129",
+      "league": "Colombia Primera A",
+      "homeTeam": "Boyaca Chico",
+      "awayTeam": "Deportivo Pereira",
+      "date": "2026-04-01",
+      "time": "22:00",
+      "prediction": {
+        "mainPick": "Under 2.5",
+        "odds": "1.67",
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "predictedScore": "1-0",
+        "confidence": 64
+      },
+      "analysis": "Boyaca Chico have a solid home defensive record. Deportivo Pereira are low-scoring on the road. Expect a tight, low-scoring home win.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m130",
+      "league": "UEFA Women's Champions League",
+      "homeTeam": "Olympique Lyon Women",
+      "awayTeam": "Wolfsburg Women",
+      "date": "2026-04-01",
+      "time": "22:00",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.12",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "3-1",
+        "confidence": 82
+      },
+      "analysis": "Lyon are massive favorites at home with world-class attacking quality. Wolfsburg can score but Lyon should dominate and win comfortably.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m131",
+      "league": "Morocco Botola Pro",
+      "homeTeam": "AS Far Rabat",
+      "awayTeam": "Olympique Dcheira",
+      "date": "2026-04-01",
+      "time": "22:00",
+      "prediction": {
+        "mainPick": "Under 2.5",
+        "odds": "1.77",
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "predictedScore": "1-0",
+        "confidence": 66
+      },
+      "analysis": "AS Far Rabat have a very strong home defensive record. Olympique Dcheira are low-scoring on the road. Expect a controlled, low-scoring home win.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m132",
+      "league": "Spain Segunda Division",
+      "homeTeam": "Leganes",
+      "awayTeam": "Zaragoza",
+      "date": "2026-04-01",
+      "time": "22:30",
+      "prediction": {
+        "mainPick": "BTTS No",
+        "odds": "1.92",
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "predictedScore": "1-0",
+        "confidence": 65
+      },
+      "analysis": "Leganes are solid at home with a compact defense. Zaragoza struggle to create chances away. Expect a tight, low-scoring home win with a clean sheet.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m133",
+      "league": "Argentina Primera Division",
+      "homeTeam": "CA Tigre",
+      "awayTeam": "Independiente Mendoza",
+      "date": "2026-04-01",
+      "time": "23:30",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "2.02",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 67
+      },
+      "analysis": "Tigre have good home form and are slight favorites. Independiente Mendoza are dangerous on the counter. Home win with both teams scoring is likely.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     }
   ]
-}
+} 
   
 
