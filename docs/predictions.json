@@ -2828,7 +2828,7 @@
         "odds": "2.32",
         "overUnder": "Over 2.5",
         "btts": "Yes",
-        "predictedScore": "2-2*,
+        "predictedScore": "2-2",
         "confidence": 87
       },
       "analysis": "Dalian have home advantage and good form. Jiangxi concede regularly away. Home win with both teams scoring is likely.",
@@ -2853,7 +2853,7 @@
         "confidence": 85
       },
       "analysis": "Bielefeld are strong at home. Darmstadt are dangerous but concede regularly away. Home win with both teams scoring is likely.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -2874,7 +2874,7 @@
         "confidence": 80
       },
       "analysis": "Two well-matched sides. Expect an open, high-scoring draw.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -2895,7 +2895,7 @@
         "confidence": 86
       },
       "analysis": "Magdeburg have excellent home form. Bochum are competitive but leaky away. Home win with goals expected.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -2916,7 +2916,7 @@
         "confidence": 83
       },
       "analysis": "Radnik are strong at home. Siroki Brijeg concede regularly away. Home win with both teams scoring is likely.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -2929,7 +2929,7 @@
       "date": "2026-04-04",
       "time": "14:00",
       "prediction": {
-        "mainPick": "Home Win",
+        "mainPick": "Over 2.5",
         "odds": "2.82",
         "overUnder": "Over 2.5",
         "btts": "Yes",
@@ -2937,7 +2937,7 @@
         "confidence": 81
       },
       "analysis": "Sokol have home advantage. Warta are competitive but leaky away. Home win with goals expected.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -2958,7 +2958,7 @@
         "confidence": 88
       },
       "analysis": "Tauras are clear favorites at home. Garliava are leaky defensively. Comfortable home win with goals.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -2979,7 +2979,7 @@
         "confidence": 84
       },
       "analysis": "Babrungas have solid home form. Neptunas concede regularly away. Home win with both teams scoring is likely.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -3000,7 +3000,7 @@
         "confidence": 90
       },
       "analysis": "Manchester City are in superb form at home. Liverpool are dangerous but City dominate big matches. High-scoring home win expected.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -3013,7 +3013,7 @@
       "date": "2026-04-04",
       "time": "15:00",
       "prediction": {
-        "mainPick": "Home Win",
+        "mainPick": "Over 2.5",
         "odds": "1.44",
         "overUnder": "Over 2.5",
         "btts": "Yes",
@@ -3021,7 +3021,7 @@
         "confidence": 89
       },
       "analysis": "Hansa are strong favorites at home. Viktoria Köln are competitive but leaky away. Home win with goals expected.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -3034,15 +3034,15 @@
       "date": "2026-04-04",
       "time": "15:00",
       "prediction": {
-        "mainPick": "Home Win",
-        "odds": "2.04",
-        "overUnder": "Over 2.5",
+        "mainPick": "Over 3.5",
+        "odds": "2.92",
+        "overUnder": "Over 3.5",
         "btts": "Yes",
-        "predictedScore": "2-1",
+        "predictedScore": "2-3",
         "confidence": 84
       },
       "analysis": "Erzgebirge have solid home form. Hoffenheim II are young and concede regularly. Home win with goals likely.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -3063,7 +3063,7 @@
         "confidence": 92
       },
       "analysis": "Osnabrück are massive favorites at home. Schweinfurt are leaky defensively. Comfortable high-scoring home win.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -3084,7 +3084,7 @@
         "confidence": 86
       },
       "analysis": "Cottbus are in superior form. Havelse are competitive but concede regularly. Away win with goals expected.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -3105,7 +3105,7 @@
         "confidence": 83
       },
       "analysis": "1860 Munich have strong home record. Mannheim are dangerous on the counter but leaky. Home win with both teams scoring is likely.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -3118,15 +3118,15 @@
       "date": "2026-04-04",
       "time": "15:00",
       "prediction": {
-        "mainPick": "Away Win",
-        "odds": "1.56",
+        "mainPick": "Draw",
+        "odds": "2.86",
         "overUnder": "Over 2.5",
         "btts": "Yes",
-        "predictedScore": "1-2",
+        "predictedScore": "2-2",
         "confidence": 88
       },
       "analysis": "Buriram are in excellent form and strong away. Ratchaburi are competitive but concede regularly. Away win with goals expected.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -3147,7 +3147,7 @@
         "confidence": 85
       },
       "analysis": "Both teams play open attacking football in Veikkausliiga. High-scoring games are common. Expect goals at both ends.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -3160,15 +3160,15 @@
       "date": "2026-04-04",
       "time": "15:00",
       "prediction": {
-        "mainPick": "Home Win",
+        "mainPick": "Draw",
         "odds": "3.02",
-        "overUnder": "Over 2.5",
+        "overUnder": "Under 2.5",
         "btts": "Yes",
-        "predictedScore": "2-1",
+        "predictedScore": "1-1",
         "confidence": 81
       },
       "analysis": "Wiedenbrück have home advantage. Gutersloh are competitive but concede away. Home win with goals likely.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -3189,7 +3189,7 @@
         "confidence": 89
       },
       "analysis": "Rodinghausen are strong favorites at home. Velbert are leaky defensively. Comfortable home win with goals.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -3210,7 +3210,7 @@
         "confidence": 84
       },
       "analysis": "Siegen have solid home form. Gladbach II are young and concede regularly. Home win with both teams scoring is likely.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -3231,7 +3231,7 @@
         "confidence": 80
       },
       "analysis": "Two reserve teams with similar quality. Expect an open, high-scoring draw.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -3252,7 +3252,7 @@
         "confidence": 85
       },
       "analysis": "Wuppertaler have good home form. Bocholt are competitive but leaky away. Home win with goals expected.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
