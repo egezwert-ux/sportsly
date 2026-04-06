@@ -606,7 +606,7 @@
       },
       "analysis": "HB Torshavn strong favorites at home. B36 Torshavn competitive but leaky away. Home win with goals expected.",
       "result": "lost",
-      "vip": false"
+      "vip": false,
       "adUnlock": true,
       "isDailyPick": false
     },
@@ -732,9 +732,8 @@
       },
       "analysis": "Le Mans favorite at home. Pau leaky away. Home win with goals expected.",
       "result": "won"
-      "vip": false
+      "vip": false,
       "adUnlock": true,
       "isDailyPick": false
-    }
-  ]
-}
+    },
+    
