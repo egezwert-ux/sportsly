@@ -752,7 +752,7 @@
         "confidence": 86
       },
       "analysis": "Both teams have been scoring and conceding regularly in recent games. Expect goals at both ends in this Apertura clash.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -773,7 +773,7 @@
         "confidence": 84
       },
       "analysis": "Open football expected from both sides. High chance of multiple goals in this Apertura fixture.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -794,7 +794,7 @@
         "confidence": 85
       },
       "analysis": "Goias is strong at home in Serie B. Expect a tactical, low-scoring encounter where the home side edges it.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -815,7 +815,7 @@
         "confidence": 83
       },
       "analysis": "Attacking football is common in this league. High-scoring game expected with goals at both ends.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -836,7 +836,7 @@
         "confidence": 82
       },
       "analysis": "Both teams have shown they can score and concede recently. Expect an open game with goals.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -857,7 +857,7 @@
         "confidence": 81
       },
       "analysis": "Instituto play disciplined football at home. Defensa y Justicia might struggle to break them down.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -878,7 +878,7 @@
         "confidence": 88
       },
       "analysis": "Hoffenheim II matches are notoriously high-scoring. Expect plenty of goals from both sides.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -899,7 +899,7 @@
         "confidence": 86
       },
       "analysis": "Cottbus and 1860 Munich both score and concede consistently. Expect goals from both sides.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -920,7 +920,7 @@
         "confidence": 78
       },
       "analysis": "Crucial relegation battle. Both teams will likely prioritize defense over risk-taking.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -941,7 +941,7 @@
         "confidence": 84
       },
       "analysis": "Both teams have high offensive output recently. The odds heavily favor a high-scoring game.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -962,7 +962,7 @@
         "confidence": 91
       },
       "analysis": "Weiss Essen is the superior side here. Their offensive depth should overwhelm Schweinfurt.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": true
@@ -983,7 +983,7 @@
         "confidence": 87
       },
       "analysis": "Çorum is in excellent form and aims for promotion. Bodrum struggles in away fixtures.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1155,7 +1155,260 @@
       "vip": true,
       "adUnlock": true,
       "isDailyPick": false
+    },
+    {
+      "id": "m56",
+      "league": "Libertadores Cup",
+      "homeTeam": "Ind. Mendoza",
+      "awayTeam": "Club Bolivar",
+      "date": "2026-04-08",
+      "time": "01:00",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.27",
+        "overUnder": "Over 2.5",
+        "btts": "No",
+        "predictedScore": "3-0",
+        "confidence": 92
+      },
+      "analysis": "Independiente Mendoza is heavy favorite at home. Bolivar struggles significantly at sea level. Expect a dominant home performance.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": true
+    },
+    {
+      "id": "m57",
+      "league": "Libertadores Cup",
+      "homeTeam": "Dep. La Gua.",
+      "awayTeam": "Fluminense",
+      "date": "2026-04-08",
+      "time": "01:00",
+      "prediction": {
+        "mainPick": "Away Win",
+        "odds": "1.40",
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "predictedScore": "0-2",
+        "confidence": 88
+      },
+      "analysis": "Fluminense has superior technical quality. La Guaira will likely sit deep, but the Brazilian side should find the breakthrough.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m58",
+      "league": "Sudamericana Cup",
+      "homeTeam": "Independiente P.",
+      "awayTeam": "Racing Club",
+      "date": "2026-04-08",
+      "time": "01:00",
+      "prediction": {
+        "mainPick": "Away Win",
+        "odds": "1.40",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "1-2",
+        "confidence": 85
+      },
+      "analysis": "Racing Club is in great form offensively. Independiente Petrolero is tough at altitude, but Racing's quality should prevail.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m59",
+      "league": "Mexico Expansion MX",
+      "homeTeam": "CD Tapatio",
+      "awayTeam": "Tlaxcala",
+      "date": "2026-04-08",
+      "time": "02:00",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.76",
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "predictedScore": "1-0",
+        "confidence": 81
+      },
+      "analysis": "Tapatio is very disciplined at home. Tlaxcala has one of the weakest away records in the league.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m60",
+      "league": "CONCACAF Champions League",
+      "homeTeam": "Los Angeles FC",
+      "awayTeam": "Cruz Azul",
+      "date": "2026-04-08",
+      "time": "05:00",
+      "prediction": {
+        "mainPick": "BTTS Yes",
+        "odds": "1.72",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-2",
+        "confidence": 84
+      },
+      "analysis": "A high-stakes North American clash. Both teams prefer attacking football, making goals at both ends highly likely.",
+      "result": "pending",
+      "vip": true,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m61",
+      "league": "AFC Champions League",
+      "homeTeam": "Gamba Osaka",
+      "awayTeam": "Bangkok Utd",
+      "date": "2026-04-08",
+      "time": "13:00",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.09",
+        "overUnder": "Over 2.5",
+        "btts": "No",
+        "predictedScore": "4-0",
+        "confidence": 95
+      },
+      "analysis": "Massive quality gap. Gamba Osaka should dominate possession and score multiple goals against the visitors.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m62",
+      "league": "Russia Cup",
+      "homeTeam": "D. Moskova",
+      "awayTeam": "Krasnodar",
+      "date": "2026-04-08",
+      "time": "18:15",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.47",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 83
+      },
+      "analysis": "Cup matches in Russia often open up in the second half. Both teams have consistent goal-scoring records this season.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m63",
+      "league": "Qatar Stars League",
+      "homeTeam": "Al Sailiya",
+      "awayTeam": "Al Sadd",
+      "date": "2026-04-08",
+      "time": "18:30",
+      "prediction": {
+        "mainPick": "Away Win",
+        "odds": "1.10",
+        "overUnder": "Over 3.5",
+        "btts": "No",
+        "predictedScore": "0-4",
+        "confidence": 94
+      },
+      "analysis": "Al Sadd is the powerhouse of Qatar. Al Sailiya lacks the defensive structure to stop their star-studded attack.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m64",
+      "league": "Turkey Super Lig",
+      "homeTeam": "Göztepe",
+      "awayTeam": "Galatasaray",
+      "date": "2026-04-08",
+      "time": "20:00",
+      "prediction": {
+        "mainPick": "Home Win or Draw",
+        "odds": "1.92",
+        "overUnder": "Under 2.5",
+        "btts": "Yes",
+        "predictedScore": "1-1",
+        "confidence": 80
+      },
+      "analysis": "Göztepe is extremely resilient at home with a passionate fan base. Galatasaray may find it difficult to secure all three points in this atmosphere.",
+      "result": "pending",
+      "vip": true,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m65",
+      "league": "Saudi Pro League",
+      "homeTeam": "Al Hilal",
+      "awayTeam": "Al Khlood",
+      "date": "2026-04-08",
+      "time": "21:00",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.05",
+        "overUnder": "Over 2.5",
+        "btts": "No",
+        "predictedScore": "5-0",
+        "confidence": 96
+      },
+      "analysis": "Al Hilal is simply on another level. Expect a landslide victory with total control from start to finish.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m66",
+      "league": "UEFA Champions League",
+      "homeTeam": "Barcelona",
+      "awayTeam": "Atl Madrid",
+      "date": "2026-04-08",
+      "time": "22:00",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.34",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "3-1",
+        "confidence": 87
+      },
+      "analysis": "Barcelona's home advantage in the Champions League is significant. Atletico will fight hard, but Barca's creativity should break the wall.",
+      "result": "pending",
+      "vip": true,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m67",
+      "league": "UEFA Champions League",
+      "homeTeam": "PSG",
+      "awayTeam": "Liverpool",
+      "date": "2026-04-08",
+      "time": "22:00",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.31",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-2",
+        "confidence": 90
+      },
+      "analysis": "A clash of giants. Both teams possess world-class attackers and aggressive styles. A goal-fest is the most likely outcome.",
+      "result": "pending",
+      "vip": true,
+      "adUnlock": true,
+      "isDailyPick": true
     }
   ]
 }
+
     
