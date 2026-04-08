@@ -1004,7 +1004,7 @@
         "confidence": 82
       },
       "analysis": "Larne is aggressive at home. Coleraine is capable of scoring on the counter.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1025,7 +1025,7 @@
         "confidence": 89
       },
       "analysis": "Linfield is chasing the title and cannot afford to drop points. Quality gap is significant.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1046,7 +1046,7 @@
         "confidence": 85
       },
       "analysis": "Glentoran has been defensively solid. Cliftonville is missing key creative players.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1067,7 +1067,7 @@
         "confidence": 80
       },
       "analysis": "Both teams have porous defenses. A high-scoring draw or win for either side is likely.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1088,7 +1088,7 @@
         "confidence": 84
       },
       "analysis": "Two high-energy teams. Southampton plays expansive football, and Wrexham is lethal at home.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1109,7 +1109,7 @@
         "confidence": 88
       },
       "analysis": "Bromley's home record is dominant this season. Shrewsbury is struggling with away travel.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1130,7 +1130,7 @@
         "confidence": 86
       },
       "analysis": "Arsenal's attacking style will leave gaps for Sporting's quick transitions. Goals are expected.",
-      "result": "pending",
+      "result": "lost",
       "vip": true,
       "adUnlock": true,
       "isDailyPick": false
@@ -1151,7 +1151,7 @@
         "confidence": 92
       },
       "analysis": "A European classic. Both teams have incredible firepower. A very low price for Over 2.5 reflects the high probability.",
-      "result": "pending",
+      "result": "won",
       "vip": true,
       "adUnlock": true,
       "isDailyPick": false
@@ -1172,7 +1172,7 @@
         "confidence": 92
       },
       "analysis": "Independiente Mendoza is heavy favorite at home. Bolivar struggles significantly at sea level. Expect a dominant home performance.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": true
@@ -1193,7 +1193,7 @@
         "confidence": 88
       },
       "analysis": "Fluminense has superior technical quality. La Guaira will likely sit deep, but the Brazilian side should find the breakthrough.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1214,7 +1214,7 @@
         "confidence": 85
       },
       "analysis": "Racing Club is in great form offensively. Independiente Petrolero is tough at altitude, but Racing's quality should prevail.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1235,7 +1235,7 @@
         "confidence": 81
       },
       "analysis": "Tapatio is very disciplined at home. Tlaxcala has one of the weakest away records in the league.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1256,7 +1256,7 @@
         "confidence": 84
       },
       "analysis": "A high-stakes North American clash. Both teams prefer attacking football, making goals at both ends highly likely.",
-      "result": "pending",
+      "result": "lost",
       "vip": true,
       "adUnlock": true,
       "isDailyPick": false
