@@ -483,6 +483,468 @@
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
-    }
-  ]
+    },
+    {
+    "id": "m24",
+    "league": "Australia NPL South Australia",
+    "homeTeam": "Marconi Stal",
+    "awayTeam": "SD Raiders",
+    "date": "2026-04-11",
+    "time": "12:00",
+    "prediction": {
+      "mainPick": "Over 2.5",
+      "odds": "1.34",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "3-1",
+      "confidence": 97
+    },
+    "analysis": "Marconi Stal attack strongly at home in NPL. Raiders concede regularly. High-scoring game expected.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m25",
+    "league": "Italy Primavera 1",
+    "homeTeam": "Lecce U20",
+    "awayTeam": "Genoa U20",
+    "date": "2026-04-11",
+    "time": "12:00",
+    "prediction": {
+      "mainPick": "BTTS Yes",
+      "odds": "1.54",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "2-2",
+      "confidence": 94
+    },
+    "analysis": "Youth derby, both teams play open and score regularly. Goals at both ends highly probable.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m26",
+    "league": "Hungary NB III Northeast",
+    "homeTeam": "Diosgyori Vtk II",
+    "awayTeam": "Ozd Sajovolgye",
+    "date": "2026-04-11",
+    "time": "12:00",
+    "prediction": {
+      "mainPick": "Under 2.5",
+      "odds": "1.64",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "1-0",
+      "confidence": 92
+    },
+    "analysis": "Third division match, often cautious and low-scoring. Home side solid defensively.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m27",
+    "league": "Australia NPL Victoria",
+    "homeTeam": "Dandenong Thunder",
+    "awayTeam": "Green Gully Cavs",
+    "date": "2026-04-11",
+    "time": "12:00",
+    "prediction": {
+      "mainPick": "Over 2.5",
+      "odds": "1.39",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "3-2",
+      "confidence": 96
+    },
+    "analysis": "Victoria NPL is extremely goal-heavy. Both teams attack relentlessly.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m28",
+    "league": "Australia NPL Queensland",
+    "homeTeam": "Moreton City Excelsior",
+    "awayTeam": "Gold Coast United",
+    "date": "2026-04-11",
+    "time": "12:00",
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.19",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "3-1",
+      "confidence": 95
+    },
+    "analysis": "Moreton City Excelsior are strong favourites at home and score heavily. Clear home win expected.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m29",
+    "league": "Malaysia Super League",
+    "homeTeam": "Johor Darul Ta'zim",
+    "awayTeam": "Terengganu",
+    "date": "2026-04-11",
+    "time": "12:30",
+    "prediction": {
+      "mainPick": "Over 2.5",
+      "odds": "1.69",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "3-1",
+      "confidence": 94
+    },
+    "analysis": "Johor dominate at home and score freely. Terengganu concede regularly. High-scoring game likely.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m30",
+    "league": "England Premier League",
+    "homeTeam": "Arsenal",
+    "awayTeam": "Bournemouth",
+    "date": "2026-04-11",
+    "time": "14:30",
+    "prediction": {
+      "mainPick": "Over 2.5",
+      "odds": "1.42",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "3-1",
+      "confidence": 96
+    },
+    "analysis": "Arsenal in unstoppable attacking form at home. Bournemouth dangerous but leaky.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m31",
+    "league": "Turkey Super Lig",
+    "homeTeam": "Başakşehir",
+    "awayTeam": "Gençlerbirliği",
+    "date": "2026-04-11",
+    "time": "14:30",
+    "prediction": {
+      "mainPick": "Under 2.5",
+      "odds": "1.89",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "1-0",
+      "confidence": 91
+    },
+    "analysis": "Başakşehir play controlled football at home. Gençlerbirliği struggle to score away. Low-scoring match probable.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m32",
+    "league": "Spain La Liga",
+    "homeTeam": "Real Sociedad",
+    "awayTeam": "Alaves",
+    "date": "2026-04-11",
+    "time": "15:00",
+    "prediction": {
+      "mainPick": "BTTS No",
+      "odds": "1.76",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "1-0",
+      "confidence": 93
+    },
+    "analysis": "Alaves are very defensive away. Sociedad solid at home. Low-scoring game is the safest high-probability pick.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m33",
+    "league": "Italy Serie A",
+    "homeTeam": "Cagliari",
+    "awayTeam": "Cremonese",
+    "date": "2026-04-11",
+    "time": "16:00",
+    "prediction": {
+      "mainPick": "Under 2.5",
+      "odds": "1.39",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "1-0",
+      "confidence": 92
+    },
+    "analysis": "Both teams play defensively in Serie A. Low-scoring match is highly probable.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m34",
+    "league": "Italy Serie A",
+    "homeTeam": "Torino",
+    "awayTeam": "Hellas Verona",
+    "date": "2026-04-11",
+    "time": "16:00",
+    "prediction": {
+      "mainPick": "BTTS Yes",
+      "odds": "2.14",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "2-1",
+      "confidence": 90
+    },
+    "analysis": "Both teams score and concede consistently. Open match with goals at both ends expected.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m35",
+    "league": "Germany Bundesliga",
+    "homeTeam": "Wolfsburg",
+    "awayTeam": "Eintracht Frankfurt",
+    "date": "2026-04-11",
+    "time": "16:30",
+    "prediction": {
+      "mainPick": "Over 2.5",
+      "odds": "1.39",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "2-2",
+      "confidence": 95
+    },
+    "analysis": "Bundesliga is the highest-scoring top league. Both teams play open attacking football.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m36",
+    "league": "Germany Bundesliga",
+    "homeTeam": "Borussia Dortmund",
+    "awayTeam": "Bayer Leverkusen",
+    "date": "2026-04-11",
+    "time": "19:30",
+    "prediction": {
+      "mainPick": "Over 2.5",
+      "odds": "1.33",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "3-2",
+      "confidence": 98
+    },
+    "analysis": "Classic high-quality Bundesliga clash. Both teams attack relentlessly. Multiple goals almost certain.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m37",
+    "league": "England Premier League",
+    "homeTeam": "Burnley",
+    "awayTeam": "Brighton",
+    "date": "2026-04-11",
+    "time": "17:00",
+    "prediction": {
+      "mainPick": "BTTS Yes",
+      "odds": "1.44",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "2-1",
+      "confidence": 94
+    },
+    "analysis": "Burnley attack at home, Brighton dangerous on counter. Goals at both ends expected.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m38",
+    "league": "England Premier League",
+    "homeTeam": "Brentford",
+    "awayTeam": "Everton",
+    "date": "2026-04-11",
+    "time": "17:00",
+    "prediction": {
+      "mainPick": "Under 2.5",
+      "odds": "1.75",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "1-0",
+      "confidence": 91
+    },
+    "analysis": "Brentford solid at home, Everton very defensive. Low-scoring match is the highest probability outcome.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m39",
+    "league": "Turkey Super Lig",
+    "homeTeam": "Alanyaspor",
+    "awayTeam": "Trabzonspor",
+    "date": "2026-04-11",
+    "time": "17:00",
+    "prediction": {
+      "mainPick": "Over 2.5",
+      "odds": "1.64",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "2-2",
+      "confidence": 95
+    },
+    "analysis": "Trabzonspor in excellent attacking form. Alanyaspor open at home. High-scoring game expected.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m40",
+    "league": "Spain La Liga",
+    "homeTeam": "Elche",
+    "awayTeam": "Valencia",
+    "date": "2026-04-11",
+    "time": "17:15",
+    "prediction": {
+      "mainPick": "Under 2.5",
+      "odds": "1.57",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "1-0",
+      "confidence": 93
+    },
+    "analysis": "Elche and Valencia both play controlled, low-scoring football recently. Under is the safest pick.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m41",
+    "league": "Italy Serie A",
+    "homeTeam": "AC Milan",
+    "awayTeam": "Udinese",
+    "date": "2026-04-11",
+    "time": "19:00",
+    "prediction": {
+      "mainPick": "Over 2.5",
+      "odds": "1.58",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "3-1",
+      "confidence": 96
+    },
+    "analysis": "AC Milan in superb attacking form at home. Udinese concede regularly.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m42",
+    "league": "Spain La Liga",
+    "homeTeam": "Barcelona",
+    "awayTeam": "Espanyol",
+    "date": "2026-04-11",
+    "time": "19:30",
+    "prediction": {
+      "mainPick": "Over 2.5",
+      "odds": "1.19",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "3-1",
+      "confidence": 98
+    },
+    "analysis": "Barcelona dominate at home and score heavily. Espanyol leaky in derbies.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m43",
+    "league": "England Premier League",
+    "homeTeam": "Liverpool",
+    "awayTeam": "Fulham",
+    "date": "2026-04-11",
+    "time": "19:30",
+    "prediction": {
+      "mainPick": "Over 2.5",
+      "odds": "1.33",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "3-1",
+      "confidence": 97
+    },
+    "analysis": "Liverpool in unstoppable form at home. Fulham dangerous but leaky.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m44",
+    "league": "Germany Bundesliga",
+    "homeTeam": "St. Pauli",
+    "awayTeam": "Bayern Munich",
+    "date": "2026-04-11",
+    "time": "19:30",
+    "prediction": {
+      "mainPick": "Over 2.5",
+      "odds": "1.33",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "1-3",
+      "confidence": 98
+    },
+    "analysis": "Bayern score heavily away. St. Pauli open at home. Extremely high probability of multiple goals.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m45",
+    "league": "Turkey Super Lig",
+    "homeTeam": "Kayserispor",
+    "awayTeam": "Fenerbahce",
+    "date": "2026-04-11",
+    "time": "20:00",
+    "prediction": {
+      "mainPick": "Over 2.5",
+      "odds": "1.44",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "1-3",
+      "confidence": 96
+    },
+    "analysis": "Fenerbahce in superb attacking form. Kayserispor leaky at home.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  }
+ ]
 }
