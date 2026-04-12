@@ -18,7 +18,7 @@
         "confidence": 96
       },
       "analysis": "Both Genoa and Sassuolo score and concede regularly in Serie A. Open match with goals at both ends highly probable.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -39,7 +39,7 @@
         "confidence": 95
       },
       "analysis": "Konyaspor are very solid defensively at home. Karagumruk struggle to score away. Low-scoring game is the safest high-probability pick.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -60,7 +60,7 @@
         "confidence": 94
       },
       "analysis": "Both teams score consistently in recent La Liga matches. Expect goals at both ends in this balanced fixture.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -81,7 +81,7 @@
         "confidence": 96
       },
       "analysis": "Nottingham attack well at home, Villa dangerous on counter. High chance of multiple goals in this Premier League clash.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -102,7 +102,7 @@
         "confidence": 95
       },
       "analysis": "Crystal Palace are extremely solid defensively at home. Newcastle struggle to break down tight defences. Low-scoring match most probable.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -123,7 +123,7 @@
         "confidence": 94
       },
       "analysis": "Tottenham attack relentlessly. Sunderland open at home. High probability of multiple goals.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -144,7 +144,7 @@
         "confidence": 95
       },
       "analysis": "Nice are very solid defensively at home. Le Havre struggle to score away. Low-scoring match is the highest probability outcome.",
-      "result": "pending",
+      "result": "won"
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -165,7 +165,7 @@
         "confidence": 93
       },
       "analysis": "Both teams score and concede consistently. Expect goals at both ends in this balanced Ligue 1 fixture.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -186,7 +186,7 @@
         "confidence": 97
       },
       "analysis": "Bundesliga is the highest-scoring top league. Stuttgart in superb attacking form at home. Multiple goals almost certain.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -207,7 +207,7 @@
         "confidence": 96
       },
       "analysis": "Big Premier League clash between two attacking sides. High chance of multiple goals at both ends.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -262,11 +262,11 @@
       "date": "2026-04-12",
       "time": "20:00",
       "prediction": {
-        "mainPick": "Over 2.5",
-        "odds": "1.33",
-        "overUnder": "Over 2.5",
+        "mainPick": "Draw",
+        "odds": "3.00",
+        "overUnder": "Under 2.5",
         "btts": "Yes",
-        "predictedScore": "3-1",
+        "predictedScore": "0-1",
         "confidence": 98
       },
       "analysis": "Galatasaray in unstoppable attacking form at home. Kocaelispor leaky away. Extremely high probability of multiple goals.",
