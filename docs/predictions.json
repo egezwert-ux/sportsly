@@ -753,7 +753,7 @@
       "confidence": 98
     },
     "analysis": "Lanus have kept clean sheets in 4 of their last 5 home games. Banfield failed to score in 3 of last 4 away matches. Extremely tight early morning fixture with very high probability of low-scoring result.",
-    "result": "pending",
+    "result": "won",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
@@ -774,7 +774,7 @@
       "confidence": 97
     },
     "analysis": "Nueva Chicago scored in 6 of last 7 games. F Midland conceded in every recent away fixture. High probability of goals at both ends based on current form.",
-    "result": "pending",
+    "result": "won",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
@@ -795,7 +795,7 @@
       "confidence": 78
     },
     "analysis": "T. Suarez kept clean sheets in 4 of last 5 home games. Rafaela scored only once in last 4 away matches. Very high chance of low-scoring home win.",
-    "result": "pending",
+    "result": "won",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
@@ -816,7 +816,7 @@
       "confidence": 98
     },
     "analysis": "Penarol won last 5 home games with 3+ goals in 4 of them. Liverpool concede regularly on the road. Extremely high probability of goals.",
-    "result": "pending",
+    "result": "lost",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
@@ -837,7 +837,7 @@
       "confidence": 97
     },
     "analysis": "La Calera scored in every home game this season. Deportivo Concepcion conceded in 6 straight away matches. Very high chance of goals at both ends.",
-    "result": "pending",
+    "result": "lost",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
@@ -858,7 +858,7 @@
       "confidence": 98
     },
     "analysis": "Tomayapo average 3.2 goals per home game recently. Potosi concede heavily away. Bolivian league is the highest-scoring in South America — multiple goals almost certain.",
-    "result": "pending",
+    "result": "lost"
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
@@ -879,7 +879,7 @@
       "confidence": 99
     },
     "analysis": "Czech Republic won last 6 qualifiers by 3+ goals. Montenegro concede heavily. Near-certain high-scoring home win based on current form.",
-    "result": "pending",
+    "result": "won",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
@@ -900,7 +900,7 @@
       "confidence": 97
     },
     "analysis": "Finland kept clean sheets in 4 of last 5 home qualifiers. Slovakia failed to score in recent away games. Very high probability of low-scoring result.",
-    "result": "pending",
+    "result": "lost",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
@@ -921,7 +921,7 @@
       "confidence": 98
     },
     "analysis": "Norway scored 15 goals in last 3 qualifiers. Slovenia concede heavily. Extremely high probability of big home win with goals.",
-    "result": "pending",
+    "result": "won",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
@@ -942,7 +942,7 @@
       "confidence": 96
     },
     "analysis": "Both teams scored in almost every recent qualifier. Open and competitive game with very high chance of goals at both ends.",
-    "result": "pending",
+    "result": "won",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
@@ -963,7 +963,7 @@
       "confidence": 95
     },
     "analysis": "Faroe Islands extremely hard to break down at home recently. Greece poor in attack. Very high probability of low-scoring home win.",
-    "result": "pending",
+    "result": "lost",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
@@ -984,7 +984,7 @@
       "confidence": 97
     },
     "analysis": "Maribor scored in every recent away game. Koper open at home. Very high chance of goals based on current form.",
-    "result": "pending",
+    "result": "won",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
@@ -1005,7 +1005,7 @@
       "confidence": 96
     },
     "analysis": "Both teams average over 2.8 goals per game in recent fixtures. Cheltenham strong at home, Gillingham leaky away. Very high probability of goals.",
-    "result": "pending",
+    "result": "won",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
@@ -1026,7 +1026,7 @@
       "confidence": 95
     },
     "analysis": "Barrow have the best home defensive record recently. Oldham scoreless in 4 of last 5 away games. Extremely high probability of low-scoring result.",
-    "result": "pending",
+    "result": "lost",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
@@ -1047,7 +1047,7 @@
       "confidence": 84
     },
     "analysis": "Both teams have BTTS in 7 of last 8 games. Very consistent recent form guarantees goals at both ends.",
-    "result": "pending",
+    "result": "won",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
@@ -1068,7 +1068,7 @@
       "confidence": 87
     },
     "analysis": "Chesterfield average 3.1 goals per home game recently. Grimsby concede 2+ goals in every away fixture. Very high probability of multiple goals.",
-    "result": "pending",
+    "result": "won",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
@@ -1089,7 +1089,7 @@
       "confidence": 98
     },
     "analysis": "Both top European sides average over 2.5 goals per game in recent qualifiers. Very high probability of open, high-scoring match.",
-    "result": "pending",
+    "result": "won",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
@@ -1110,7 +1110,7 @@
       "confidence": 99
     },
     "analysis": "National League North is the highest-scoring division. Both teams average 3+ goals per game recently. Extremely high probability of multiple goals.",
-    "result": "pending",
+    "result": "won",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
@@ -1131,7 +1131,7 @@
       "confidence": 96
     },
     "analysis": "Both teams have BTTS in 8 of last 10 matches. Very consistent recent form guarantees goals at both ends.",
-    "result": "pending",
+    "result": "won",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
@@ -1173,7 +1173,7 @@
       "confidence": 99
     },
     "analysis": "Both sides in blistering attacking form (Atletico scored 12 in last 4, Barcelona 14 in last 4). Very high probability of goals in this big clash.",
-    "result": "pending",
+    "result": "won",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
@@ -1194,7 +1194,7 @@
       "confidence": 98
     },
     "analysis": "Liverpool and PSG both average over 3 goals per game in recent European matches. Very high probability of open, high-scoring night game.",
-    "result": "pending",
+    "result": "lost",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
@@ -1215,7 +1215,7 @@
       "confidence": 96
     },
     "analysis": "Friendly matches are usually cagey. Canada kept clean sheets in 4 of last 5 home games. Very high probability of low-scoring result.",
-    "result": "pending",
+    "result": "lost",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
@@ -1236,7 +1236,7 @@
       "confidence": 85
     },
     "analysis": "Both teams have BTTS in 7 of last 8 Championship games. Very consistent recent form guarantees goals at both ends.",
-    "result": "pending",
+    "result": "lost",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
@@ -1257,7 +1257,7 @@
       "confidence": 90
     },
     "analysis": "Southampton average 3.4 goals per home game recently. Blackburn concede 2+ goals in every away match. Very high probability of goals.",
-    "result": "pending",
+    "result": "won",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
