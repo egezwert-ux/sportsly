@@ -1278,7 +1278,7 @@
         "confidence": 97
       },
       "analysis": "Tuggeranong strong recent home scoring form. O Connor Knights concede regularly on the road. Very high probability of multiple goals based on current league trends.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1299,7 +1299,7 @@
         "confidence": 98
       },
       "analysis": "Local derby with both teams in high-scoring form recently. Very high probability of open game with multiple goals.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1320,7 +1320,7 @@
         "confidence": 96
       },
       "analysis": "Belconnen excellent attacking home record recently. Brindabella leaky away. Very high chance of goals.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1341,7 +1341,7 @@
         "confidence": 99
       },
       "analysis": "Cooma Tigers dominant at home with heavy scoring. Juventus concede heavily away. Extremely high probability of goals.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1362,7 +1362,7 @@
         "confidence": 96
       },
       "analysis": "Ulsan strong home attacking form. Seoul dangerous on counter. Very high probability of goals based on recent form.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1383,7 +1383,7 @@
         "confidence": 95
       },
       "analysis": "Ethiopian league defensively tight. Hawassa solid at home recently. Very high probability of low-scoring result.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1404,7 +1404,7 @@
         "confidence": 97
       },
       "analysis": "Tromso excellent recent home scoring. Lillestrom concede regularly away. Very high probability of goals.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1425,7 +1425,7 @@
         "confidence": 98
       },
       "analysis": "Bodo Glimt unstoppable attacking form. Sarpsborg open at home. Extremely high probability of high-scoring game.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1446,7 +1446,7 @@
         "confidence": 96
       },
       "analysis": "Both teams score and concede consistently in recent form. Very high probability of open game.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1467,7 +1467,7 @@
         "confidence": 98
       },
       "analysis": "Oldenburg leaky away recently. Alemannia strong home scoring. Extremely high probability of goals.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1488,7 +1488,7 @@
         "confidence": 95
       },
       "analysis": "Both teams in high-scoring recent form. Very high probability of multiple goals.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1509,7 +1509,7 @@
         "confidence": 96
       },
       "analysis": "Both teams score consistently recently. Very high probability of goals.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1530,7 +1530,7 @@
         "confidence": 95
       },
       "analysis": "Open league style with both teams in good attacking form. Very high probability of goals.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1551,7 +1551,7 @@
         "confidence": 96
       },
       "analysis": "Wimbledon defensively solid at home recently. Stockport cautious away. Very high probability of low-scoring result.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1572,7 +1572,7 @@
         "confidence": 97
       },
       "analysis": "Both teams high-scoring in recent form. Very high probability of goals.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1593,7 +1593,7 @@
         "confidence": 97
       },
       "analysis": "Relegation battle with both teams ultra-defensive recently. Very high probability of low-scoring result.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1614,7 +1614,7 @@
         "confidence": 98
       },
       "analysis": "Arsenal in blistering attacking form at home. Sporting dangerous on counter. Very high probability of goals in this big night match.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1635,12 +1635,307 @@
         "confidence": 99
       },
       "analysis": "Two of the highest-scoring teams in Europe. Bayern unstoppable at home, Real dangerous. Extremely high probability of classic high-scoring European night clash.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
-    }
-  ]
-}
+    },
+    {
+    "id": "m102",
+    "league": "Copa Sudamericana",
+    "homeTeam": "Racing Club",
+    "awayTeam": "Botafogo RJ",
+    "date": "2026-04-16",
+    "time": "01:00",
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "3.82",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "0-1",
+      "confidence": 68
+    },
+    "analysis": "Despite Racing being at home, Botafogo's current form and defensive discipline make an away win likely in a low-scoring affair.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m103",
+    "league": "Copa Sudamericana",
+    "homeTeam": "Caracas",
+    "awayTeam": "Independiente P.",
+    "date": "2026-04-16",
+    "time": "01:00",
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.39",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "2-0",
+      "confidence": 85
+    },
+    "analysis": "Caracas holds a significant technical advantage and is expected to dominate possession without conceding.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m104",
+    "league": "Copa Libertadores",
+    "homeTeam": "Cruzeiro MG",
+    "awayTeam": "Uni. Catolica",
+    "date": "2026-04-16",
+    "time": "01:00",
+    "prediction": {
+      "mainPick": "Under 2.5",
+      "odds": "1.61",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "1-0",
+      "confidence": 80
+    },
+    "analysis": "Libertadores group stages often feature cagey matches. Cruzeiro will likely secure a narrow victory while keeping a clean sheet.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": true
+  },
+  {
+    "id": "m105",
+    "league": "Copa Libertadores",
+    "homeTeam": "L. Asuncion",
+    "awayTeam": "Rosario C.",
+    "date": "2026-04-16",
+    "time": "01:00",
+    "prediction": {
+      "mainPick": "Under 2.5",
+      "odds": "1.24",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "0-0",
+      "confidence": 75
+    },
+    "analysis": "Both teams prioritize defensive stability in continental play. A low-scoring draw or a 1-0 result is highly probable.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m106",
+    "league": "Nicaragua Primera División",
+    "homeTeam": "Unan Managua",
+    "awayTeam": "Rancho Santana",
+    "date": "2026-04-16",
+    "time": "01:00",
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.48",
+      "overUnder": "Over 1.5",
+      "btts": "Yes",
+      "predictedScore": "2-1",
+      "confidence": 70
+    },
+    "analysis": "Unan Managua has a superior squad depth and usually performs well at home against lower-tier opposition.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m107",
+    "league": "US Open Cup",
+    "homeTeam": "Naples",
+    "awayTeam": "Orlando City",
+    "date": "2026-04-16",
+    "time": "02:00",
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.44",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "1-3",
+      "confidence": 82
+    },
+    "analysis": "Orlando City brings MLS-level quality to the cup tie. Expect them to control the game despite Naples' home crowd energy.",
+    "result": "pending",
+    "vip": true,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m108",
+    "league": "Copa Libertadores",
+    "homeTeam": "Corinthians",
+    "awayTeam": "I. Santa Fe",
+    "date": "2026-04-16",
+    "time": "03:30",
+    "prediction": {
+      "mainPick": "Under 2.5",
+      "odds": "1.38",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "2-0",
+      "confidence": 78
+    },
+    "analysis": "Corinthians are strong favorites but rarely blow teams away in the Libertadores. A controlled, low-goal win is the standard.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m109",
+    "league": "Copa Libertadores",
+    "homeTeam": "Fluminense",
+    "awayTeam": "Ind. Mendoza",
+    "date": "2026-04-16",
+    "time": "03:30",
+    "prediction": {
+      "mainPick": "Under 2.5",
+      "odds": "1.41",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "1-0",
+      "confidence": 88
+    },
+    "analysis": "Fluminense's tactical setup focuses on possession and minimizing counter-attacks, which often leads to 'Under' results.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m110",
+    "league": "Copa Sudamericana",
+    "homeTeam": "River Plate",
+    "awayTeam": "Carabobo",
+    "date": "2026-04-16",
+    "time": "03:30",
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.05",
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "predictedScore": "4-0",
+      "confidence": 95
+    },
+    "analysis": "Total mismatch. River Plate should easily secure a victory with a significant margin of goals.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m111",
+    "league": "El Salvador Primera División",
+    "homeTeam": "Zacatecoluca",
+    "awayTeam": "Municipal L.",
+    "date": "2026-04-16",
+    "time": "04:00",
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.44",
+      "overUnder": "Over 1.5",
+      "btts": "No",
+      "predictedScore": "0-2",
+      "confidence": 74
+    },
+    "analysis": "Municipal L. shows better defensive organization and finishing skills than the home side.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m112",
+    "league": "AFC Champions League",
+    "homeTeam": "AL Sadd",
+    "awayTeam": "Vissel Kobe",
+    "date": "2026-04-16",
+    "time": "19:15",
+    "prediction": {
+      "mainPick": "BTTS Yes",
+      "odds": "1.55",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "2-2",
+      "confidence": 81
+    },
+    "analysis": "Two offensive powerhouses in Asia. Both teams are likely to score given their attacking rosters.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m113",
+    "league": "UEFA Europa League",
+    "homeTeam": "Celta Vigo",
+    "awayTeam": "Freiburg",
+    "date": "2026-04-16",
+    "time": "19:45",
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.67",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "2-1",
+      "confidence": 76
+    },
+    "analysis": "Celta Vigo is formidable at home in European nights, though Freiburg's set-piece threat usually guarantees them a goal.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m114",
+    "league": "UEFA Europa League",
+    "homeTeam": "Real Betis",
+    "awayTeam": "Braga",
+    "date": "2026-04-16",
+    "time": "22:00",
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.62",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "3-1",
+      "confidence": 83
+    },
+    "analysis": "Betis has a superior squad and home advantage. Braga's open play style should lead to multiple scoring chances for the hosts.",
+    "result": "pending",
+    "vip": true,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m115",
+    "league": "UEFA Europa Conference League",
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Bologna",
+    "date": "2026-04-16",
+    "time": "22:00",
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.38",
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "predictedScore": "3-0",
+      "confidence": 90
+    },
+    "analysis": "Aston Villa's home form under high-pressure European nights is exceptional. Bologna will find it difficult to contain Villa's front line.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  }
+  
  
+  
+
       
