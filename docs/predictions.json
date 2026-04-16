@@ -1,96 +1,67 @@
 {
-  "lastUpdated": "2026-04-17T09:00:00Z",
-  "summary": "Nisan ayında %88 başarı oranıyla devam ediyoruz! Dün 8 skor tahmini bildik. 🎯",
-  "monetization": {
-    "daily_free_predictions": 2,
-    "extra_rewarded_predictions": 5,
-    "banner_ads": true,
-    "vip": { "ads_removed": true, "extra_statistics": true }
-  },
+  "lastUpdated": "2026-04-17T10:30:00Z",
+  "summary": "Matchly Pro 2026: Günün en güvenilir maçları hazır! 🚀",
   "matches": [
     {
-      "id": "m2026-001",
-      "league": "Champions League",
-      "homeTeam": "Real Madrid",
-      "awayTeam": "Manchester City",
-      "kickoff_utc": "2026-04-17T20:00:00Z",
-      "local_date_key": "2026-04-17",
-      "status": "PENDING",
-      "access_type": "VIP",
-      "prediction": {
-        "mainPick": "Home or Draw",
-        "odds": "1.55",
-        "confidence": 82,
-        "overUnder": "Over 2.5",
-        "btts": "Yes"
-      },
-      "correctScoreOptions": [
-        { "score": "2-1", "probability": 30, "odds": "9.00" },
-        { "score": "2-2", "probability": 20, "odds": "14.00" }
-      ],
-      "homeForm": "WWWWD",
-      "awayForm": "WWDWL",
-      "avgGoals": 3.4,
-      "analysis": "2026 Şampiyonlar Ligi çeyrek finalinde devlerin buluşması. Real Madrid evinde kaybetmez."
-    },
-    {
-      "id": "m2026-002",
+      "id": "m2026_001",
       "league": "Premier League",
-      "homeTeam": "Arsenal",
+      "homeTeam": "Manchester City",
       "awayTeam": "Liverpool",
-      "kickoff_utc": "2026-04-17T17:30:00Z",
-      "local_date_key": "2026-04-17",
+      "date": "2026-04-17",
+      "time": "20:00",
       "status": "PENDING",
       "access_type": "FREE",
       "is_daily_pick": true,
       "prediction": {
-        "mainPick": "Over 2.5",
-        "odds": "1.70",
-        "confidence": 90
+        "mainPick": "Home Win",
+        "odds": "1.45",
+        "confidence": 88
       },
-      "predictedScore": { "score": "3-2", "odds": "22.00" },
-      "homeForm": "WWWWW",
-      "awayForm": "LWWWW",
-      "avgGoals": 3.8,
-      "analysis": "Günün en güvenilir maçı. İki takımın hücum hattı da çok formda."
+      "predictedScore": {
+        "score": "3-1",
+        "odds": "12.00"
+      },
+      "homeForm": "WWWDW",
+      "awayForm": "WWDWL",
+      "avgGoals": 3.4,
+      "analysis": "2026 yılının şampiyonluk düğümü bu maçla çözülebilir. City evinde favori."
     },
     {
-      "id": "m2026-003",
-      "league": "Trendyol Süper Lig",
-      "homeTeam": "Galatasaray",
-      "awayTeam": "Fenerbahçe",
-      "kickoff_utc": "2026-04-17T19:00:00Z",
-      "local_date_key": "2026-04-17",
+      "id": "m2026_002",
+      "league": "La Liga",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Barcelona",
+      "date": "2026-04-17",
+      "time": "21:00",
+      "status": "PENDING",
+      "access_type": "VIP",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.65",
+        "confidence": 92
+      },
+      "homeForm": "WWWWW",
+      "awayForm": "WWDLW",
+      "avgGoals": 2.8,
+      "analysis": "El Clasico'da gol sesi eksik olmaz. İki takımın forvet hattı da zirvede."
+    },
+    {
+      "id": "m2026_003",
+      "league": "Serie A",
+      "homeTeam": "Inter",
+      "awayTeam": "Juventus",
+      "date": "2026-04-17",
+      "time": "19:00",
       "status": "PENDING",
       "access_type": "AD_UNLOCK",
       "prediction": {
-        "mainPick": "Home Win",
-        "odds": "2.10",
+        "mainPick": "Under 2.5",
+        "odds": "1.85",
         "confidence": 75
       },
       "homeForm": "WWWDL",
       "awayForm": "WWDWW",
-      "avgGoals": 2.5,
-      "usersPickedPercent": 68
-    },
-    {
-      "id": "m2026-history-1",
-      "league": "Serie A",
-      "homeTeam": "Inter",
-      "awayTeam": "Napoli",
-      "kickoff_utc": "2026-04-16T19:45:00Z",
-      "local_date_key": "2026-04-16",
-      "status": "WON",
-      "access_type": "FREE",
-      "prediction": {
-        "mainPick": "Home Win",
-        "odds": "1.80",
-        "confidence": 85
-      },
-      "correctScore": { "score": "2-0", "odds": "8.50", "result": "WON" },
-      "homeForm": "WWWWW",
-      "awayForm": "LDWLW"
+      "avgGoals": 1.9
     }
   ]
 }
-      
