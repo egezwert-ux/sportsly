@@ -1939,7 +1939,7 @@
     "league": "Copa Sudamericana",
     "homeTeam": "Atlético Mineiro",
     "awayTeam": "Juventud de las Piedras",
-    "kickoff_utc": "2026-04-16T22:00:00Z",
+    "kickoff_utc": "2026-04-17T22:00:00Z",
     "local_date_key": "2026-04-17",
     "prediction": {
       "mainPick": "1 & Over 1.5",
@@ -1994,6 +1994,7 @@
     "risk_label": "NORMAL",
     "is_daily_pick": false
   },
+ [
   {
     "id": "m202",
     "league": "Copa Libertadores",
@@ -2037,7 +2038,7 @@
       "confidence": 94,
       "overUnder": "Over 2.5",
       "btts": "No",
-      "card": "Over 3.5",
+      "card": "Over 3.5", 
       "corner": "Over 9.5"
     },
     "correctScoreOptions": [
