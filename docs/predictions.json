@@ -1,38 +1,362 @@
 {
   "version": "v2.2.0",
-  "summary": "Matchly Pro: Günün en yüksek güven oranlı (92%) skor tahmini yayında! 🚀",
+  "summary": "Matchly Pro: Today's hottest MS-2.5 bulletin! 13 high-odds matches with 75%+ confidence predictions. Fener, Inter, Elversberg are the bank bets! 🚀🎯",
   "monetization": {
-    "vip": { "ads_removed": true }
+    "vip": {
+      "ads_removed": true
+    }
   },
   "matches": [
     {
-      "id": "m-real-city-001",
-      "league": "UEFA Champions League",
-      "homeTeam": "Real Madrid",
-      "awayTeam": "Manchester City",
-      "kickoff_utc": "2026-04-17T20:00:00Z",
-      "status": "WON",
-      "final_score": "2-1",
+      "id": "m301",
+      "league": "Turkey Super Lig",
+      "homeTeam": "Antalyaspor",
+      "awayTeam": "Konyaspor",
+      "date": "2026-04-17",
+      "time": "20:00",
+      "status": "PENDING",
+      "risk_label": "MEDIUM",
+      "access_type": "AD_UNLOCK",
+      "isDailyPick": false,
+      "prediction": {
+        "mainPick": "Under 2.5",
+        "odds": "1.64",
+        "confidence": 76,
+        "overUnder": "Under 2.5",
+        "btts": "No"
+      },
+      "correctScoreOptions": [
+        { "score": "1-0", "probability": 45, "odds": "6.00" },
+        { "score": "0-0", "probability": 30, "odds": "7.50" },
+        { "score": "1-1", "probability": 15, "odds": "7.00" }
+      ],
+      "homeForm": "WWDWL",
+      "awayForm": "DDWWL",
+      "analysis": "Both teams are defensively solid and tend to play low-scoring games. Under 2.5 is the most logical choice."
+    },
+    {
+      "id": "m302",
+      "league": "Turkey Super Lig",
+      "homeTeam": "Fenerbahce",
+      "awayTeam": "Rizespor",
+      "date": "2026-04-17",
+      "time": "20:00",
+      "status": "PENDING",
       "risk_label": "LOW",
       "access_type": "FREE",
       "isDailyPick": true,
       "prediction": {
         "mainPick": "Home Win",
-        "odds": "2.15",
-        "confidence": 92,
+        "odds": "1.18",
+        "confidence": 90,
         "overUnder": "Over 2.5",
-        "btts": "Yes",
-        "card": "Under 4.5",
-        "corner": "Over 9.5"
+        "btts": "No"
       },
       "correctScoreOptions": [
-        { "score": "2-1", "probability": 40, "odds": "9.50", "result": "WON" },
-        { "score": "1-1", "probability": 30, "odds": "7.00", "result": "PENDING" },
-        { "score": "3-1", "probability": 15, "odds": "14.00", "result": "PENDING" }
+        { "score": "3-0", "probability": 45, "odds": "6.50" },
+        { "score": "2-0", "probability": 30, "odds": "5.00" },
+        { "score": "4-0", "probability": 15, "odds": "12.00" }
       ],
       "homeForm": "WWWWW",
-      "awayForm": "WWDWL",
-      "analysis": "Real Madrid evinde Şampiyonlar Ligi tecrübesiyle bir adım önde. Karşılıklı gollerin olacağı çekişmeli bir maç bekliyoruz."
+      "awayForm": "LLDLW",
+      "analysis": "Fenerbahce dominates at home. Rizespor struggles away. Comfortable home victory expected."
+    },
+    {
+      "id": "m303",
+      "league": "AFC Asian Champions League",
+      "homeTeam": "Machida Zelvia",
+      "awayTeam": "AL Ittihad",
+      "date": "2026-04-17",
+      "time": "21:00",
+      "status": "PENDING",
+      "risk_label": "MEDIUM",
+      "access_type": "AD_UNLOCK",
+      "isDailyPick": false,
+      "prediction": {
+        "mainPick": "Away Win",
+        "odds": "1.64",
+        "confidence": 74,
+        "overUnder": "Under 2.5",
+        "btts": "No"
+      },
+      "correctScoreOptions": [
+        { "score": "0-1", "probability": 42, "odds": "6.50" },
+        { "score": "0-2", "probability": 28, "odds": "9.00" },
+        { "score": "1-1", "probability": 18, "odds": "7.00" }
+      ],
+      "homeForm": "WDLWW",
+      "awayForm": "WWWDW",
+      "analysis": "AL Ittihad has superior quality and form. Away win in a low-scoring match is the most likely outcome."
+    },
+    {
+      "id": "m304",
+      "league": "Germany Bundesliga",
+      "homeTeam": "St. Pauli",
+      "awayTeam": "Köln",
+      "date": "2026-04-17",
+      "time": "21:30",
+      "status": "PENDING",
+      "risk_label": "MEDIUM",
+      "access_type": "AD_UNLOCK",
+      "isDailyPick": false,
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.73",
+        "confidence": 75,
+        "overUnder": "Over 2.5",
+        "btts": "Yes"
+      },
+      "correctScoreOptions": [
+        { "score": "2-1", "probability": 38, "odds": "8.50" },
+        { "score": "1-2", "probability": 25, "odds": "9.00" },
+        { "score": "2-2", "probability": 20, "odds": "10.00" }
+      ],
+      "homeForm": "WWDLW",
+      "awayForm": "WLDWW",
+      "analysis": "Both teams have been involved in high-scoring games recently. An open match with goals at both ends is expected."
+    },
+    {
+      "id": "m305",
+      "league": "Italy Serie A",
+      "homeTeam": "Inter",
+      "awayTeam": "Cagliari",
+      "date": "2026-04-17",
+      "time": "21:45",
+      "status": "PENDING",
+      "risk_label": "LOW",
+      "access_type": "FREE",
+      "isDailyPick": true,
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.07",
+        "confidence": 92,
+        "overUnder": "Over 2.5",
+        "btts": "No"
+      },
+      "correctScoreOptions": [
+        { "score": "3-0", "probability": 40, "odds": "7.00" },
+        { "score": "2-0", "probability": 35, "odds": "5.50" },
+        { "score": "4-0", "probability": 15, "odds": "13.00" }
+      ],
+      "homeForm": "WWWWW",
+      "awayForm": "LLDLW",
+      "analysis": "Inter is unbeatable at home. Cagliari struggles on the road. Clear home win expected."
+    },
+    {
+      "id": "m306",
+      "league": "France Ligue 1",
+      "homeTeam": "RC Lens",
+      "awayTeam": "Toulouse",
+      "date": "2026-04-17",
+      "time": "21:45",
+      "status": "PENDING",
+      "risk_label": "LOW",
+      "access_type": "AD_UNLOCK",
+      "isDailyPick": false,
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.25",
+        "confidence": 85,
+        "overUnder": "Over 2.5",
+        "btts": "Yes"
+      },
+      "correctScoreOptions": [
+        { "score": "2-1", "probability": 40, "odds": "8.00" },
+        { "score": "3-1", "probability": 25, "odds": "11.00" },
+        { "score": "2-0", "probability": 20, "odds": "7.50" }
+      ],
+      "homeForm": "WWWDW",
+      "awayForm": "WDLWL",
+      "analysis": "Lens is very strong at home. Toulouse has defensive issues on the road."
+    },
+    {
+      "id": "m307",
+      "league": "Africa CAF Confederation Cup",
+      "homeTeam": "Zamalek",
+      "awayTeam": "CR Belouizdad",
+      "date": "2026-04-17",
+      "time": "19:00",
+      "status": "PENDING",
+      "risk_label": "LOW",
+      "access_type": "AD_UNLOCK",
+      "isDailyPick": false,
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.57",
+        "confidence": 78,
+        "overUnder": "Under 2.5",
+        "btts": "No"
+      },
+      "correctScoreOptions": [
+        { "score": "1-0", "probability": 48, "odds": "6.00" },
+        { "score": "2-0", "probability": 25, "odds": "9.00" },
+        { "score": "0-0", "probability": 18, "odds": "7.50" }
+      ],
+      "homeForm": "WWWDW",
+      "awayForm": "LDLLW",
+      "analysis": "Zamalek is dominant at home. Belouizdad struggles to score away. Low-scoring home win expected."
+    },
+    {
+      "id": "m308",
+      "league": "Germany 2. Bundesliga",
+      "homeTeam": "Elversberg",
+      "awayTeam": "Karlsruher SC",
+      "date": "2026-04-17",
+      "time": "19:30",
+      "status": "PENDING",
+      "risk_label": "LOW",
+      "access_type": "FREE",
+      "isDailyPick": true,
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.25",
+        "confidence": 83,
+        "overUnder": "Under 2.5",
+        "btts": "No"
+      },
+      "correctScoreOptions": [
+        { "score": "2-0", "probability": 40, "odds": "6.00" },
+        { "score": "1-0", "probability": 30, "odds": "5.50" },
+        { "score": "3-0", "probability": 20, "odds": "11.00" }
+      ],
+      "homeForm": "WWWWW",
+      "awayForm": "LDLLW",
+      "analysis": "Elversberg is unbeaten in their last 8 matches. Karlsruhe is poor on the road. Comfortable home win expected."
+    },
+    {
+      "id": "m309",
+      "league": "Germany 2. Bundesliga",
+      "homeTeam": "Holstein Kiel",
+      "awayTeam": "Kaiserslautern",
+      "date": "2026-04-17",
+      "time": "19:30",
+      "status": "PENDING",
+      "risk_label": "MEDIUM",
+      "access_type": "AD_UNLOCK",
+      "isDailyPick": false,
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.43",
+        "confidence": 79,
+        "overUnder": "Over 2.5",
+        "btts": "Yes"
+      },
+      "correctScoreOptions": [
+        { "score": "2-1", "probability": 38, "odds": "8.50" },
+        { "score": "2-2", "probability": 28, "odds": "10.00" },
+        { "score": "3-1", "probability": 20, "odds": "12.00" }
+      ],
+      "homeForm": "WWDWW",
+      "awayForm": "WLWDL",
+      "analysis": "Both teams have been involved in high-scoring encounters lately. An open game with goals at both ends is expected."
+    },
+    {
+      "id": "m310",
+      "league": "Italy Serie A",
+      "homeTeam": "Sassuolo",
+      "awayTeam": "Como 1907",
+      "date": "2026-04-17",
+      "time": "19:30",
+      "status": "PENDING",
+      "risk_label": "LOW",
+      "access_type": "AD_UNLOCK",
+      "isDailyPick": false,
+      "prediction": {
+        "mainPick": "Away Win",
+        "odds": "1.33",
+        "confidence": 78,
+        "overUnder": "Over 2.5",
+        "btts": "Yes"
+      },
+      "correctScoreOptions": [
+        { "score": "1-2", "probability": 40, "odds": "8.50" },
+        { "score": "0-2", "probability": 25, "odds": "9.00" },
+        { "score": "1-1", "probability": 20, "odds": "7.00" }
+      ],
+      "homeForm": "WDLWL",
+      "awayForm": "WWWDW",
+      "analysis": "Como is in better form and has more quality than Sassuolo. Away win is highly probable."
+    },
+    {
+      "id": "m311",
+      "league": "Russia Premier League",
+      "homeTeam": "FK Rostov",
+      "awayTeam": "Sochi",
+      "date": "2026-04-17",
+      "time": "19:30",
+      "status": "PENDING",
+      "risk_label": "LOW",
+      "access_type": "AD_UNLOCK",
+      "isDailyPick": false,
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.24",
+        "confidence": 80,
+        "overUnder": "Under 2.5",
+        "btts": "No"
+      },
+      "correctScoreOptions": [
+        { "score": "1-0", "probability": 48, "odds": "5.50" },
+        { "score": "2-0", "probability": 28, "odds": "8.00" },
+        { "score": "0-0", "probability": 18, "odds": "7.50" }
+      ],
+      "homeForm": "WWWDW",
+      "awayForm": "LLDLW",
+      "analysis": "Rostov is solid defensively at home. Sochi struggles to score on the road. Low-scoring home win expected."
+    },
+    {
+      "id": "m312",
+      "league": "Germany 3. Liga",
+      "homeTeam": "Regensburg",
+      "awayTeam": "A. Aachen",
+      "date": "2026-04-17",
+      "time": "20:00",
+      "status": "PENDING",
+      "risk_label": "MEDIUM",
+      "access_type": "AD_UNLOCK",
+      "isDailyPick": false,
+      "prediction": {
+        "mainPick": "Away Win",
+        "odds": "1.93",
+        "confidence": 73,
+        "overUnder": "Over 2.5",
+        "btts": "Yes"
+      },
+      "correctScoreOptions": [
+        { "score": "1-2", "probability": 38, "odds": "8.50" },
+        { "score": "0-2", "probability": 25, "odds": "9.50" },
+        { "score": "2-2", "probability": 20, "odds": "10.00" }
+      ],
+      "homeForm": "LDLWW",
+      "awayForm": "WWWWW",
+      "analysis": "A. Aachen is in excellent form and effective away. Regensburg struggles at home."
+    },
+    {
+      "id": "m313",
+      "league": "Portugal Primeira Liga",
+      "homeTeam": "Rio Ave",
+      "awayTeam": "AVS Futebol Sad",
+      "date": "2026-04-17",
+      "time": "22:45",
+      "status": "PENDING",
+      "risk_label": "MEDIUM",
+      "access_type": "AD_UNLOCK",
+      "isDailyPick": false,
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.46",
+        "confidence": 77,
+        "overUnder": "Under 2.5",
+        "btts": "No"
+      },
+      "correctScoreOptions": [
+        { "score": "1-0", "probability": 45, "odds": "6.00" },
+        { "score": "2-0", "probability": 25, "odds": "9.00" },
+        { "score": "0-0", "probability": 20, "odds": "7.50" }
+      ],
+      "homeForm": "WWWDW",
+      "awayForm": "LLDLW",
+      "analysis": "Rio Ave has a strong home defense. AVS struggles to score away. Low-scoring home win expected."
     }
   ]
 }
