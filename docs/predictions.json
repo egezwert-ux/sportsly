@@ -20,7 +20,7 @@
       "awayTeam": "CA Platense",
       "date": "2026-04-17",
       "time": "03:30",
-      "status": "PENDING",
+      "status": "lost",
       "access_type": "AD_UNLOCK",
       "prediction": {
         "mainPick": "Home Win",
@@ -47,7 +47,7 @@
       "awayTeam": "Independiente Medellin",
       "date": "2026-04-17",
       "time": "03:30",
-      "status": "PENDING",
+      "status": "Won",
       "access_type": "FREE",
       "is_daily_pick": true,
       "prediction": {
@@ -75,7 +75,7 @@
       "awayTeam": "CD Cuenca",
       "date": "2026-04-17",
       "time": "03:30",
-      "status": "PENDING",
+      "status": "won",
       "access_type": "AD_UNLOCK",
       "prediction": {
         "mainPick": "Home Win",
@@ -102,7 +102,7 @@
       "awayTeam": "Blooming",
       "date": "2026-04-17",
       "time": "03:30",
-      "status": "PENDING",
+      "status": "won",
       "access_type": "AD_UNLOCK",
       "prediction": {
         "mainPick": "Home Win",
@@ -129,7 +129,7 @@
       "awayTeam": "CSD Imperial",
       "date": "2026-04-17",
       "time": "04:00",
-      "status": "PENDING",
+      "status": "won",
       "access_type": "AD_UNLOCK",
       "prediction": {
         "mainPick": "Home Win",
@@ -156,7 +156,7 @@
       "awayTeam": "Motagua",
       "date": "2026-04-17",
       "time": "04:30",
-      "status": "PENDING",
+      "status": "won",
       "access_type": "AD_UNLOCK",
       "prediction": {
         "mainPick": "Away Win",
