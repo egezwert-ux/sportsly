@@ -1,6 +1,6 @@
 {
   "version": "v2.2.0",
-  "summary": "Matchly Pro: 25 premium MS-2.5 quality matches added! High-confidence predictions for K-League, J-League, Premier League, Bundesliga and more. Bank bets ready! 🚀🎯",
+  "summary": "Matchly Pro: 18 premium MS-2.5 quality matches for April 19! VIP bank bets + high-confidence predictions from Serie A, Premier League, Bundesliga, Ligue 1 & Süper Lig. No free matches – all VIP or AD_UNLOCK! 🚀🎯",
   "monetization": {
     "vip": {
       "ads_removed": true
@@ -8,101 +8,74 @@
   },
   "matches": [
     {
-      "id": "m314",
-      "league": "South Korea K-League 1",
-      "homeTeam": "Seoul",
-      "awayTeam": "Daejeon Citizen",
-      "date": "2026-04-18",
-      "time": "08:00",
-      "status": "lost",
+      "id": "m419",
+      "league": "Italy Serie A",
+      "homeTeam": "Cremonese",
+      "awayTeam": "Torino",
+      "date": "2026-04-19",
+      "time": "13:30",
+      "status": "PENDING",
       "risk_label": "MEDIUM",
       "access_type": "AD_UNLOCK",
       "isDailyPick": false,
       "prediction": {
-        "mainPick": "Home Win",
-        "odds": "1.69",
-        "confidence": 78,
-        "overUnder": "Over 2.5",
-        "btts": "Yes"
-      },
-      "correctScoreOptions": [
-        { "score": "2-1", "probability": 38, "odds": "8.50" },
-        { "score": "2-0", "probability": 28, "odds": "7.50" },
-        { "score": "1-1", "probability": 20, "odds": "6.50" }
-      ],
-      "homeForm": "WWDLW",
-      "awayForm": "LDLWW",
-      "analysis": "Seoul strong at home with attacking form. Daejeon struggles away but can score. Open game with goals expected."
-    },
-    {
-      "id": "m315",
-      "league": "South Korea K-League 1",
-      "homeTeam": "Gangwon",
-      "awayTeam": "Jeonbuk",
-      "date": "2026-04-18",
-      "time": "08:00",
-      "status": "lost",
-      "risk_label": "MEDIUM",
-      "access_type": "AD_UNLOCK",
-      "isDailyPick": false,
-      "prediction": {
-        "mainPick": "Home Win",
-        "odds": "2.18",
+        "mainPick": "Away Win",
+        "odds": "2.27",
         "confidence": 74,
-        "overUnder": "Over 2.5",
-        "btts": "Yes"
+        "overUnder": "Under 2.5",
+        "btts": "No"
       },
       "correctScoreOptions": [
-        { "score": "2-1", "probability": 35, "odds": "9.00" },
+        { "score": "0-1", "probability": 42, "odds": "6.50" },
         { "score": "1-1", "probability": 30, "odds": "7.00" },
-        { "score": "2-0", "probability": 20, "odds": "8.50" }
+        { "score": "0-2", "probability": 18, "odds": "9.50" }
       ],
-      "homeForm": "WWDWW",
-      "awayForm": "LLDWL",
-      "analysis": "Gangwon in solid home form. Jeonbuk inconsistent on the road. Home win with goals likely."
+      "homeForm": "LDLWL",
+      "awayForm": "WWDWW",
+      "analysis": "Torino in strong recent form and higher in the table. Cremonese struggling at home with poor results. Low-scoring away win most probable."
     },
     {
-      "id": "m316",
-      "league": "Japan J2/J3 League",
-      "homeTeam": "Niigata",
-      "awayTeam": "Imabari",
-      "date": "2026-04-18",
-      "time": "08:00",
-      "status": "won",
+      "id": "m420",
+      "league": "Turkey Super Lig",
+      "homeTeam": "Kasimpasa",
+      "awayTeam": "Alanyaspor",
+      "date": "2026-04-19",
+      "time": "14:30",
+      "status": "PENDING",
       "risk_label": "MEDIUM",
       "access_type": "AD_UNLOCK",
       "isDailyPick": false,
       "prediction": {
         "mainPick": "Home Win",
-        "odds": "1.92",
-        "confidence": 76,
+        "odds": "2.36",
+        "confidence": 73,
         "overUnder": "Over 2.5",
         "btts": "Yes"
       },
       "correctScoreOptions": [
         { "score": "2-1", "probability": 38, "odds": "8.50" },
-        { "score": "2-0", "probability": 25, "odds": "7.50" },
-        { "score": "1-1", "probability": 22, "odds": "6.50" }
+        { "score": "1-1", "probability": 28, "odds": "7.00" },
+        { "score": "2-0", "probability": 20, "odds": "9.00" }
       ],
-      "homeForm": "WWWDW",
-      "awayForm": "WDLWL",
-      "analysis": "Niigata solid at home. Imabari vulnerable away. Home win in an open match expected."
+      "homeForm": "WDLWW",
+      "awayForm": "DDWWL",
+      "analysis": "Kasimpasa solid at home with attacking form. Alanyaspor inconsistent away but can score. Home win in an open game expected."
     },
     {
-      "id": "m317",
-      "league": "Japan J2/J3 League",
-      "homeTeam": "Omiya Ardija",
-      "awayTeam": "Iwata Jubilo",
-      "date": "2026-04-18",
-      "time": "08:00",
-      "status": "lost",
+      "id": "m421",
+      "league": "England Premier League",
+      "homeTeam": "Nottingham F.",
+      "awayTeam": "Burnley",
+      "date": "2026-04-19",
+      "time": "16:00",
+      "status": "PENDING",
       "risk_label": "LOW",
-      "access_type": "FREE",
+      "access_type": "VIP",
       "isDailyPick": true,
       "prediction": {
         "mainPick": "Home Win",
-        "odds": "1.52",
-        "confidence": 82,
+        "odds": "1.29",
+        "confidence": 85,
         "overUnder": "Over 2.5",
         "btts": "Yes"
       },
@@ -111,241 +84,52 @@
         { "score": "2-0", "probability": 30, "odds": "6.50" },
         { "score": "3-1", "probability": 18, "odds": "12.00" }
       ],
-      "homeForm": "WWWWW",
-      "awayForm": "LDLWW",
-      "analysis": "Omiya Ardija dominant at home. Iwata Jubilo inconsistent away. Comfortable home victory expected."
-    },
-    {
-      "id": "m318",
-      "league": "Japan J2/J3 League",
-      "homeTeam": "Sendai",
-      "awayTeam": "Tochigi City",
-      "date": "2026-04-18",
-      "time": "08:00",
-      "status": "won",
-      "risk_label": "LOW",
-      "access_type": "AD_UNLOCK",
-      "isDailyPick": false,
-      "prediction": {
-        "mainPick": "Home Win",
-        "odds": "1.33",
-        "confidence": 85,
-        "overUnder": "Over 2.5",
-        "btts": "No"
-      },
-      "correctScoreOptions": [
-        { "score": "2-0", "probability": 42, "odds": "6.50" },
-        { "score": "1-0", "probability": 30, "odds": "5.50" },
-        { "score": "3-0", "probability": 18, "odds": "11.00" }
-      ],
       "homeForm": "WWWDW",
       "awayForm": "LLDLW",
-      "analysis": "Sendai very strong at home. Tochigi City weak on travels. Clear home win expected."
+      "analysis": "Nottingham Forest strong at home and in good recent form. Burnley near the bottom and weak on the road. Comfortable home victory with goals expected."
     },
     {
-      "id": "m319",
-      "league": "Japan J2/J3 League",
-      "homeTeam": "Nara Club",
-      "awayTeam": "Kamatamare S.",
-      "date": "2026-04-18",
-      "time": "08:00",
-      "status": "won",
-      "risk_label": "MEDIUM",
-      "access_type": "AD_UNLOCK",
-      "isDailyPick": false,
-      "prediction": {
-        "mainPick": "Home Win",
-        "odds": "2.03",
-        "confidence": 75,
-        "overUnder": "Over 2.5",
-        "btts": "Yes"
-      },
-      "correctScoreOptions": [
-        { "score": "2-1", "probability": 38, "odds": "9.00" },
-        { "score": "2-0", "probability": 25, "odds": "8.00" },
-        { "score": "1-1", "probability": 22, "odds": "7.00" }
-      ],
-      "homeForm": "WDLWW",
-      "awayForm": "LDLWL",
-      "analysis": "Nara Club good home record. Kamatamare S. inconsistent. Home win with goals probable."
-    },
-    {
-      "id": "m320",
-      "league": "Japan J2/J3 League",
-      "homeTeam": "T. Vortis",
-      "awayTeam": "Z. Kanazawa",
-      "date": "2026-04-18",
-      "time": "08:00",
-      "status": "won",
-      "risk_label": "LOW",
-      "access_type": "FREE",
-      "isDailyPick": true,
-      "prediction": {
-        "mainPick": "Home Win",
-        "odds": "1.33",
-        "confidence": 84,
-        "overUnder": "Over 2.5",
-        "btts": "Yes"
-      },
-      "correctScoreOptions": [
-        { "score": "2-1", "probability": 40, "odds": "8.00" },
-        { "score": "3-1", "probability": 25, "odds": "12.00" },
-        { "score": "2-0", "probability": 20, "odds": "7.00" }
-      ],
-      "homeForm": "WWWWW",
-      "awayForm": "WDLWL",
-      "analysis": "T. Vortis excellent home form. Z. Kanazawa vulnerable away. Home win with goals expected."
-    },
-    {
-      "id": "m321",
-      "league": "Turkey Super Lig",
-      "homeTeam": "Kocaelispor",
-      "awayTeam": "Goztepe",
-      "date": "2026-04-18",
-      "time": "17:00",
-      "status": "won",
-      "risk_label": "MEDIUM",
-      "access_type": "AD_UNLOCK",
-      "isDailyPick": false,
-      "prediction": {
-        "mainPick": "Draw",
-        "odds": "2.65",
-        "confidence": 72,
-        "overUnder": "Under 2.5",
-        "btts": "No"
-      },
-      "correctScoreOptions": [
-        { "score": "1-1", "probability": 40, "odds": "6.50" },
-        { "score": "0-0", "probability": 30, "odds": "7.50" },
-        { "score": "1-0", "probability": 18, "odds": "8.00" }
-      ],
-      "homeForm": "WDLWW",
-      "awayForm": "WWDLW",
-      "analysis": "Evenly matched teams with defensive tendencies. Low-scoring draw most probable."
-    },
-    {
-      "id": "m322",
-      "league": "Russia Premier League",
-      "homeTeam": "Rubin Kazan",
-      "awayTeam": "Akron Tolyatti",
-      "date": "2026-04-18",
-      "time": "17:00",
-      "status": "lost",
-      "risk_label": "MEDIUM",
-      "access_type": "AD_UNLOCK",
-      "isDailyPick": false,
-      "prediction": {
-        "mainPick": "Home Win",
-        "odds": "1.80",
-        "confidence": 77,
-        "overUnder": "Under 2.5",
-        "btts": "No"
-      },
-      "correctScoreOptions": [
-        { "score": "1-0", "probability": 45, "odds": "6.00" },
-        { "score": "2-0", "probability": 25, "odds": "8.50" },
-        { "score": "0-0", "probability": 20, "odds": "7.00" }
-      ],
-      "homeForm": "WWWDW",
-      "awayForm": "LDLWL",
-      "analysis": "Rubin Kazan solid at home. Akron Tolyatti weak away. Low-scoring home win expected."
-    },
-    {
-      "id": "m323",
-      "league": "Northern Ireland Premiership",
-      "homeTeam": "Cliftonville",
-      "awayTeam": "Dungannon",
-      "date": "2026-04-18",
-      "time": "17:00",
-      "status": "won",
-      "risk_label": "MEDIUM",
-      "access_type": "AD_UNLOCK",
-      "isDailyPick": false,
-      "prediction": {
-        "mainPick": "Home Win",
-        "odds": "1.78",
-        "confidence": 76,
-        "overUnder": "Over 2.5",
-        "btts": "Yes"
-      },
-      "correctScoreOptions": [
-        { "score": "2-1", "probability": 38, "odds": "8.50" },
-        { "score": "2-0", "probability": 28, "odds": "7.50" },
-        { "score": "3-1", "probability": 20, "odds": "12.00" }
-      ],
-      "homeForm": "WWDLW",
-      "awayForm": "LLDWW",
-      "analysis": "Cliftonville strong at home. Dungannon vulnerable on the road. Home win with goals likely."
-    },
-    {
-      "id": "m324",
-      "league": "Northern Ireland Premiership",
-      "homeTeam": "Linfield",
-      "awayTeam": "Coleraine",
-      "date": "2026-04-18",
-      "time": "17:00",
-      "status": "lost",
-      "risk_label": "LOW",
-      "access_type": "AD_UNLOCK",
-      "isDailyPick": true,
-      "prediction": {
-        "mainPick": "Home Win",
-        "odds": "2.91",
-        "confidence": 73,
-        "overUnder": "Over 2.5",
-        "btts": "Yes"
-      },
-      "correctScoreOptions": [
-        { "score": "2-1", "probability": 35, "odds": "9.00" },
-        { "score": "3-1", "probability": 25, "odds": "12.00" },
-        { "score": "2-0", "probability": 22, "odds": "8.50" }
-      ],
-      "homeForm": "WWWWW",
-      "awayForm": "WDLWL",
-      "analysis": "Linfield in excellent home form. Coleraine inconsistent away. Home win expected."
-    },
-    {
-      "id": "m325",
+      "id": "m422",
       "league": "England Premier League",
-      "homeTeam": "Tottenham",
-      "awayTeam": "Brighton",
-      "date": "2026-04-18",
-      "time": "19:30",
+      "homeTeam": "Aston Villa",
+      "awayTeam": "Sunderland",
+      "date": "2026-04-19",
+      "time": "16:00",
       "status": "PENDING",
-      "risk_label": "MEDIUM",
-      "access_type": "AD_UNLOCK",
+      "risk_label": "LOW",
+      "access_type": "VIP",
       "isDailyPick": false,
       "prediction": {
         "mainPick": "Home Win",
-        "odds": "2.45",
-        "confidence": 74,
+        "odds": "1.52",
+        "confidence": 82,
         "overUnder": "Over 2.5",
         "btts": "Yes"
       },
       "correctScoreOptions": [
         { "score": "2-1", "probability": 38, "odds": "8.50" },
         { "score": "3-1", "probability": 25, "odds": "11.00" },
-        { "score": "2-2", "probability": 20, "odds": "9.50" }
+        { "score": "2-0", "probability": 20, "odds": "7.50" }
       ],
-      "homeForm": "WWDLW",
-      "awayForm": "WWDWW",
-      "analysis": "Tottenham strong at home. Brighton open and attacking. Home win with goals expected."
+      "homeForm": "WWWDW",
+      "awayForm": "WDLWL",
+      "analysis": "Aston Villa very strong at home. Sunderland inconsistent on the road. Home win with goals at both ends expected."
     },
     {
-      "id": "m326",
-      "league": "Germany Bundesliga",
-      "homeTeam": "E. Frankfurt",
-      "awayTeam": "Leipzig",
-      "date": "2026-04-18",
-      "time": "19:30",
+      "id": "m423",
+      "league": "England Premier League",
+      "homeTeam": "Everton",
+      "awayTeam": "Liverpool",
+      "date": "2026-04-19",
+      "time": "16:00",
       "status": "PENDING",
       "risk_label": "MEDIUM",
-      "access_type": "AD_UNLOCK",
-      "isDailyPick": true,
+      "access_type": "VIP",
+      "isDailyPick": false,
       "prediction": {
         "mainPick": "Away Win",
-        "odds": "1.74",
-        "confidence": 78,
+        "odds": "2.03",
+        "confidence": 76,
         "overUnder": "Over 2.5",
         "btts": "Yes"
       },
@@ -356,320 +140,77 @@
       ],
       "homeForm": "WDLWW",
       "awayForm": "WWWWW",
-      "analysis": "Leipzig in superb form. Frankfurt solid but Leipzig quality should prevail. Away win with goals."
+      "analysis": "Liverpool in superb form and dominant in derbies. Everton competitive at home but Liverpool quality should win with goals."
     },
     {
-      "id": "m327",
-      "league": "Turkey Super Lig",
-      "homeTeam": "Genclerbirligi",
-      "awayTeam": "Galatasaray",
-      "date": "2026-04-17",
-      "time": "20:00",
-      "status": "PENDING",
-      "risk_label": "LOW",
-      "access_type": "AD_UNLOCK",
-      "isDailyPick": false,
-      "prediction": {
-        "mainPick": "Home win",
-        "odds": "6.20",
-        "confidence": 60,
-        "overUnder": "Over 2.5",
-        "btts": "No"
-      },
-      "correctScoreOptions": [
-        { "score": "2-0", "probability": 40, "odds": "6.50" },
-        { "score": "1-0", "probability": 30, "odds": "8.00" },
-        { "score": "2-1", "probability": 20, "odds": "11.00" }
-      ],
-      "homeForm": "LDLWL",
-      "awayForm": "WWWWW",
-      "analysis": "Galatasaray dominant force. Genclerbirligi no match at home. Comfortable away victory expected."
-    },
-    {
-      "id": "m328",
-      "league": "England Premier League",
-      "homeTeam": "Chelsea",
-      "awayTeam": "Man. Utd",
-      "date": "2026-04-18",
-      "time": "22:00",
-      "status": "PENDING",
-      "risk_label": "MEDIUM",
-      "access_type": "AD_UNLOCK",
-      "isDailyPick": true,
-      "prediction": {
-        "mainPick": "Home Win",
-        "odds": "1.87",
-        "confidence": 76,
-        "overUnder": "Over 2.5",
-        "btts": "Yes"
-      },
-      "correctScoreOptions": [
-        { "score": "2-1", "probability": 38, "odds": "8.50" },
-        { "score": "3-1", "probability": 25, "odds": "12.00" },
-        { "score": "2-2", "probability": 20, "odds": "9.50" }
-      ],
-      "homeForm": "WWWDW",
-      "awayForm": "WDLWL",
-      "analysis": "Chelsea strong at home. Man Utd inconsistent. Home win in high-scoring affair expected."
-    },
-    {
-      "id": "m329",
-      "league": "Spain Copa del Rey",
-      "homeTeam": "Atl Madrid",
-      "awayTeam": "R. Sociedad",
-      "date": "2026-04-18",
-      "time": "22:00",
-      "status": "PENDING",
-      "risk_label": "LOW",
-      "access_type": "AD_UNLOCK",
-      "isDailyPick": false,
-      "prediction": {
-        "mainPick": "Home Win",
-        "odds": "1.59",
-        "confidence": 80,
-        "overUnder": "Under 2.5",
-        "btts": "No"
-      },
-      "correctScoreOptions": [
-        { "score": "1-0", "probability": 45, "odds": "6.00" },
-        { "score": "2-0", "probability": 30, "odds": "8.50" },
-        { "score": "0-0", "probability": 15, "odds": "7.50" }
-      ],
-      "homeForm": "WWWWW",
-      "awayForm": "WWDWL",
-      "analysis": "Atletico Madrid rock-solid at home. Real Sociedad struggle in cups. Low-scoring home win expected."
-    },
-    {
-      "id": "m330",
-      "league": "Ecuador Pro Liga",
-      "homeTeam": "Mushuc Runa",
-      "awayTeam": "CD Tecnico Uni.",
-      "date": "2026-04-18",
-      "time": "22:00",
-      "status": "PENDING",
-      "risk_label": "MEDIUM",
-      "access_type": "AD_UNLOCK",
-      "isDailyPick": false,
-      "prediction": {
-        "mainPick": "Home Win",
-        "odds": "1.78",
-        "confidence": 77,
-        "overUnder": "Over 2.5",
-        "btts": "Yes"
-      },
-      "correctScoreOptions": [
-        { "score": "2-1", "probability": 38, "odds": "8.50" },
-        { "score": "2-0", "probability": 25, "odds": "7.50" },
-        { "score": "1-1", "probability": 20, "odds": "6.50" }
-      ],
-      "homeForm": "WWDLW",
-      "awayForm": "LDLWW",
-      "analysis": "Mushuc Runa good home record. Tecnico Uni vulnerable away. Home win with goals expected."
-    },
-    {
-      "id": "m331",
-      "league": "Africa CAF Champions League",
-      "homeTeam": "RSB Berkane",
-      "awayTeam": "AS Far Rabat",
-      "date": "2026-04-18",
-      "time": "22:00",
-      "status": "PENDING",
-      "risk_label": "MEDIUM",
-      "access_type": "AD_UNLOCK",
-      "isDailyPick": false,
-      "prediction": {
-        "mainPick": "Home Win",
-        "odds": "2.07",
-        "confidence": 75,
-        "overUnder": "Under 2.5",
-        "btts": "No"
-      },
-      "correctScoreOptions": [
-        { "score": "1-0", "probability": 48, "odds": "6.00" },
-        { "score": "2-0", "probability": 25, "odds": "9.00" },
-        { "score": "0-0", "probability": 18, "odds": "7.50" }
-      ],
-      "homeForm": "WWWDW",
-      "awayForm": "WDLWL",
-      "analysis": "RSB Berkane dominant at home in African competitions. Far Rabat struggle away. Low-scoring home win."
-    },
-    {
-      "id": "m332",
-      "league": "Uruguay Primera Liga",
-      "homeTeam": "R. Montevideo",
-      "awayTeam": "Defensor Sp.",
-      "date": "2026-04-18",
-      "time": "22:00",
-      "status": "PENDING",
-      "risk_label": "MEDIUM",
-      "access_type": "AD_UNLOCK",
-      "isDailyPick": false,
-      "prediction": {
-        "mainPick": "Home Win",
-        "odds": "1.85",
-        "confidence": 76,
-        "overUnder": "Under 2.5",
-        "btts": "No"
-      },
-      "correctScoreOptions": [
-        { "score": "1-0", "probability": 45, "odds": "6.00" },
-        { "score": "2-0", "probability": 28, "odds": "9.00" },
-        { "score": "0-0", "probability": 18, "odds": "7.50" }
-      ],
-      "homeForm": "WWWDW",
-      "awayForm": "LDLWW",
-      "analysis": "R. Montevideo solid at home. Defensor Sp. inconsistent away. Low-scoring home win expected."
-    },
-    {
-      "id": "m333",
+      "id": "m424",
       "league": "France Ligue 1",
-      "homeTeam": "Angers",
-      "awayTeam": "Le Havre",
-      "date": "2026-04-18",
-      "time": "20:00",
-      "status": "PENDING",
-      "risk_label": "MEDIUM",
-      "access_type": "AD_UNLOCK",
-      "isDailyPick": false,
-      "prediction": {
-        "mainPick": "Draw",
-        "odds": "2.66",
-        "confidence": 73,
-        "overUnder": "Under 2.5",
-        "btts": "No"
-      },
-      "correctScoreOptions": [
-        { "score": "1-1", "probability": 40, "odds": "6.50" },
-        { "score": "0-0", "probability": 35, "odds": "7.50" },
-        { "score": "1-0", "probability": 15, "odds": "8.00" }
-      ],
-      "homeForm": "WDLWL",
-      "awayForm": "LDLWW",
-      "analysis": "Both teams defensively cautious. Low-scoring draw most probable outcome."
-    },
-    {
-      "id": "m334",
-      "league": "Bosnia Premier League",
-      "homeTeam": "Banja Luka",
-      "awayTeam": "Velez Mostar",
-      "date": "2026-04-18",
-      "time": "19:30",
+      "homeTeam": "Monaco",
+      "awayTeam": "Auxerre",
+      "date": "2026-04-19",
+      "time": "16:00",
       "status": "PENDING",
       "risk_label": "LOW",
-      "access_type": "AD_UNLOCK",
+      "access_type": "VIP",
       "isDailyPick": true,
       "prediction": {
         "mainPick": "Home Win",
-        "odds": "1.15",
+        "odds": "1.35",
         "confidence": 88,
         "overUnder": "Over 2.5",
         "btts": "No"
       },
       "correctScoreOptions": [
-        { "score": "2-0", "probability": 45, "odds": "6.00" },
-        { "score": "1-0", "probability": 30, "odds": "5.50" },
-        { "score": "3-0", "probability": 15, "odds": "11.00" }
+        { "score": "2-0", "probability": 40, "odds": "6.50" },
+        { "score": "3-0", "probability": 30, "odds": "9.00" },
+        { "score": "2-1", "probability": 18, "odds": "8.50" }
       ],
       "homeForm": "WWWWW",
       "awayForm": "LLDLW",
-      "analysis": "Banja Luka dominant at home. Velez Mostar out of depth. Comfortable home victory expected."
+      "analysis": "Monaco dominant at home with excellent recent form. Auxerre struggling and weak away. Comfortable home victory expected."
     },
     {
-      "id": "m335",
-      "league": "Germany Bundesliga",
-      "homeTeam": "B. Leverkusen",
-      "awayTeam": "Augsburg",
-      "date": "2026-04-18",
-      "time": "16:30",
+      "id": "m425",
+      "league": "Italy Serie A",
+      "homeTeam": "Hellas Verona",
+      "awayTeam": "AC Milan",
+      "date": "2026-04-19",
+      "time": "16:00",
       "status": "PENDING",
       "risk_label": "LOW",
-      "access_type": "AD_UNLOCK",
+      "access_type": "VIP",
       "isDailyPick": false,
       "prediction": {
-        "mainPick": "Home Win",
-        "odds": "1.22",
-        "confidence": 89,
+        "mainPick": "Away Win",
+        "odds": "1.34",
+        "confidence": 90,
         "overUnder": "Over 2.5",
         "btts": "No"
       },
       "correctScoreOptions": [
-        { "score": "3-0", "probability": 40, "odds": "7.00" },
-        { "score": "2-0", "probability": 35, "odds": "5.50" },
-        { "score": "4-0", "probability": 15, "odds": "13.00" }
+        { "score": "0-2", "probability": 42, "odds": "6.50" },
+        { "score": "1-2", "probability": 30, "odds": "8.00" },
+        { "score": "0-3", "probability": 18, "odds": "11.00" }
       ],
-      "homeForm": "WWWWW",
-      "awayForm": "LDLWL",
-      "analysis": "Bayer Leverkusen unstoppable at home. Augsburg no chance. Easy home win expected."
+      "homeForm": "LDLWL",
+      "awayForm": "WWWWW",
+      "analysis": "AC Milan in top form and far superior. Hellas Verona struggling at home. Comfortable away win expected."
     },
     {
-      "id": "m336",
+      "id": "m426",
       "league": "Germany Bundesliga",
-      "homeTeam": "Hoffenheim",
-      "awayTeam": "B. Dortmund",
-      "date": "2026-04-18",
+      "homeTeam": "Freiburg",
+      "awayTeam": "Heidenheim",
+      "date": "2026-04-19",
       "time": "16:30",
       "status": "PENDING",
-      "risk_label": "MEDIUM",
-      "access_type": "AD_UNLOCK",
-      "isDailyPick": false,
-      "prediction": {
-        "mainPick": "Away Win",
-        "odds": "2.25",
-        "confidence": 74,
-        "overUnder": "Over 2.5",
-        "btts": "Yes"
-      },
-      "correctScoreOptions": [
-        { "score": "1-2", "probability": 38, "odds": "8.50" },
-        { "score": "2-2", "probability": 25, "odds": "10.00" },
-        { "score": "1-3", "probability": 20, "odds": "12.00" }
-      ],
-      "homeForm": "WDLWW",
-      "awayForm": "WWWDW",
-      "analysis": "Dortmund quality shines. Hoffenheim open at home. Away win with goals expected."
-    },
-    {
-      "id": "m337",
-      "league": "Mexico Premier Liga Closing",
-      "homeTeam": "Atl San Luis",
-      "awayTeam": "Pumas Unam",
-      "date": "2026-04-18",
-      "time": "04:00",
-      "status": "lost",
-      "risk_label": "MEDIUM",
-      "access_type": "AD_UNLOCK",
+      "risk_label": "LOW",
+      "access_type": "VIP",
       "isDailyPick": false,
       "prediction": {
         "mainPick": "Home Win",
-        "odds": "2.55",
-        "confidence": 73,
-        "overUnder": "Over 2.5",
-        "btts": "Yes"
-      },
-      "correctScoreOptions": [
-        { "score": "2-1", "probability": 35, "odds": "9.00" },
-        { "score": "2-0", "probability": 25, "odds": "8.50" },
-        { "score": "1-1", "probability": 22, "odds": "7.00" }
-      ],
-      "homeForm": "WWDLW",
-      "awayForm": "WDLWL",
-      "analysis": "Atl San Luis strong at home. Pumas Unam inconsistent away. Home win with goals expected."
-    },
-    {
-      "id": "m338",
-      "league": "Chile Premier League",
-      "homeTeam": "Deportes Limache",
-      "awayTeam": "U. Concepcion",
-      "date": "2026-04-18",
-      "time": "03:00",
-      "status": "won",
-      "risk_label": "MEDIUM",
-      "access_type": "AD_UNLOCK",
-      "isDailyPick": false,
-      "prediction": {
-        "mainPick": "Home Win",
-        "odds": "1.44",
-        "confidence": 79,
+        "odds": "1.46",
+        "confidence": 82,
         "overUnder": "Over 2.5",
         "btts": "Yes"
       },
@@ -680,7 +221,277 @@
       ],
       "homeForm": "WWWDW",
       "awayForm": "LDLWW",
-      "analysis": "Deportes Limache dominant at home. U. Concepcion weak on travels. Home win with goals expected."
+      "analysis": "Freiburg strong at home with good recent results. Heidenheim vulnerable on the road. Home win with goals expected."
+    },
+    {
+      "id": "m427",
+      "league": "Turkey Super Lig",
+      "homeTeam": "Samsunspor",
+      "awayTeam": "Beşiktaş",
+      "date": "2026-04-19",
+      "time": "17:00",
+      "status": "PENDING",
+      "risk_label": "MEDIUM",
+      "access_type": "AD_UNLOCK",
+      "isDailyPick": false,
+      "prediction": {
+        "mainPick": "Away Win",
+        "odds": "1.80",
+        "confidence": 77,
+        "overUnder": "Over 2.5",
+        "btts": "Yes"
+      },
+      "correctScoreOptions": [
+        { "score": "1-2", "probability": 40, "odds": "8.50" },
+        { "score": "0-2", "probability": 25, "odds": "9.00" },
+        { "score": "1-1", "probability": 20, "odds": "7.00" }
+      ],
+      "homeForm": "WDLWL",
+      "awayForm": "WWWDW",
+      "analysis": "Beşiktaş in better form and higher quality. Samsunspor competitive at home but away win with goals likely."
+    },
+    {
+      "id": "m428",
+      "league": "France Ligue 1",
+      "homeTeam": "Nantes",
+      "awayTeam": "Brest",
+      "date": "2026-04-19",
+      "time": "18:15",
+      "status": "PENDING",
+      "risk_label": "MEDIUM",
+      "access_type": "AD_UNLOCK",
+      "isDailyPick": false,
+      "prediction": {
+        "mainPick": "Draw",
+        "odds": "2.86",
+        "confidence": 72,
+        "overUnder": "Under 2.5",
+        "btts": "No"
+      },
+      "correctScoreOptions": [
+        { "score": "1-1", "probability": 40, "odds": "6.50" },
+        { "score": "0-0", "probability": 30, "odds": "7.50" },
+        { "score": "0-1", "probability": 18, "odds": "8.00" }
+      ],
+      "homeForm": "WWDWL",
+      "awayForm": "DDWWL",
+      "analysis": "Evenly matched mid-table sides with cautious defensive styles. Low-scoring draw most probable."
+    },
+    {
+      "id": "m429",
+      "league": "France Ligue 1",
+      "homeTeam": "Metz",
+      "awayTeam": "Paris",
+      "date": "2026-04-19",
+      "time": "18:15",
+      "status": "PENDING",
+      "risk_label": "LOW",
+      "access_type": "VIP",
+      "isDailyPick": false,
+      "prediction": {
+        "mainPick": "Away Win",
+        "odds": "1.86",
+        "confidence": 88,
+        "overUnder": "Over 2.5",
+        "btts": "Yes"
+      },
+      "correctScoreOptions": [
+        { "score": "1-2", "probability": 38, "odds": "8.50" },
+        { "score": "0-2", "probability": 30, "odds": "7.50" },
+        { "score": "1-3", "probability": 20, "odds": "12.00" }
+      ],
+      "homeForm": "LDLWL",
+      "awayForm": "WWWWW",
+      "analysis": "Paris dominant and in top form. Metz struggling at home. Comfortable away win with goals expected."
+    },
+    {
+      "id": "m430",
+      "league": "France Ligue 1",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Rennes",
+      "date": "2026-04-19",
+      "time": "18:15",
+      "status": "PENDING",
+      "risk_label": "MEDIUM",
+      "access_type": "AD_UNLOCK",
+      "isDailyPick": false,
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "2.39",
+        "confidence": 74,
+        "overUnder": "Over 2.5",
+        "btts": "Yes"
+      },
+      "correctScoreOptions": [
+        { "score": "2-1", "probability": 38, "odds": "9.00" },
+        { "score": "2-0", "probability": 25, "odds": "8.00" },
+        { "score": "1-1", "probability": 22, "odds": "7.00" }
+      ],
+      "homeForm": "WWDLW",
+      "awayForm": "WDLWW",
+      "analysis": "Strasbourg strong at home with good recent form. Rennes inconsistent away. Home win in an open match expected."
+    },
+    {
+      "id": "m431",
+      "league": "Germany Bundesliga",
+      "homeTeam": "Bayern München",
+      "awayTeam": "Stuttgart",
+      "date": "2026-04-19",
+      "time": "18:30",
+      "status": "PENDING",
+      "risk_label": "LOW",
+      "access_type": "VIP",
+      "isDailyPick": true,
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.22",
+        "confidence": 90,
+        "overUnder": "Over 2.5",
+        "btts": "No"
+      },
+      "correctScoreOptions": [
+        { "score": "3-0", "probability": 40, "odds": "7.00" },
+        { "score": "2-0", "probability": 30, "odds": "5.50" },
+        { "score": "4-0", "probability": 18, "odds": "13.00" }
+      ],
+      "homeForm": "WWWWW",
+      "awayForm": "WWDWL",
+      "analysis": "Bayern München unbeatable at home and in top form. Stuttgart no match. Easy home victory expected."
+    },
+    {
+      "id": "m432",
+      "league": "England Premier League",
+      "homeTeam": "Man. City",
+      "awayTeam": "Arsenal",
+      "date": "2026-04-19",
+      "time": "18:30",
+      "status": "PENDING",
+      "risk_label": "MEDIUM",
+      "access_type": "VIP",
+      "isDailyPick": false,
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.62",
+        "confidence": 78,
+        "overUnder": "Over 2.5",
+        "btts": "Yes"
+      },
+      "correctScoreOptions": [
+        { "score": "2-1", "probability": 38, "odds": "8.50" },
+        { "score": "3-1", "probability": 25, "odds": "11.00" },
+        { "score": "2-2", "probability": 20, "odds": "9.50" }
+      ],
+      "homeForm": "WWWWW",
+      "awayForm": "WWWDW",
+      "analysis": "Man City dominant at home. Arsenal strong but City edge in big matches. Home win with goals expected."
+    },
+    {
+      "id": "m433",
+      "league": "Italy Serie A",
+      "homeTeam": "AC Pisa",
+      "awayTeam": "Genoa",
+      "date": "2026-04-19",
+      "time": "19:00",
+      "status": "PENDING",
+      "risk_label": "MEDIUM",
+      "access_type": "AD_UNLOCK",
+      "isDailyPick": false,
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "2.73",
+        "confidence": 72,
+        "overUnder": "Over 2.5",
+        "btts": "Yes"
+      },
+      "correctScoreOptions": [
+        { "score": "2-1", "probability": 35, "odds": "9.00" },
+        { "score": "1-1", "probability": 30, "odds": "7.00" },
+        { "score": "2-0", "probability": 20, "odds": "8.50" }
+      ],
+      "homeForm": "WDLWW",
+      "awayForm": "WWDWL",
+      "analysis": "Pisa solid at home with attacking form. Genoa inconsistent away. Home win with goals expected."
+    },
+    {
+      "id": "m434",
+      "league": "Turkey Super Lig",
+      "homeTeam": "Trabzonspor",
+      "awayTeam": "Başakşehir",
+      "date": "2026-04-19",
+      "time": "20:00",
+      "status": "PENDING",
+      "risk_label": "MEDIUM",
+      "access_type": "AD_UNLOCK",
+      "isDailyPick": false,
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.68",
+        "confidence": 79,
+        "overUnder": "Over 2.5",
+        "btts": "Yes"
+      },
+      "correctScoreOptions": [
+        { "score": "2-1", "probability": 38, "odds": "8.50" },
+        { "score": "2-0", "probability": 28, "odds": "7.50" },
+        { "score": "1-1", "probability": 20, "odds": "7.00" }
+      ],
+      "homeForm": "WWWDW",
+      "awayForm": "WDLWL",
+      "analysis": "Trabzonspor strong at home. Başakşehir inconsistent away. Home win with goals expected."
+    },
+    {
+      "id": "m435",
+      "league": "Germany Bundesliga",
+      "homeTeam": "M'Gladbach",
+      "awayTeam": "Mainz",
+      "date": "2026-04-19",
+      "time": "20:30",
+      "status": "PENDING",
+      "risk_label": "MEDIUM",
+      "access_type": "AD_UNLOCK",
+      "isDailyPick": false,
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "2.09",
+        "confidence": 75,
+        "overUnder": "Over 2.5",
+        "btts": "Yes"
+      },
+      "correctScoreOptions": [
+        { "score": "2-1", "probability": 38, "odds": "8.50" },
+        { "score": "2-0", "probability": 25, "odds": "8.00" },
+        { "score": "1-1", "probability": 22, "odds": "7.00" }
+      ],
+      "homeForm": "WDLWW",
+      "awayForm": "LDLWL",
+      "analysis": "M'Gladbach good home record with recent wins. Mainz inconsistent away. Home win in open match expected."
+    },
+    {
+      "id": "m436",
+      "league": "France Ligue 1",
+      "homeTeam": "PSG",
+      "awayTeam": "Lyon",
+      "date": "2026-04-19",
+      "time": "21:45",
+      "status": "PENDING",
+      "risk_label": "LOW",
+      "access_type": "VIP",
+      "isDailyPick": true,
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.14",
+        "confidence": 92,
+        "overUnder": "Over 2.5",
+        "btts": "No"
+      },
+      "correctScoreOptions": [
+        { "score": "3-0", "probability": 42, "odds": "7.00" },
+        { "score": "2-0", "probability": 32, "odds": "6.00" },
+        { "score": "4-0", "probability": 15, "odds": "13.00" }
+      ],
+      "homeForm": "WWWWW",
+      "awayForm": "WDLWL",
+      "analysis": "PSG dominant at home and in unstoppable form. Lyon no chance. Easy home victory expected."
     }
   ]
 }
