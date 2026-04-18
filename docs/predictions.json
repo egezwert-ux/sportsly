@@ -286,7 +286,7 @@
       "time": "17:00",
       "status": "PENDING",
       "risk_label": "LOW",
-      "access_type": "FREE",
+      "access_type": "AD_UNLOCK",
       "isDailyPick": true,
       "prediction": {
         "mainPick": "Home Win",
@@ -340,7 +340,7 @@
       "time": "19:30",
       "status": "PENDING",
       "risk_label": "MEDIUM",
-      "access_type": "FREE",
+      "access_type": "AD_UNLOCK",
       "isDailyPick": true,
       "prediction": {
         "mainPick": "Away Win",
@@ -394,7 +394,7 @@
       "time": "22:00",
       "status": "PENDING",
       "risk_label": "MEDIUM",
-      "access_type": "FREE",
+      "access_type": "AD_UNLOCK",
       "isDailyPick": true,
       "prediction": {
         "mainPick": "Home Win",
@@ -556,7 +556,7 @@
       "time": "19:30",
       "status": "PENDING",
       "risk_label": "LOW",
-      "access_type": "FREE",
+      "access_type": "AD_UNLOCK",
       "isDailyPick": true,
       "prediction": {
         "mainPick": "Home Win",
