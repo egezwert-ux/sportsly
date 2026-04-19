@@ -492,6 +492,466 @@
       "homeForm": "WWWWW",
       "awayForm": "WDLWL",
       "analysis": "PSG dominant at home and in unstoppable form. Lyon no chance. Easy home victory expected."
-    }
-  ]
-}
+    },
+    {
+    "id": "m437",
+    "league": "Brazil Serie A",
+    "homeTeam": "Bragantino",
+    "awayTeam": "Clube do Remo",
+    "date": "2026-04-20",
+    "time": "00:30",
+    "status": "PENDING",
+    "risk_label": "LOW",
+    "access_type": "VIP",
+    "isDailyPick": true,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.33",
+      "confidence": 84,
+      "overUnder": "Over 2.5",
+      "btts": "Yes"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 38, "odds": "8.00" },
+      { "score": "2-0", "probability": 30, "odds": "6.50" },
+      { "score": "3-1", "probability": 20, "odds": "12.00" }
+    ],
+    "homeForm": "WDLWL",
+    "awayForm": "LDLWL",
+    "analysis": "Bragantino solid at home despite mixed recent results. Clube do Remo weak on the road. Home win with goals at both ends expected."
+  },
+  {
+    "id": "m438",
+    "league": "Brazil Serie A",
+    "homeTeam": "Palmeiras SP",
+    "awayTeam": "Paranaense",
+    "date": "2026-04-20",
+    "time": "00:30",
+    "status": "PENDING",
+    "risk_label": "LOW",
+    "access_type": "VIP",
+    "isDailyPick": false,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.39",
+      "confidence": 82,
+      "overUnder": "Over 2.5",
+      "btts": "No"
+    },
+    "correctScoreOptions": [
+      { "score": "2-0", "probability": 40, "odds": "6.50" },
+      { "score": "3-0", "probability": 28, "odds": "9.00" },
+      { "score": "1-0", "probability": 20, "odds": "7.00" }
+    ],
+    "homeForm": "WWWWW",
+    "awayForm": "WDLWL",
+    "analysis": "Palmeiras dominant at home and in top form. Paranaense inconsistent away. Comfortable home victory expected."
+  },
+  {
+    "id": "m439",
+    "league": "Argentina Primera Nacional",
+    "homeTeam": "Tucuman",
+    "awayTeam": "T. Suarez",
+    "date": "2026-04-20",
+    "time": "01:00",
+    "status": "PENDING",
+    "risk_label": "MEDIUM",
+    "access_type": "AD_UNLOCK",
+    "isDailyPick": false,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.67",
+      "confidence": 76,
+      "overUnder": "Under 2.5",
+      "btts": "No"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 45, "odds": "6.00" },
+      { "score": "2-0", "probability": 25, "odds": "8.50" },
+      { "score": "0-0", "probability": 18, "odds": "7.50" }
+    ],
+    "homeForm": "WWWDW",
+    "awayForm": "LLDLW",
+    "analysis": "Tucuman solid at home with good defensive record. T. Suarez struggle away. Low-scoring home win expected."
+  },
+  {
+    "id": "m440",
+    "league": "Nicaragua Premier Liga",
+    "homeTeam": "Rancho Santana",
+    "awayTeam": "ART Jalapa",
+    "date": "2026-04-20",
+    "time": "01:00",
+    "status": "PENDING",
+    "risk_label": "MEDIUM",
+    "access_type": "AD_UNLOCK",
+    "isDailyPick": false,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.39",
+      "confidence": 78,
+      "overUnder": "Over 2.5",
+      "btts": "Yes"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 38, "odds": "8.50" },
+      { "score": "0-2", "probability": 30, "odds": "7.50" },
+      { "score": "1-1", "probability": 20, "odds": "7.00" }
+    ],
+    "homeForm": "WDLWL",
+    "awayForm": "WWWDW",
+    "analysis": "ART Jalapa in strong form. Rancho Santana vulnerable at home. Away win with goals expected."
+  },
+  {
+    "id": "m441",
+    "league": "Peru Premier Liga",
+    "homeTeam": "Melgar",
+    "awayTeam": "U. Deportes",
+    "date": "2026-04-20",
+    "time": "01:15",
+    "status": "PENDING",
+    "risk_label": "MEDIUM",
+    "access_type": "AD_UNLOCK",
+    "isDailyPick": false,
+    "prediction": {
+      "mainPick": "Over 2.5",
+      "odds": "2.00",
+      "confidence": 75,
+      "overUnder": "Over 2.5",
+      "btts": "Yes"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 38, "odds": "8.50" },
+      { "score": "2-2", "probability": 25, "odds": "10.00" },
+      { "score": "3-1", "probability": 20, "odds": "12.00" }
+    ],
+    "homeForm": "WWDLW",
+    "awayForm": "WDLWW",
+    "analysis": "Both teams involved in high-scoring matches recently. Open game with goals at both ends expected."
+  },
+  {
+    "id": "m442",
+    "league": "Argentina Primera Nacional",
+    "homeTeam": "Racing de Cordoba",
+    "awayTeam": "Defensores B.",
+    "date": "2026-04-20",
+    "time": "01:30",
+    "status": "PENDING",
+    "risk_label": "MEDIUM",
+    "access_type": "AD_UNLOCK",
+    "isDailyPick": false,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "2.10",
+      "confidence": 74,
+      "overUnder": "Under 2.5",
+      "btts": "No"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 42, "odds": "6.50" },
+      { "score": "2-0", "probability": 28, "odds": "9.00" },
+      { "score": "0-0", "probability": 20, "odds": "7.50" }
+    ],
+    "homeForm": "WWWDW",
+    "awayForm": "LDLWL",
+    "analysis": "Racing de Cordoba strong at home defensively. Defensores B. struggle away. Low-scoring home win expected."
+  },
+  {
+    "id": "m443",
+    "league": "Argentina Primera LFP",
+    "homeTeam": "Rosario C.",
+    "awayTeam": "CA Sarmiento",
+    "date": "2026-04-20",
+    "time": "02:30",
+    "status": "PENDING",
+    "risk_label": "MEDIUM",
+    "access_type": "AD_UNLOCK",
+    "isDailyPick": false,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.33",
+      "confidence": 80,
+      "overUnder": "Under 2.5",
+      "btts": "No"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 45, "odds": "6.00" },
+      { "score": "2-0", "probability": 28, "odds": "8.50" },
+      { "score": "0-0", "probability": 18, "odds": "7.50" }
+    ],
+    "homeForm": "WWWWW",
+    "awayForm": "DDWWL",
+    "analysis": "Rosario C. dominant at home. CA Sarmiento poor on the road. Low-scoring home win expected."
+  },
+  {
+    "id": "m444",
+    "league": "Argentina Primera LFP",
+    "homeTeam": "Talleres",
+    "awayTeam": "Dep. Riestra",
+    "date": "2026-04-20",
+    "time": "02:30",
+    "status": "PENDING",
+    "risk_label": "LOW",
+    "access_type": "VIP",
+    "isDailyPick": false,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.60",
+      "confidence": 83,
+      "overUnder": "Over 2.5",
+      "btts": "Yes"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 38, "odds": "8.50" },
+      { "score": "2-0", "probability": 30, "odds": "7.00" },
+      { "score": "3-1", "probability": 20, "odds": "12.00" }
+    ],
+    "homeForm": "WWWDW",
+    "awayForm": "LDLWL",
+    "analysis": "Talleres very strong at home. Dep. Riestra vulnerable away. Home win with goals expected."
+  },
+  {
+    "id": "m445",
+    "league": "Peru Premier Liga",
+    "homeTeam": "CS Cienciano",
+    "awayTeam": "CD Moquegua",
+    "date": "2026-04-20",
+    "time": "03:30",
+    "status": "PENDING",
+    "risk_label": "LOW",
+    "access_type": "VIP",
+    "isDailyPick": true,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.10",
+      "confidence": 89,
+      "overUnder": "Over 2.5",
+      "btts": "No"
+    },
+    "correctScoreOptions": [
+      { "score": "2-0", "probability": 42, "odds": "6.00" },
+      { "score": "3-0", "probability": 30, "odds": "9.00" },
+      { "score": "1-0", "probability": 20, "odds": "5.50" }
+    ],
+    "homeForm": "WWWWW",
+    "awayForm": "LLDLW",
+    "analysis": "CS Cienciano dominant at home. CD Moquegua out of their depth. Comfortable home victory expected."
+  },
+  {
+    "id": "m446",
+    "league": "Chile Premier Liga",
+    "homeTeam": "Huachipato",
+    "awayTeam": "Audax Ital.",
+    "date": "2026-04-20",
+    "time": "03:45",
+    "status": "PENDING",
+    "risk_label": "MEDIUM",
+    "access_type": "AD_UNLOCK",
+    "isDailyPick": false,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.94",
+      "confidence": 76,
+      "overUnder": "Over 2.5",
+      "btts": "Yes"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 38, "odds": "8.50" },
+      { "score": "2-0", "probability": 25, "odds": "8.00" },
+      { "score": "1-1", "probability": 22, "odds": "7.00" }
+    ],
+    "homeForm": "WWDLW",
+    "awayForm": "WDLWL",
+    "analysis": "Huachipato solid at home. Audax Ital. inconsistent away. Home win with goals expected."
+  },
+  {
+    "id": "m447",
+    "league": "Guatemala Nacional Liga",
+    "homeTeam": "Antigua",
+    "awayTeam": "Malacateco",
+    "date": "2026-04-20",
+    "time": "04:00",
+    "status": "PENDING",
+    "risk_label": "MEDIUM",
+    "access_type": "AD_UNLOCK",
+    "isDailyPick": false,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.28",
+      "confidence": 81,
+      "overUnder": "Under 2.5",
+      "btts": "No"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 48, "odds": "5.50" },
+      { "score": "2-0", "probability": 28, "odds": "8.00" },
+      { "score": "0-0", "probability": 15, "odds": "7.00" }
+    ],
+    "homeForm": "WWWDW",
+    "awayForm": "LDLWW",
+    "analysis": "Antigua strong at home defensively. Malacateco struggle away. Low-scoring home win expected."
+  },
+  {
+    "id": "m448",
+    "league": "England Premier League",
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "West Ham",
+    "date": "2026-04-20",
+    "time": "22:00",
+    "status": "PENDING",
+    "risk_label": "MEDIUM",
+    "access_type": "VIP",
+    "isDailyPick": false,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "2.13",
+      "confidence": 75,
+      "overUnder": "Over 2.5",
+      "btts": "Yes"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 38, "odds": "8.50" },
+      { "score": "1-1", "probability": 28, "odds": "7.00" },
+      { "score": "2-0", "probability": 20, "odds": "9.00" }
+    ],
+    "homeForm": "WWDLW",
+    "awayForm": "WDLWW",
+    "analysis": "Crystal Palace solid at home. West Ham inconsistent away. Home win with goals expected."
+  },
+  {
+    "id": "m449",
+    "league": "Portugal Premier Liga",
+    "homeTeam": "Moreirense",
+    "awayTeam": "Estoril Praia",
+    "date": "2026-04-20",
+    "time": "22:15",
+    "status": "PENDING",
+    "risk_label": "MEDIUM",
+    "access_type": "AD_UNLOCK",
+    "isDailyPick": false,
+    "prediction": {
+      "mainPick": "Draw",
+      "odds": "3.01",
+      "confidence": 72,
+      "overUnder": "Under 2.5",
+      "btts": "No"
+    },
+    "correctScoreOptions": [
+      { "score": "1-1", "probability": 40, "odds": "6.50" },
+      { "score": "0-0", "probability": 30, "odds": "7.50" },
+      { "score": "0-1", "probability": 18, "odds": "8.00" }
+    ],
+    "homeForm": "WWDWL",
+    "awayForm": "DDWWL",
+    "analysis": "Evenly matched teams with defensive tendencies. Low-scoring draw most probable."
+  },
+  {
+    "id": "m450",
+    "league": "Uruguay Premier Liga",
+    "homeTeam": "Boston River",
+    "awayTeam": "Cerro Largo",
+    "date": "2026-04-20",
+    "time": "23:00",
+    "status": "PENDING",
+    "risk_label": "MEDIUM",
+    "access_type": "AD_UNLOCK",
+    "isDailyPick": false,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "2.08",
+      "confidence": 76,
+      "overUnder": "Under 2.5",
+      "btts": "No"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 45, "odds": "6.00" },
+      { "score": "2-0", "probability": 25, "odds": "9.00" },
+      { "score": "0-0", "probability": 20, "odds": "7.50" }
+    ],
+    "homeForm": "WWWDW",
+    "awayForm": "LDLWL",
+    "analysis": "Boston River solid at home. Cerro Largo struggle away. Low-scoring home win expected."
+  },
+  {
+    "id": "m451",
+    "league": "Argentina Primera LFP",
+    "homeTeam": "C. Cordoba",
+    "awayTeam": "CA Platense",
+    "date": "2026-04-20",
+    "time": "23:15",
+    "status": "PENDING",
+    "risk_label": "MEDIUM",
+    "access_type": "AD_UNLOCK",
+    "isDailyPick": false,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "2.72",
+      "confidence": 73,
+      "overUnder": "Over 2.5",
+      "btts": "Yes"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 38, "odds": "9.00" },
+      { "score": "2-0", "probability": 25, "odds": "8.50" },
+      { "score": "1-1", "probability": 22, "odds": "7.00" }
+    ],
+    "homeForm": "WDLWW",
+    "awayForm": "LDLWL",
+    "analysis": "C. Cordoba good home record. CA Platense inconsistent away. Home win with goals expected."
+  },
+  {
+    "id": "m452",
+    "league": "Italy Serie A",
+    "homeTeam": "Lecce",
+    "awayTeam": "Fiorentina",
+    "date": "2026-04-20",
+    "time": "21:45",
+    "status": "PENDING",
+    "risk_label": "MEDIUM",
+    "access_type": "VIP",
+    "isDailyPick": false,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.95",
+      "confidence": 77,
+      "overUnder": "Over 2.5",
+      "btts": "Yes"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 40, "odds": "8.50" },
+      { "score": "0-2", "probability": 25, "odds": "9.00" },
+      { "score": "1-1", "probability": 20, "odds": "7.00" }
+    ],
+    "homeForm": "LDLWL",
+    "awayForm": "WWWDW",
+    "analysis": "Fiorentina in better form and quality. Lecce struggle at home. Away win with goals expected."
+  },
+  {
+    "id": "m453",
+    "league": "Spain Segunda Liga",
+    "homeTeam": "Dep. La Coruna",
+    "awayTeam": "Mirandes",
+    "date": "2026-04-20",
+    "time": "21:30",
+    "status": "PENDING",
+    "risk_label": "MEDIUM",
+    "access_type": "AD_UNLOCK",
+    "isDailyPick": false,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.33",
+      "confidence": 80,
+      "overUnder": "Over 2.5",
+      "btts": "Yes"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 38, "odds": "8.50" },
+      { "score": "2-0", "probability": 30, "odds": "7.00" },
+      { "score": "3-1", "probability": 18, "odds": "12.00" }
+    ],
+    "homeForm": "WWWDW",
+    "awayForm": "LDLWW",
+    "analysis": "Dep. La Coruna strong at home. Mirandes inconsistent away. Home win with goals expected."
+  }
+ ]
+} 
+
