@@ -473,7 +473,7 @@
       "awayTeam": "Lyon",
       "date": "2026-04-19",
       "time": "21:45",
-      "status": "PENDING",
+      "status": "lost",
       "risk_label": "LOW",
       "access_type": "VIP",
       "isDailyPick": true,
