@@ -1,75 +1,27 @@
 {
-  "version": "v2.2.1",
-  "summary": "Matchly Pro: April 19 Elite Bulletin! 25 premium matches updated. VIP Card & Corner predictions are now calculated by AI. 🚀🎯",
-  "monetization": {
-    "vip": { "ads_removed": true }
-  },
+  "version": "v2.2.1",  "summary": "Matchly Pro: Elite picks updated! VIP Correct Scores are now LIVE. 🚀🎯",
   "matches": [
     {
-      "id": "m501",
+      "id": "m801",
       "league": "England Premier League",
-      "homeTeam": "Manchester City",
-      "awayTeam": "Arsenal",
-      "kickoff_timestamp": 1776631500, 
-      "home_score": 3,
-      "away_score": 1,
-      "home_corners": 8,
-      "away_corners": 4,
-      "home_cards": 1,
-      "away_cards": 3,
-      "is_finished": true,
-      "status": "WON",
-      "risk_label": "LOW",
-      "access_type": "VIP",
-      "isDailyPick": true,
+      "homeTeam": "Arsenal",
+      "awayTeam": "Chelsea",
+      "kickoff_timestamp": 1713553200,
+      "status": "WON", 
+      "access_type": "AD_UNLOCK",
       "prediction": {
         "mainPick": "Home Win",
-        "odds": "1.85",
-        "confidence": 92,
+        "odds": "1.65",
+        "confidence": 88,
         "overUnder": "Over 2.5",
         "btts": "Yes",
-        "card": "Over 3.5 Cards",
-        "corner": "Over 9.5 Corners"
+        "card": "Over 3.5",
+        "corner": "Over 9.5"
       },
       "correctScoreOptions": [
-        { "score": "3-1", "probability": 40, "odds": "12.00", "isCorrect": true },
-        { "score": "2-1", "probability": 25, "odds": "8.50", "isCorrect": false }
+        { "score": "2-1", "probability": 35, "odds": "8.50", "isCorrect": true }
       ],
-      "homeForm": "WWWWW",
-      "awayForm": "WWDWL",
-      "analysis": "City dominated with 65% possession. Predicted Over 2.5 and BTTS Yes both WON. Card and Corner targets exceeded."
-    },
-    {
-      "id": "m502",
-      "league": "Spain La Liga",
-      "homeTeam": "Real Madrid",
-      "awayTeam": "Barcelona",
-      "kickoff_timestamp": 1776638700,
-      "home_score": null,
-      "away_score": null,
-      "home_corners": null,
-      "away_corners": null,
-      "is_finished": false,
-      "status": "PENDING",
-      "risk_label": "MEDIUM",
-      "access_type": "AD_UNLOCK",
-      "isDailyPick": false,
-      "prediction": {
-        "mainPick": "BTTS Yes",
-        "odds": "1.70",
-        "confidence": 85,
-        "overUnder": "Over 2.5",
-        "btts": "Yes",
-        "card": "Over 5.5 Cards",
-        "corner": "Over 8.5 Corners"
-      },
-      "correctScoreOptions": [
-        { "score": "2-2", "probability": 30, "odds": "14.00" },
-        { "score": "1-2", "probability": 20, "odds": "11.00" }
-      ],
-      "homeForm": "WWWDW",
-      "awayForm": "WWWDL",
-      "analysis": "El Clasico always delivers goals. Both teams in scoring form. High card count expected due to rivalry."
+      "analysis": "Arsenal is in great form at home. Chelsea's defense is struggling."
     }
   ]
 }
