@@ -1,6 +1,6 @@
 {
-  "version": "v2.2.1",
-  "summary": "Matchly Pro: 20 Nisan Elite bülteni yayında! VIP skorlar blurlu koruma altındadır. 🚀🎯",
+  "version": "v2.2.2",
+  "summary": "Matchly Pro: 20-21 Nisan Elite bülteni yayında! Tüm VIP skorlar ve analizler güncellendi. 🚀🎯",
   "matches": [
     {
       "id": "m2026_001",
@@ -11,12 +11,15 @@
       "time": "19:15",
       "status": "WON",
       "access_type": "FREE",
+      "home_score": 1,
+      "away_score": 2,
+      "is_finished": true,
       "homeForm": "WWDWL",
       "awayForm": "WDLWW",
       "avgGoals": 2.9,
       "usersPickedPercent": 72,
       "prediction": {
-        "mainPick": "BTTS Yes",
+        "mainPick": "Both Teams to Score",
         "odds": "1.68",
         "confidence": 81,
         "overUnder": "Over 2.5",
@@ -28,7 +31,7 @@
         { "score": "2-1", "probability": 28, "odds": "9.50", "isCorrect": false },
         { "score": "1-2", "probability": 24, "odds": "10.00", "isCorrect": true }
       ],
-      "analysis": "Both teams are prolific scorers in Asian competition. Vissel Kobe strong at home, Al Ahli dangerous on the break. Expect goals at both ends in this high-quality clash."
+      "analysis": "Both teams are prolific scorers in Asian competition. Vissel Kobe strong at home, Al Ahli dangerous on the break."
     },
     {
       "id": "m2026_002",
@@ -37,8 +40,11 @@
       "awayTeam": "Real Madrid U19",
       "date": "2026-04-20",
       "time": "19:45",
-      "status": "lost",
+      "status": "LOST",
       "access_type": "AD_UNLOCK",
+      "home_score": 1,
+      "away_score": 1,
+      "is_finished": true,
       "homeForm": "WDLWW",
       "awayForm": "WWWWW",
       "avgGoals": 3.4,
@@ -56,7 +62,7 @@
         { "score": "1-2", "probability": 30, "odds": "8.50", "isCorrect": false },
         { "score": "1-3", "probability": 22, "odds": "11.00", "isCorrect": false }
       ],
-      "analysis": "Real Madrid U19 have been dominant in the Youth League this season. Brugge competitive at home but the Spanish side's technical quality should see them through."
+      "analysis": "Real Madrid U19 have been dominant. Brugge competitive but the Spanish side's quality should have been enough."
     },
     {
       "id": "m2026_003",
@@ -65,8 +71,11 @@
       "awayTeam": "Piast Gliwice",
       "date": "2026-04-20",
       "time": "20:00",
-      "status": "lost",
+      "status": "LOST",
       "access_type": "FREE",
+      "home_score": 0,
+      "away_score": 0,
+      "is_finished": true,
       "homeForm": "WWDWL",
       "awayForm": "LDWDL",
       "avgGoals": 2.3,
@@ -84,7 +93,7 @@
         { "score": "1-0", "probability": 32, "odds": "6.50", "isCorrect": false },
         { "score": "2-0", "probability": 24, "odds": "8.00", "isCorrect": false }
       ],
-      "analysis": "Lechia Gdansk have been solid at home this season. Piast Gliwice struggling away with defensive issues. Low-scoring home win is the most probable outcome."
+      "analysis": "Lechia Gdansk were solid but couldn't break down Piast's defense."
     },
     {
       "id": "m2026_004",
@@ -93,8 +102,11 @@
       "awayTeam": "Osters",
       "date": "2026-04-20",
       "time": "20:00",
-      "status": "lost",
+      "status": "LOST",
       "access_type": "AD_UNLOCK",
+      "home_score": 0,
+      "away_score": 2,
+      "is_finished": true,
       "homeForm": "LLWDL",
       "awayForm": "WDLWW",
       "avgGoals": 2.5,
@@ -112,7 +124,7 @@
         { "score": "0-0", "probability": 25, "odds": "9.50", "isCorrect": false },
         { "score": "1-1", "probability": 22, "odds": "7.00", "isCorrect": false }
       ],
-      "analysis": "Oddevold struggling for form at home but Osters have been inconsistent travelers. Tight Swedish second-tier match likely to end level."
+      "analysis": "Tight Swedish second-tier match that surprisingly went in favor of Osters."
     },
     {
       "id": "m2026_005",
@@ -121,8 +133,11 @@
       "awayTeam": "AGF Aarhus",
       "date": "2026-04-20",
       "time": "20:00",
-      "status": "won",
+      "status": "WON",
       "access_type": "FREE",
+      "home_score": 2,
+      "away_score": 1,
+      "is_finished": true,
       "homeForm": "WWDLW",
       "awayForm": "WWDWL",
       "avgGoals": 2.7,
@@ -140,7 +155,7 @@
         { "score": "2-1", "probability": 28, "odds": "8.50", "isCorrect": true },
         { "score": "3-1", "probability": 20, "odds": "11.00", "isCorrect": false }
       ],
-      "analysis": "Midtjylland strong in the championship group with excellent home record. AGF competitive but the hosts' quality should prevail in this Danish title race clash."
+      "analysis": "Midtjylland strong in the championship group. Quality prevailed in this title race clash."
     },
     {
       "id": "m2026_006",
@@ -149,8 +164,11 @@
       "awayTeam": "FK Union Carl Berner",
       "date": "2026-04-20",
       "time": "20:00",
-      "status": "won",
+      "status": "WON",
       "access_type": "AD_UNLOCK",
+      "home_score": 1,
+      "away_score": 4,
+      "is_finished": true,
       "homeForm": "LLWDL",
       "awayForm": "WWWDW",
       "avgGoals": 3.2,
@@ -168,7 +186,7 @@
         { "score": "1-2", "probability": 28, "odds": "9.00", "isCorrect": false },
         { "score": "1-3", "probability": 22, "odds": "11.00", "isCorrect": false }
       ],
-      "analysis": "Union Carl Berner are runaway leaders in this division. KFUM II struggling with defensive issues. Clear away win expected in Norwegian lower-tier action."
+      "analysis": "Union Carl Berner runaway leaders in this division. Clear away win achieved."
     },
     {
       "id": "m2026_007",
@@ -177,8 +195,11 @@
       "awayTeam": "Belgrano",
       "date": "2026-04-20",
       "time": "21:00",
-      "status": "won",
+      "status": "WON",
       "access_type": "FREE",
+      "home_score": 0,
+      "away_score": 0,
+      "is_finished": true,
       "homeForm": "WDLWW",
       "awayForm": "LLWDL",
       "avgGoals": 2.1,
@@ -196,7 +217,7 @@
         { "score": "1-0", "probability": 30, "odds": "7.00", "isCorrect": false },
         { "score": "0-0", "probability": 25, "odds": "8.50", "isCorrect": true }
       ],
-      "analysis": "Argentine lower-table clash. Both teams prioritize defensive solidity. Extremely low-scoring encounter expected with minimal goalmouth action."
+      "analysis": "Both teams prioritized defensive solidity as predicted. Minimal goalmouth action."
     },
     {
       "id": "m2026_008",
@@ -205,8 +226,11 @@
       "awayTeam": "Bvsc Zuglo",
       "date": "2026-04-20",
       "time": "21:00",
-      "status": "lost",
+      "status": "LOST",
       "access_type": "VIP",
+      "home_score": 0,
+      "away_score": 1,
+      "is_finished": true,
       "homeForm": "WWWWW",
       "awayForm": "LLWDL",
       "avgGoals": 2.8,
@@ -224,7 +248,7 @@
         { "score": "1-0", "probability": 35, "odds": "7.50", "isCorrect": false },
         { "score": "2-0", "probability": 30, "odds": "7.00", "isCorrect": false }
       ],
-      "analysis": "Vasas are in dominant form, winning 5 straight. Bvsc Zuglo struggling near the bottom. Heavy home favorite should cruise to victory in Hungarian second tier."
+      "analysis": "A shocking upset in the Hungarian second tier. Vasas dominance was broken."
     },
     {
       "id": "m2026_009",
@@ -233,8 +257,11 @@
       "awayTeam": "Jong Utrecht",
       "date": "2026-04-20",
       "time": "21:00",
-      "status": "lost",
+      "status": "LOST",
       "access_type": "FREE",
+      "home_score": 1,
+      "away_score": 2,
+      "is_finished": true,
       "homeForm": "WDLWW",
       "awayForm": "LLWDL",
       "avgGoals": 3.1,
@@ -252,7 +279,7 @@
         { "score": "2-1", "probability": 28, "odds": "8.50", "isCorrect": false },
         { "score": "3-1", "probability": 20, "odds": "11.00", "isCorrect": false }
       ],
-      "analysis": "Den Bosch have found form at home recently. Jong Utrecht's youth setup concede regularly on the road. Open match with home advantage proving decisive."
+      "analysis": "Den Bosch failed to contain Jong Utrecht's youthful counter-attacks."
     },
     {
       "id": "m2026_010",
@@ -261,8 +288,11 @@
       "awayTeam": "Mirandes",
       "date": "2026-04-20",
       "time": "21:30",
-      "status": "won",
+      "status": "WON",
       "access_type": "FREE",
+      "home_score": 2,
+      "away_score": 0,
+      "is_finished": true,
       "homeForm": "WWWDL",
       "awayForm": "LDLWL",
       "avgGoals": 2.4,
@@ -278,9 +308,9 @@
       },
       "correctScoreOptions": [
         { "score": "1-0", "probability": 32, "odds": "7.00", "isCorrect": false },
-        { "score": "2-0", "probability": 25, "odds": "7.50", "isCorrect": false }
+        { "score": "2-0", "probability": 25, "odds": "7.50", "isCorrect": true }
       ],
-      "analysis": "Deportivo La Coruna strong promotion push at home. Mirandes struggling for consistency away. Controlled home win expected at Riazor."
+      "analysis": "Controlled home win achieved at Riazor. Promotion push continues."
     },
     {
       "id": "m2026_011",
@@ -289,8 +319,11 @@
       "awayTeam": "Fiorentina",
       "date": "2026-04-20",
       "time": "21:45",
-      "status": "lost",
+      "status": "LOST",
       "access_type": "VIP",
+      "home_score": 0,
+      "away_score": 0,
+      "is_finished": true,
       "homeForm": "LLWDL",
       "awayForm": "WWDWL",
       "avgGoals": 2.6,
@@ -308,7 +341,7 @@
         { "score": "1-2", "probability": 30, "odds": "9.00", "isCorrect": false },
         { "score": "1-3", "probability": 20, "odds": "12.00", "isCorrect": false }
       ],
-      "analysis": "Fiorentina pushing for European spots with excellent away form. Lecce battling relegation and conceding regularly. Viola should take all three points."
+      "analysis": "Fiorentina couldn't find the net against a stubborn Lecce defense."
     },
     {
       "id": "m2026_012",
@@ -317,8 +350,11 @@
       "awayTeam": "Stade Laval",
       "date": "2026-04-20",
       "time": "21:45",
-      "status": "lost",
+      "status": "LOST",
       "access_type": "AD_UNLOCK",
+      "home_score": 1,
+      "away_score": 1,
+      "is_finished": true,
       "homeForm": "WWDWL",
       "awayForm": "LDLWL",
       "avgGoals": 2.2,
@@ -336,7 +372,7 @@
         { "score": "1-0", "probability": 30, "odds": "7.00", "isCorrect": false },
         { "score": "2-0", "probability": 22, "odds": "8.50", "isCorrect": false }
       ],
-      "analysis": "Dunkerque have been impressive at home in Ligue 2. Stade Laval poor travelers with scoring issues. Low-scoring home win looks the safest bet."
+      "analysis": "Low-scoring affair as expected but ended in a draw."
     },
     {
       "id": "m2026_013",
@@ -345,14 +381,17 @@
       "awayTeam": "West Ham",
       "date": "2026-04-20",
       "time": "22:00",
-      "status": "lost",
+      "status": "LOST",
       "access_type": "FREE",
+      "home_score": 0,
+      "away_score": 1,
+      "is_finished": true,
       "homeForm": "WWDWL",
       "awayForm": "LLDWW",
       "avgGoals": 2.8,
       "usersPickedPercent": 52,
       "prediction": {
-        "mainPick": "BTTS Yes",
+        "mainPick": "Both Teams to Score",
         "odds": "1.65",
         "confidence": 83,
         "overUnder": "Over 2.5",
@@ -364,7 +403,7 @@
         { "score": "2-1", "probability": 26, "odds": "9.50", "isCorrect": false },
         { "score": "1-2", "probability": 22, "odds": "10.00", "isCorrect": false }
       ],
-      "analysis": "London derby with both teams having attacking threats. Palace solid at Selhurst Park, West Ham dangerous on counters. Goals at both ends very likely."
+      "analysis": "A defensive London derby where Palace failed to find the net."
     },
     {
       "id": "m2026_014",
@@ -373,8 +412,11 @@
       "awayTeam": "Estoril Praia",
       "date": "2026-04-20",
       "time": "22:15",
-      "status": "won",
+      "status": "WON",
       "access_type": "AD_UNLOCK",
+      "home_score": 1,
+      "away_score": 0,
+      "is_finished": true,
       "homeForm": "WDLWW",
       "awayForm": "LLWDL",
       "avgGoals": 2.3,
@@ -392,7 +434,7 @@
         { "score": "1-0", "probability": 28, "odds": "7.50", "isCorrect": true },
         { "score": "2-0", "probability": 20, "odds": "9.00", "isCorrect": false }
       ],
-      "analysis": "Moreirense have found form at home recently. Estoril struggling away in Portuguese top flight. Tight low-scoring home win expected."
+      "analysis": "Tight low-scoring home win achieved as Moreirense's form held."
     },
     {
       "id": "m2026_015",
@@ -401,8 +443,11 @@
       "awayTeam": "Cerro Largo",
       "date": "2026-04-20",
       "time": "23:00",
-      "status": "won",
+      "status": "WON",
       "access_type": "FREE",
+      "home_score": 1,
+      "away_score": 0,
+      "is_finished": true,
       "homeForm": "WDLWW",
       "awayForm": "LLWDL",
       "avgGoals": 2.4,
@@ -420,7 +465,7 @@
         { "score": "1-0", "probability": 30, "odds": "7.00", "isCorrect": true },
         { "score": "2-0", "probability": 22, "odds": "8.50", "isCorrect": false }
       ],
-      "analysis": "Boston River solid at home in Uruguayan league. Cerro Largo poor away form and struggle to score on the road. Narrow home win expected."
+      "analysis": "Narrow home win achieved. Boston River solid at home."
     },
     {
       "id": "m2026_016",
@@ -429,8 +474,11 @@
       "awayTeam": "CA Platense",
       "date": "2026-04-20",
       "time": "23:15",
-      "status": "lost",
+      "status": "LOST",
       "access_type": "AD_UNLOCK",
+      "home_score": 1,
+      "away_score": 1,
+      "is_finished": true,
       "homeForm": "LLWDL",
       "awayForm": "WDLWW",
       "avgGoals": 2.0,
@@ -448,7 +496,7 @@
         { "score": "0-1", "probability": 28, "odds": "7.50", "isCorrect": false },
         { "score": "0-2", "probability": 20, "odds": "10.00", "isCorrect": false }
       ],
-      "analysis": "Platense in better form than Central Cordoba. Hosts struggling near the relegation zone. Away side's organization should see them through in this Argentine clash."
+      "analysis": "Platense couldn't secure the win. Cordoba held them to a draw."
     },
     {
       "id": "m2026_017",
@@ -457,8 +505,11 @@
       "awayTeam": "Independiente Mendoza",
       "date": "2026-04-20",
       "time": "23:15",
-      "status": "lost",
+      "status": "LOST",
       "access_type": "VIP",
+      "home_score": 0,
+      "away_score": 1,
+      "is_finished": true,
       "homeForm": "WDLWW",
       "awayForm": "LDLWL",
       "avgGoals": 2.2,
@@ -476,8 +527,8 @@
         { "score": "1-0", "probability": 30, "odds": "7.00", "isCorrect": false },
         { "score": "2-0", "probability": 22, "odds": "8.50", "isCorrect": false }
       ],
-      "analysis": "Banfield traditionally strong at home in Argentine football. Independiente Mendoza struggling away from home. Low-scoring home win the most probable outcome."
-    }
+      "analysis": "Independiente Mendoza grabbed a surprising away win against Banfield."
+    },
     {
       "id": "m2026_018",
       "league": "South Korea K-League 1",
@@ -504,7 +555,7 @@
         { "score": "1-0", "probability": 35, "odds": "7.00", "isCorrect": false },
         { "score": "2-0", "probability": 28, "odds": "7.50", "isCorrect": false }
       ],
-      "analysis": "Seoul strong at home in K-League. Bucheon struggling with defensive issues away. Low-scoring home win the safest pick in this Korean clash."
+      "analysis": "Seoul strong at home in K-League. Bucheon struggling with defensive issues away."
     },
     {
       "id": "m2026_019",
@@ -520,7 +571,7 @@
       "avgGoals": 2.8,
       "usersPickedPercent": 55,
       "prediction": {
-        "mainPick": "BTTS Yes",
+        "mainPick": "Both Teams to Score",
         "odds": "1.89",
         "confidence": 76,
         "overUnder": "Over 2.5",
@@ -532,7 +583,7 @@
         { "score": "2-1", "probability": 28, "odds": "9.00", "isCorrect": false },
         { "score": "1-2", "probability": 24, "odds": "9.50", "isCorrect": false }
       ],
-      "analysis": "Both teams score consistently in K-League. Gimcheon solid at home but Gangwon dangerous on the counter. Open game with goals expected."
+      "analysis": "Both teams score consistently. Open game with goals expected."
     },
     {
       "id": "m2026_020",
@@ -560,7 +611,7 @@
         { "score": "1-0", "probability": 32, "odds": "7.50", "isCorrect": false },
         { "score": "2-0", "probability": 26, "odds": "8.00", "isCorrect": false }
       ],
-      "analysis": "Jeonbuk dominant force at home, unbeaten in last 6. Incheon struggling away with scoring issues. Comfortable home win expected."
+      "analysis": "Jeonbuk dominant force at home. Comfortable home win expected."
     },
     {
       "id": "m2026_021",
@@ -588,7 +639,7 @@
         { "score": "1-2", "probability": 30, "odds": "9.00", "isCorrect": false },
         { "score": "1-3", "probability": 22, "odds": "11.00", "isCorrect": false }
       ],
-      "analysis": "Beijing Guoan in excellent form, pushing for the title. Shenzhen struggling near the bottom. Away win with goals the most probable outcome."
+      "analysis": "Beijing Guoan in excellent form. Away win with goals likely."
     },
     {
       "id": "m2026_022",
@@ -616,7 +667,7 @@
         { "score": "3-0", "probability": 38, "odds": "8.50", "isCorrect": false },
         { "score": "4-0", "probability": 28, "odds": "11.00", "isCorrect": false }
       ],
-      "analysis": "Chengdu in devastating form, winning 5 straight. Yunnan leaking goals and struggling at the bottom. Heavy home win almost certain in Chinese Super League."
+      "analysis": "Chengdu in devastating form. Heavy home win expected."
     },
     {
       "id": "m2026_023",
@@ -644,7 +695,7 @@
         { "score": "2-1", "probability": 28, "odds": "9.00", "isCorrect": false },
         { "score": "1-1", "probability": 22, "odds": "7.50", "isCorrect": false }
       ],
-      "analysis": "Altach improved form in relegation group. WSG Tirol struggling defensively away. Home advantage crucial in Austrian relegation battle."
+      "analysis": "Home advantage crucial in this Austrian relegation battle."
     },
     {
       "id": "m2026_024",
@@ -672,7 +723,7 @@
         { "score": "1-0", "probability": 32, "odds": "7.00", "isCorrect": false },
         { "score": "2-0", "probability": 25, "odds": "8.00", "isCorrect": false }
       ],
-      "analysis": "CSKA Moscow solid at home in Russian Premier League. Rostov struggling away with scoring drought. Low-scoring controlled home win expected."
+      "analysis": "CSKA Moscow solid at home. Low-scoring controlled home win expected."
     },
     {
       "id": "m2026_025",
@@ -700,7 +751,7 @@
         { "score": "3-1", "probability": 30, "odds": "10.00", "isCorrect": false },
         { "score": "2-1", "probability": 28, "odds": "8.50", "isCorrect": false }
       ],
-      "analysis": "Hajduk Split dominant at Poljud, winning 5 straight. Osijek good but outmatched on the road. Croatian league leaders should cruise at home."
+      "analysis": "Hajduk Split dominant at Poljud. Croatian league leaders should cruise."
     },
     {
       "id": "m2026_026",
@@ -728,7 +779,7 @@
         { "score": "1-0", "probability": 30, "odds": "7.50", "isCorrect": false },
         { "score": "2-0", "probability": 22, "odds": "9.00", "isCorrect": false }
       ],
-      "analysis": "Mallorca strong at home at Son Moix. Valencia in poor form away with goal-scoring struggles. Tight low-scoring home win in La Liga."
+      "analysis": "Tight low-scoring home win expected at Son Moix."
     },
     {
       "id": "m2026_027",
@@ -756,7 +807,7 @@
         { "score": "1-0", "probability": 32, "odds": "7.50", "isCorrect": false },
         { "score": "2-0", "probability": 26, "odds": "8.00", "isCorrect": false }
       ],
-      "analysis": "Athletic Bilbao formidable at San Mames. Osasuna decent away but Bilbao's home power overwhelming. Basque side to win without conceding."
+      "analysis": "Athletic Bilbao formidable at San Mames. Basque side to win."
     },
     {
       "id": "m2026_028",
@@ -772,7 +823,7 @@
       "avgGoals": 2.6,
       "usersPickedPercent": 60,
       "prediction": {
-        "mainPick": "BTTS Yes",
+        "mainPick": "Both Teams to Score",
         "odds": "1.86",
         "confidence": 78,
         "overUnder": "Over 2.5",
@@ -784,7 +835,7 @@
         { "score": "1-2", "probability": 26, "odds": "10.00", "isCorrect": false },
         { "score": "1-1", "probability": 24, "odds": "7.50", "isCorrect": false }
       ],
-      "analysis": "Belgian derby with both teams fighting for European spots. Standard and Antwerp both score regularly. Open competitive match expected."
+      "analysis": "Standard and Antwerp both score regularly. Open competitive match expected."
     },
     {
       "id": "m2026_029",
@@ -812,7 +863,7 @@
         { "score": "2-1", "probability": 28, "odds": "9.00", "isCorrect": false },
         { "score": "3-1", "probability": 22, "odds": "11.00", "isCorrect": false }
       ],
-      "analysis": "Genk strong at home in Belgian Pro League. Charleroi poor travelers with defensive vulnerabilities. Home win in a high-scoring affair."
+      "analysis": "Genk strong at home. High-scoring home win likely."
     },
     {
       "id": "m2026_030",
@@ -828,7 +879,7 @@
       "avgGoals": 2.6,
       "usersPickedPercent": 48,
       "prediction": {
-        "mainPick": "BTTS Yes",
+        "mainPick": "Both Teams to Score",
         "odds": "1.65",
         "confidence": 79,
         "overUnder": "Over 2.5",
@@ -840,7 +891,7 @@
         { "score": "1-1", "probability": 26, "odds": "7.00", "isCorrect": false },
         { "score": "2-1", "probability": 24, "odds": "9.50", "isCorrect": false }
       ],
-      "analysis": "Exciting Championship clash. Oxford good at home, Wrexham dangerous away with goals. Both teams to score looks the safest bet here."
+      "analysis": "Both teams to score looks the safest bet here."
     },
     {
       "id": "m2026_031",
@@ -868,7 +919,7 @@
         { "score": "3-0", "probability": 35, "odds": "9.00", "isCorrect": false },
         { "score": "2-0", "probability": 30, "odds": "7.50", "isCorrect": false }
       ],
-      "analysis": "Southampton flying high, winning 5 straight. Bristol City struggling away. Saints promotion push continues with comfortable home victory."
+      "analysis": "Saints promotion push continues with comfortable home victory."
     },
     {
       "id": "m2026_032",
@@ -896,7 +947,7 @@
         { "score": "2-1", "probability": 30, "odds": "9.00", "isCorrect": false },
         { "score": "3-1", "probability": 22, "odds": "11.00", "isCorrect": false }
       ],
-      "analysis": "Leicester pushing for automatic promotion. Hull mid-table with nothing to play for. Foxes quality should shine through at the King Power."
+      "analysis": "Foxes quality should shine through at the King Power."
     },
     {
       "id": "m2026_033",
@@ -924,7 +975,7 @@
         { "score": "2-1", "probability": 26, "odds": "9.50", "isCorrect": false },
         { "score": "1-2", "probability": 22, "odds": "10.00", "isCorrect": false }
       ],
-      "analysis": "Both teams involved in high-scoring Championship matches recently. West Brom attack-minded, Watford dangerous on the break. Goals expected."
+      "analysis": "Both teams involved in high-scoring matches. Goals expected."
     },
     {
       "id": "m2026_034",
@@ -940,7 +991,7 @@
       "avgGoals": 2.4,
       "usersPickedPercent": 50,
       "prediction": {
-        "mainPick": "BTTS Yes",
+        "mainPick": "Both Teams to Score",
         "odds": "1.74",
         "confidence": 78,
         "overUnder": "Under 2.5",
@@ -952,7 +1003,7 @@
         { "score": "1-1", "probability": 28, "odds": "7.00", "isCorrect": false },
         { "score": "2-1", "probability": 24, "odds": "9.50", "isCorrect": false }
       ],
-      "analysis": "Stevenage solid at home but Barnsley pushing for playoffs. Both teams score consistently in League One. Tight match with goals at both ends."
+      "analysis": "Tight match with goals at both ends. Barnsley pushing for playoffs."
     },
     {
       "id": "m2026_035",
@@ -968,7 +1019,7 @@
       "avgGoals": 2.9,
       "usersPickedPercent": 62,
       "prediction": {
-        "mainPick": "BTTS Yes",
+        "mainPick": "Both Teams to Score",
         "odds": "1.42",
         "confidence": 86,
         "overUnder": "Over 2.5",
@@ -980,7 +1031,7 @@
         { "score": "2-1", "probability": 28, "odds": "9.50", "isCorrect": false },
         { "score": "1-2", "probability": 26, "odds": "10.00", "isCorrect": false }
       ],
-      "analysis": "Brighton vs Chelsea Premier League clash. Both teams in good scoring form. Chelsea slight favorites but Brighton's home attacking threat guarantees goals."
+      "analysis": "Both teams in good scoring form. Chelsea slight favorites."
     },
     {
       "id": "m2026_036",
@@ -1008,7 +1059,7 @@
         { "score": "3-0", "probability": 35, "odds": "9.50", "isCorrect": false },
         { "score": "2-0", "probability": 28, "odds": "7.50", "isCorrect": false }
       ],
-      "analysis": "Inter Milan dominant force at San Siro, winning 5 straight. Como out of depth in Coppa Italia semi-final. Comfortable Nerazzurri victory expected."
+      "analysis": "Inter Milan dominant force at San Siro. Comfortable victory expected."
     },
     {
       "id": "m2026_037",
@@ -1036,8 +1087,7 @@
         { "score": "1-0", "probability": 32, "odds": "7.50", "isCorrect": false },
         { "score": "2-0", "probability": 26, "odds": "8.50", "isCorrect": false }
       ],
-      "analysis": "RC Lens strong at home in French Cup competition. Toulouse struggling for form away. Lens defensive solidity key in this cup tie."
+      "analysis": "Lens defensive solidity key in this cup tie."
     }
   ]
 }
-
