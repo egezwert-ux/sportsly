@@ -1088,6 +1088,708 @@
         { "score": "2-0", "probability": 26, "odds": "8.50", "isCorrect": false }
       ],
       "analysis": "Lens defensive solidity key in this cup tie."
+    },
+    {
+      "id": "m50",
+      "league": "Mexico Liga MX Clausura",
+      "homeTeam": "Queretaro",
+      "awayTeam": "Cruz Azul",
+      "date": "2026-04-22",
+      "time": "04:00",
+      "status": "PENDING",
+      "access_type": "AD_UNLOCK",
+      "homeForm": "LDLDW",
+      "awayForm": "WWDWL",
+      "avgGoals": 2.5,
+      "usersPickedPercent": 58,
+      "prediction": {
+        "mainPick": "Away Win",
+        "odds": "1.49",
+        "confidence": 80,
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "card": "Over 3.5",
+        "corner": "Over 9.5"
+      },
+      "correctScoreOptions": [
+        { "score": "1-2", "probability": 30, "odds": "9.00", "isCorrect": false },
+        { "score": "1-3", "probability": 22, "odds": "11.00", "isCorrect": false }
+      ],
+      "analysis": "Cruz Azul in strong form (4th place, 29 pts) while Queretaro struggling near bottom (16 pts). The Machine should take all three points on the road."
+    },
+    {
+      "id": "m51",
+      "league": "Costa Rica Primera Division",
+      "homeTeam": "CS Cartagines",
+      "awayTeam": "AD San Carlos",
+      "date": "2026-04-22",
+      "time": "05:00",
+      "status": "PENDING",
+      "access_type": "FREE",
+      "homeForm": "WDLWW",
+      "awayForm": "LLWDL",
+      "avgGoals": 2.3,
+      "usersPickedPercent": 62,
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.42",
+        "confidence": 82,
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "card": "Under 3.5",
+        "corner": "Under 9.5"
+      },
+      "correctScoreOptions": [
+        { "score": "1-0", "probability": 35, "odds": "7.00", "isCorrect": false },
+        { "score": "2-0", "probability": 25, "odds": "8.00", "isCorrect": false }
+      ],
+      "analysis": "Cartagines solid at home in Costa Rican league. San Carlos poor away form with defensive vulnerabilities. Low-scoring home win expected."
+    },
+    {
+      "id": "m52",
+      "league": "Mexico Liga MX Clausura",
+      "homeTeam": "Monterrey",
+      "awayTeam": "Puebla",
+      "date": "2026-04-22",
+      "time": "06:05",
+      "status": "PENDING",
+      "access_type": "FREE",
+      "homeForm": "LLWDL",
+      "awayForm": "LLLLL",
+      "avgGoals": 2.8,
+      "usersPickedPercent": 85,
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.33",
+        "confidence": 83,
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "card": "Over 3.5",
+        "corner": "Over 9.5"
+      },
+      "correctScoreOptions": [
+        { "score": "2-1", "probability": 28, "odds": "8.50", "isCorrect": false },
+        { "score": "3-1", "probability": 22, "odds": "11.00", "isCorrect": false }
+      ],
+      "analysis": "Monterrey (14th, 15 pts) coming off 1-3 loss to Pachuca but still heavy favorites at Estadio BBVA. Puebla (16th, 13 pts) destroyed 0-5 by Guadalajara last match, 6 games without a win. Both teams already eliminated from Liguilla."
+    },
+    {
+      "id": "m53",
+      "league": "Mexico Liga MX Clausura",
+      "homeTeam": "Club Leon",
+      "awayTeam": "America",
+      "date": "2026-04-22",
+      "time": "06:06",
+      "status": "PENDING",
+      "access_type": "AD_UNLOCK",
+      "homeForm": "WLLDW",
+      "awayForm": "WDLWW",
+      "avgGoals": 2.4,
+      "usersPickedPercent": 72,
+      "prediction": {
+        "mainPick": "Away Win",
+        "odds": "1.86",
+        "confidence": 78,
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "card": "Over 3.5",
+        "corner": "Under 9.5"
+      },
+      "correctScoreOptions": [
+        { "score": "0-1", "probability": 30, "odds": "7.50", "isCorrect": false },
+        { "score": "0-2", "probability": 22, "odds": "9.00", "isCorrect": false }
+      ],
+      "analysis": "America (6th, 22 pts) in better form than Leon (8th, 22 pts). The Eagles have more quality and should edge this Mexican league clash."
+    },
+    {
+      "id": "m54",
+      "league": "Indonesia Liga 1",
+      "homeTeam": "Psim Yogyakarta",
+      "awayTeam": "Persija Jakarta",
+      "date": "2026-04-22",
+      "time": "11:30",
+      "status": "PENDING",
+      "access_type": "FREE",
+      "homeForm": "WDLWW",
+      "awayForm": "WWDWL",
+      "avgGoals": 2.6,
+      "usersPickedPercent": 48,
+      "prediction": {
+        "mainPick": "BTTS Yes",
+        "odds": "1.72",
+        "confidence": 76,
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "card": "Over 3.5",
+        "corner": "Over 9.5"
+      },
+      "correctScoreOptions": [
+        { "score": "2-1", "probability": 26, "odds": "9.00", "isCorrect": false },
+        { "score": "1-1", "probability": 24, "odds": "7.50", "isCorrect": false }
+      ],
+      "analysis": "Indonesian league open and high-scoring. Both teams in decent form. Expect goals at both ends in this morning clash."
+    },
+    {
+      "id": "m55",
+      "league": "South Korea K-League 1",
+      "homeTeam": "FC Seoul",
+      "awayTeam": "Bucheon FC 1995",
+      "date": "2026-04-22",
+      "time": "13:30",
+      "status": "PENDING",
+      "access_type": "FREE",
+      "homeForm": "WWWWL",
+      "awayForm": "WDDLD",
+      "avgGoals": 2.6,
+      "usersPickedPercent": 88,
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.65",
+        "confidence": 84,
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "card": "Under 3.5",
+        "corner": "Over 9.5"
+      },
+      "correctScoreOptions": [
+        { "score": "1-0", "probability": 32, "odds": "7.50", "isCorrect": false },
+        { "score": "2-0", "probability": 28, "odds": "8.00", "isCorrect": false }
+      ],
+      "analysis": "REAL FORM: Seoul are TOP of K-League 1 with 22 pts (7W 1D 1L). They just beat Bucheon 3-0 on April 21st. Bucheon in 6th with 10 pts (2W 4D 3L). Seoul dominant force at Sangam Stadium."
+    },
+    {
+      "id": "m56",
+      "league": "South Korea K-League 1",
+      "homeTeam": "Pohang Steelers",
+      "awayTeam": "Gwangju FC",
+      "date": "2026-04-22",
+      "time": "13:30",
+      "status": "PENDING",
+      "access_type": "AD_UNLOCK",
+      "homeForm": "WDLWW",
+      "awayForm": "LLWDL",
+      "avgGoals": 2.5,
+      "usersPickedPercent": 68,
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.40",
+        "confidence": 81,
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "card": "Under 3.5",
+        "corner": "Under 9.5"
+      },
+      "correctScoreOptions": [
+        { "score": "1-0", "probability": 32, "odds": "7.00", "isCorrect": false },
+        { "score": "2-0", "probability": 26, "odds": "8.00", "isCorrect": false }
+      ],
+      "analysis": "Pohang strong at home in K-League. Gwangju struggling away with recent losses. Steelers' solid defense should keep a clean sheet."
+    },
+    {
+      "id": "m57",
+      "league": "South Korea K-League 1",
+      "homeTeam": "Daejeon Citizen",
+      "awayTeam": "Jeju United",
+      "date": "2026-04-22",
+      "time": "13:30",
+      "status": "PENDING",
+      "access_type": "FREE",
+      "homeForm": "WDLWW",
+      "awayForm": "LDWLL",
+      "avgGoals": 2.4,
+      "usersPickedPercent": 60,
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.55",
+        "confidence": 79,
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "card": "Under 3.5",
+        "corner": "Under 9.5"
+      },
+      "correctScoreOptions": [
+        { "score": "1-0", "probability": 30, "odds": "7.00", "isCorrect": false },
+        { "score": "2-0", "probability": 24, "odds": "8.50", "isCorrect": false }
+      ],
+      "analysis": "Daejeon solid at home, just beat Seoul 1-0 away on April 18. Jeju struggling away form. Home advantage should prove decisive in Korean league."
+    },
+    {
+      "id": "m58",
+      "league": "China Super League",
+      "homeTeam": "Qingdao Youth Island",
+      "awayTeam": "Henan Songshan Longmen",
+      "date": "2026-04-22",
+      "time": "14:35",
+      "status": "PENDING",
+      "access_type": "AD_UNLOCK",
+      "homeForm": "WDLWL",
+      "awayForm": "LDLWW",
+      "avgGoals": 2.5,
+      "usersPickedPercent": 52,
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.58",
+        "confidence": 77,
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "card": "Over 3.5",
+        "corner": "Over 9.5"
+      },
+      "correctScoreOptions": [
+        { "score": "2-1", "probability": 26, "odds": "9.00", "isCorrect": false },
+        { "score": "1-2", "probability": 22, "odds": "9.50", "isCorrect": false }
+      ],
+      "analysis": "Both teams involved in open matches recently. Chinese Super League high-scoring. Expect goals at both ends in this afternoon fixture."
+    },
+    {
+      "id": "m59",
+      "league": "China Super League",
+      "homeTeam": "Shanghai SIPG",
+      "awayTeam": "Qingdao Jonoon",
+      "date": "2026-04-22",
+      "time": "15:00",
+      "status": "PENDING",
+      "access_type": "VIP",
+      "homeForm": "WWWWW",
+      "awayForm": "LLWDL",
+      "avgGoals": 3.1,
+      "usersPickedPercent": 92,
+      "prediction": {
+        "mainPick": "Home Win & Over 2.5",
+        "odds": "1.25",
+        "confidence": 93,
+        "overUnder": "Over 2.5",
+        "btts": "No",
+        "card": "Over 3.5",
+        "corner": "Over 9.5"
+      },
+      "correctScoreOptions": [
+        { "score": "3-0", "probability": 38, "odds": "9.00", "isCorrect": false },
+        { "score": "2-0", "probability": 30, "odds": "7.50", "isCorrect": false }
+      ],
+      "analysis": "Shanghai SIPG dominant force in Chinese Super League, winning 5 straight. Qingdao Jonoon struggling near the bottom. Heavy home win almost certain."
+    },
+    {
+      "id": "m60",
+      "league": "Russia Premier League",
+      "homeTeam": "Lokomotiv Moscow",
+      "awayTeam": "Zenit St Petersburg",
+      "date": "2026-04-22",
+      "time": "19:45",
+      "status": "PENDING",
+      "access_type": "VIP",
+      "homeForm": "WWDWL",
+      "awayForm": "WWWWW",
+      "avgGoals": 2.6,
+      "usersPickedPercent": 82,
+      "prediction": {
+        "mainPick": "Away Win",
+        "odds": "1.86",
+        "confidence": 85,
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "card": "Over 4.5",
+        "corner": "Under 9.5"
+      },
+      "correctScoreOptions": [
+        { "score": "0-1", "probability": 30, "odds": "7.00", "isCorrect": false },
+        { "score": "0-2", "probability": 25, "odds": "8.00", "isCorrect": false }
+      ],
+      "analysis": "REAL FORM: Zenit are TOP of Russian Premier League with 55 pts (16W 7D 2L). Lokomotiv 3rd with 48 pts. Zenit won their last 5 matches. Clear league leaders and favorites for this away clash."
+    },
+    {
+      "id": "m61",
+      "league": "Russia Premier League",
+      "homeTeam": "Dinamo Moscow",
+      "awayTeam": "Rubin Kazan",
+      "date": "2026-04-22",
+      "time": "19:45",
+      "status": "PENDING",
+      "access_type": "VIP",
+      "homeForm": "WDLWW",
+      "awayForm": "WDLDW",
+      "avgGoals": 2.4,
+      "usersPickedPercent": 64,
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.36",
+        "confidence": 83,
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "card": "Under 3.5",
+        "corner": "Under 9.5"
+      },
+      "correctScoreOptions": [
+        { "score": "1-0", "probability": 32, "odds": "7.00", "isCorrect": false },
+        { "score": "2-0", "probability": 26, "odds": "8.00", "isCorrect": false }
+      ],
+      "analysis": "REAL FORM: Both teams level on 35 pts (9W 8D 8L). Dinamo Moscow unbeaten in last 3 at VTB Arena. Rubin Kazan missing key players: Daku (suspension), Iwu, Jukic, Shvets (injuries). Home advantage decisive."
+    },
+    {
+      "id": "m62",
+      "league": "France Ligue 1",
+      "homeTeam": "PSG",
+      "awayTeam": "Nantes",
+      "date": "2026-04-22",
+      "time": "20:00",
+      "status": "PENDING",
+      "access_type": "VIP",
+      "homeForm": "WWWWW",
+      "awayForm": "DDDWW",
+      "avgGoals": 3.2,
+      "usersPickedPercent": 95,
+      "prediction": {
+        "mainPick": "Home Win & Over 2.5",
+        "odds": "1.15",
+        "confidence": 94,
+        "overUnder": "Over 2.5",
+        "btts": "No",
+        "card": "Over 3.5",
+        "corner": "Over 9.5"
+      },
+      "correctScoreOptions": [
+        { "score": "3-0", "probability": 35, "odds": "9.50", "isCorrect": false },
+        { "score": "2-0", "probability": 28, "odds": "7.50", "isCorrect": false }
+      ],
+      "analysis": "REAL FORM: PSG unbeaten in 19 of last 20 home matches vs Nantes. Over 2.5 goals in 8 of PSG's last 9 Ligue 1 games. Nantes drew last 3 matches but PSG's 35 goals in 21 games is league-best. Total mismatch at Parc des Princes."
+    },
+    {
+      "id": "m63",
+      "league": "Spain La Liga",
+      "homeTeam": "Elche",
+      "awayTeam": "Atletico Madrid",
+      "date": "2026-04-22",
+      "time": "20:00",
+      "status": "PENDING",
+      "access_type": "VIP",
+      "homeForm": "LLWDL",
+      "awayForm": "WWDWW",
+      "avgGoals": 2.5,
+      "usersPickedPercent": 86,
+      "prediction": {
+        "mainPick": "Away Win",
+        "odds": "2.38",
+        "confidence": 82,
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "card": "Over 4.5",
+        "corner": "Under 9.5"
+      },
+      "correctScoreOptions": [
+        { "score": "0-1", "probability": 32, "odds": "7.50", "isCorrect": false },
+        { "score": "0-2", "probability": 25, "odds": "8.50", "isCorrect": false }
+      ],
+      "analysis": "Atletico Madrid in excellent form, winning 4 of last 5. Elche struggling near the relegation zone. Simeone's defensive organization should shut out the home side."
+    },
+    {
+      "id": "m64",
+      "league": "Bosnia Premier League",
+      "homeTeam": "Zrinjski Mostar",
+      "awayTeam": "Banja Luka",
+      "date": "2026-04-22",
+      "time": "21:30",
+      "status": "PENDING",
+      "access_type": "FREE",
+      "homeForm": "WWDWL",
+      "awayForm": "WDLWW",
+      "avgGoals": 2.3,
+      "usersPickedPercent": 42,
+      "prediction": {
+        "mainPick": "BTTS Yes",
+        "odds": "1.65",
+        "confidence": 76,
+        "overUnder": "Under 2.5",
+        "btts": "Yes",
+        "card": "Under 3.5",
+        "corner": "Under 9.5"
+      },
+      "correctScoreOptions": [
+        { "score": "1-1", "probability": 26, "odds": "7.50", "isCorrect": false },
+        { "score": "2-1", "probability": 22, "odds": "9.00", "isCorrect": false }
+      ],
+      "analysis": "Bosnian title race clash. Zrinjski strong at home but Banja Luka competitive away. Tight match with both teams finding the net."
+    },
+    {
+      "id": "m65",
+      "league": "Belgium Pro League Championship Playoff",
+      "homeTeam": "U.S. Gilloise",
+      "awayTeam": "KAA Gent",
+      "date": "2026-04-22",
+      "time": "21:30",
+      "status": "PENDING",
+      "access_type": "VIP",
+      "homeForm": "WWWWW",
+      "awayForm": "WDLWW",
+      "avgGoals": 2.8,
+      "usersPickedPercent": 74,
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.27",
+        "confidence": 87,
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "card": "Under 4.5",
+        "corner": "Under 9.5"
+      },
+      "correctScoreOptions": [
+        { "score": "1-0", "probability": 32, "odds": "7.50", "isCorrect": false },
+        { "score": "2-0", "probability": 28, "odds": "8.00", "isCorrect": false }
+      ],
+      "analysis": "Union SG dominant in Belgian championship playoffs, winning 5 straight. Gent competitive but Union's home form overwhelming. Solid home win expected."
+    },
+    {
+      "id": "m66",
+      "league": "Belgium Pro League Championship Playoff",
+      "homeTeam": "Club Brugge",
+      "awayTeam": "Mechelen",
+      "date": "2026-04-22",
+      "time": "21:30",
+      "status": "PENDING",
+      "access_type": "FREE",
+      "homeForm": "WWWWW",
+      "awayForm": "LDLWL",
+      "avgGoals": 3.0,
+      "usersPickedPercent": 90,
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.08",
+        "confidence": 95,
+        "overUnder": "Over 2.5",
+        "btts": "No",
+        "card": "Over 3.5",
+        "corner": "Over 9.5"
+      },
+      "correctScoreOptions": [
+        { "score": "3-0", "probability": 38, "odds": "9.00", "isCorrect": false },
+        { "score": "2-0", "probability": 30, "odds": "7.50", "isCorrect": false }
+      ],
+      "analysis": "Club Brugge in devastating form at Jan Breydel, 5 straight wins. Mechelen struggling away in playoffs. Heavy home win the most likely outcome."
+    },
+    {
+      "id": "m67",
+      "league": "England Championship",
+      "homeTeam": "Charlton",
+      "awayTeam": "Ipswich Town",
+      "date": "2026-04-22",
+      "time": "21:45",
+      "status": "PENDING",
+      "access_type": "AD_UNLOCK",
+      "homeForm": "WDLWW",
+      "awayForm": "WWDWL",
+      "avgGoals": 2.6,
+      "usersPickedPercent": 68,
+      "prediction": {
+        "mainPick": "Away Win",
+        "odds": "1.48",
+        "confidence": 80,
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "card": "Over 3.5",
+        "corner": "Over 9.5"
+      },
+      "correctScoreOptions": [
+        { "score": "1-2", "probability": 30, "odds": "9.00", "isCorrect": false },
+        { "score": "1-3", "probability": 22, "odds": "11.00", "isCorrect": false }
+      ],
+      "analysis": "Ipswich Town pushing for automatic promotion, strong away form. Charlton mid-table with little to play for. Tractor Boys should take the points."
+    },
+    {
+      "id": "m68",
+      "league": "England Championship",
+      "homeTeam": "Birmingham",
+      "awayTeam": "Preston",
+      "date": "2026-04-22",
+      "time": "21:45",
+      "status": "PENDING",
+      "access_type": "FREE",
+      "homeForm": "WDLWW",
+      "awayForm": "WDLWL",
+      "avgGoals": 2.2,
+      "usersPickedPercent": 55,
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.44",
+        "confidence": 78,
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "card": "Under 3.5",
+        "corner": "Under 9.5"
+      },
+      "correctScoreOptions": [
+        { "score": "1-0", "probability": 30, "odds": "7.00", "isCorrect": false },
+        { "score": "2-0", "probability": 24, "odds": "8.00", "isCorrect": false }
+      ],
+      "analysis": "Birmingham solid at home in Championship. Preston inconsistent away with scoring issues. Low-scoring home win looks the safest bet."
+    },
+    {
+      "id": "m69",
+      "league": "Germany DFB Pokal",
+      "homeTeam": "Bayer Leverkusen",
+      "awayTeam": "Bayern Munich",
+      "date": "2026-04-22",
+      "time": "21:45",
+      "status": "PENDING",
+      "access_type": "VIP",
+      "homeForm": "WDWLW",
+      "awayForm": "WWWWW",
+      "avgGoals": 3.2,
+      "usersPickedPercent": 88,
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.14",
+        "confidence": 89,
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "card": "Over 3.5",
+        "corner": "Over 9.5"
+      },
+      "correctScoreOptions": [
+        { "score": "2-2", "probability": 22, "odds": "12.00", "isCorrect": false },
+        { "score": "1-2", "probability": 20, "odds": "9.00", "isCorrect": false }
+      ],
+      "analysis": "REAL FORM: DFB Pokal SEMI-FINAL! Bayern won last 5 matches. Leverkusen lost 2-1 to Augsburg last match. Bayern 1.32 favorites. Musiala back from injury. Pokal classic between two Bundesliga giants."
+    },
+    {
+      "id": "m70",
+      "league": "England League One",
+      "homeTeam": "Cardiff City",
+      "awayTeam": "Port Vale",
+      "date": "2026-04-22",
+      "time": "21:45",
+      "status": "PENDING",
+      "access_type": "FREE",
+      "homeForm": "WDLWW",
+      "awayForm": "LLWDL",
+      "avgGoals": 2.6,
+      "usersPickedPercent": 82,
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.12",
+        "confidence": 88,
+        "overUnder": "Over 2.5",
+        "btts": "No",
+        "card": "Under 3.5",
+        "corner": "Over 9.5"
+      },
+      "correctScoreOptions": [
+        { "score": "2-0", "probability": 35, "odds": "7.50", "isCorrect": false },
+        { "score": "3-0", "probability": 25, "odds": "9.00", "isCorrect": false }
+      ],
+      "analysis": "Cardiff City heavy favorites against struggling Port Vale. Bluebirds pushing for promotion. Comfortable home win expected at Cardiff City Stadium."
+    },
+    {
+      "id": "m71",
+      "league": "France Coupe de France",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Nice",
+      "date": "2026-04-22",
+      "time": "22:00",
+      "status": "PENDING",
+      "access_type": "AD_UNLOCK",
+      "homeForm": "WWDWL",
+      "awayForm": "WDLWW",
+      "avgGoals": 2.4,
+      "usersPickedPercent": 58,
+      "prediction": {
+        "mainPick": "BTTS Yes",
+        "odds": "1.58",
+        "confidence": 79,
+        "overUnder": "Under 2.5",
+        "btts": "Yes",
+        "card": "Over 3.5",
+        "corner": "Under 9.5"
+      },
+      "correctScoreOptions": [
+        { "score": "1-1", "probability": 28, "odds": "7.00", "isCorrect": false },
+        { "score": "2-1", "probability": 24, "odds": "9.50", "isCorrect": false }
+      ],
+      "analysis": "French Cup semi-final clash. Strasbourg solid at home, Nice dangerous away. Competitive match with goals at both ends."
+    },
+    {
+      "id": "m72",
+      "league": "Italy Coppa Italia",
+      "homeTeam": "Atalanta",
+      "awayTeam": "Lazio",
+      "date": "2026-04-22",
+      "time": "22:00",
+      "status": "PENDING",
+      "access_type": "VIP",
+      "homeForm": "WWWWW",
+      "awayForm": "WWDWL",
+      "avgGoals": 2.8,
+      "usersPickedPercent": 84,
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.52",
+        "confidence": 86,
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "card": "Over 4.5",
+        "corner": "Over 9.5"
+      },
+      "correctScoreOptions": [
+        { "score": "2-1", "probability": 30, "odds": "9.00", "isCorrect": false },
+        { "score": "3-1", "probability": 22, "odds": "11.00", "isCorrect": false }
+      ],
+      "analysis": "Coppa Italia semi-final! Atalanta in devastating form at Gewiss, 5 straight wins. Lazio competitive but Gasperini's attack overwhelming. Expect a thrilling cup tie in Bergamo."
+    },
+    {
+      "id": "m73",
+      "league": "England Premier League",
+      "homeTeam": "Bournemouth",
+      "awayTeam": "Leeds United",
+      "date": "2026-04-22",
+      "time": "22:00",
+      "status": "PENDING",
+      "access_type": "FREE",
+      "homeForm": "WDLWW",
+      "awayForm": "LLDWW",
+      "avgGoals": 2.9,
+      "usersPickedPercent": 64,
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.75",
+        "confidence": 80,
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "card": "Over 3.5",
+        "corner": "Over 9.5"
+      },
+      "correctScoreOptions": [
+        { "score": "2-1", "probability": 28, "odds": "9.50", "isCorrect": false },
+        { "score": "3-1", "probability": 22, "odds": "11.00", "isCorrect": false }
+      ],
+      "analysis": "Bournemouth strong at Vitality Stadium. Leeds inconsistent away in Premier League. Cherries' attacking quality should see them through."
+    },
+    {
+      "id": "m74",
+      "league": "Portugal Taca de Portugal",
+      "homeTeam": "Porto",
+      "awayTeam": "Sporting CP",
+      "date": "2026-04-22",
+      "time": "22:45",
+      "status": "PENDING",
+      "access_type": "VIP",
+      "homeForm": "WWWWW",
+      "awayForm": "WWDWW",
+      "avgGoals": 2.7,
+      "usersPickedPercent": 90,
+      "prediction": {
+        "mainPick": "BTTS Yes",
+        "odds": "1.52",
+        "confidence": 85,
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "card": "Over 4.5",
+        "corner": "Over 9.5"
+      },
+      "correctScoreOptions": [
+        { "score": "2-2", "probability": 24, "odds": "13.00", "isCorrect": false },
+        { "score": "2-1", "probability": 22, "odds": "9.50", "isCorrect": false }
+      ],
+      "analysis": "Portuguese Cup semi-final, O Classico! Porto won last 5 at home. Sporting also in excellent form. Both teams score consistently. Tense cup derby with goals guaranteed at Estadio do Dragao."
     }
   ]
 }
+  
+
