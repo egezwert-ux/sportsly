@@ -1788,8 +1788,591 @@
         { "score": "2-1", "probability": 22, "odds": "9.50", "isCorrect": false }
       ],
       "analysis": "Portuguese Cup semi-final, O Classico! Porto won last 5 at home. Sporting also in excellent form. Both teams score consistently. Tense cup derby with goals guaranteed at Estadio do Dragao."
-    }
-  ]
+    },
+    {
+    "id": "m2026_100",
+    "league": "UAE Arabian Gulf League",
+    "homeTeam": "Sharjah",
+    "awayTeam": "AL Wahda",
+    "date": "2026-04-23",
+    "time": "17:00",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "LWDWL",
+    "awayForm": "LDLWL",
+    "avgGoals": 2.9,
+    "usersPickedPercent": 71,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.59",
+      "confidence": 75,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 27, "odds": "8.50", "isCorrect": false },
+      { "score": "1-2", "probability": 23, "odds": "9.50", "isCorrect": false }
+    ],
+    "analysis": "Both teams are attack‑minded and matches between them regularly produce goals. AL Wahda's away form suggests they will contribute to an open game."
+  },
+  {
+    "id": "m2026_101",
+    "league": "UAE Arabian Gulf League",
+    "homeTeam": "AL Ittihad K.",
+    "awayTeam": "Baniyas",
+    "date": "2026-04-23",
+    "time": "17:00",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "WDLWW",
+    "awayForm": "LWLDL",
+    "avgGoals": 3.0,
+    "usersPickedPercent": 68,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.53",
+      "confidence": 78,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 29, "odds": "8.00", "isCorrect": false },
+      { "score": "1-2", "probability": 21, "odds": "9.00", "isCorrect": false }
+    ],
+    "analysis": "Both sides leak goals but carry a threat going forward. Over 2.5 is a solid value pick with two inconsistent defences."
+  },
+  {
+    "id": "m2026_102",
+    "league": "Tunisian Ligue 1",
+    "homeTeam": "Esperance T.",
+    "awayTeam": "ES Zarzis",
+    "date": "2026-04-23",
+    "time": "17:00",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "WWWWL",
+    "awayForm": "LLLDW",
+    "avgGoals": 2.8,
+    "usersPickedPercent": 92,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.09",
+      "confidence": 95,
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "3-0", "probability": 35, "odds": "6.50", "isCorrect": false },
+      { "score": "2-0", "probability": 30, "odds": "5.80", "isCorrect": false }
+    ],
+    "analysis": "Esperance are a dominant force at home and face a Zarzis side in dreadful form. A comfortable home win with a clean sheet is expected."
+  },
+  {
+    "id": "m2026_103",
+    "league": "Serbian SuperLiga, Relegation Round",
+    "homeTeam": "Radnicki Nis",
+    "awayTeam": "Jav. Ivanjica",
+    "date": "2026-04-23",
+    "time": "17:00",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "WLLWL",
+    "awayForm": "DWLLL",
+    "avgGoals": 1.8,
+    "usersPickedPercent": 74,
+    "prediction": {
+      "mainPick": "Under 2.5 Goals",
+      "odds": "1.39",
+      "confidence": 82,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 32, "odds": "6.00", "isCorrect": false },
+      { "score": "0-0", "probability": 26, "odds": "7.20", "isCorrect": false }
+    ],
+    "analysis": "A typical relegation group clash where both teams prioritise not losing. Tight, physical game with few chances expected."
+  },
+  {
+    "id": "m2026_104",
+    "league": "Turkish 3rd League, Group 1 Promotion",
+    "homeTeam": "Bursa Yıldırım SK",
+    "awayTeam": "Çorlu Spor 1947",
+    "date": "2026-04-23",
+    "time": "17:00",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "WDWLW",
+    "awayForm": "LWDLD",
+    "avgGoals": 2.7,
+    "usersPickedPercent": 58,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.84",
+      "confidence": 68,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 25, "odds": "8.50", "isCorrect": false },
+      { "score": "1-1", "probability": 22, "odds": "7.00", "isCorrect": false }
+    ],
+    "analysis": "Both teams need points in the promotion race and recent meetings have been lively. The odds underestimate the chance of a high‑scoring affair."
+  },
+  {
+    "id": "m2026_105",
+    "league": "Egyptian Premier League, Relegation Round",
+    "homeTeam": "Al Mokawloon",
+    "awayTeam": "AL Ittihad",
+    "date": "2026-04-23",
+    "time": "18:00",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "LLDLW",
+    "awayForm": "WDDWL",
+    "avgGoals": 1.2,
+    "usersPickedPercent": 85,
+    "prediction": {
+      "mainPick": "Under 2.5 Goals",
+      "odds": "1.13",
+      "confidence": 96,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-0", "probability": 38, "odds": "5.50", "isCorrect": false },
+      { "score": "1-0", "probability": 33, "odds": "6.20", "isCorrect": false }
+    ],
+    "analysis": "Extremely low total goals expectation. Both teams are among the lowest scorers in the league and will be cautious in a relegation battle."
+  },
+  {
+    "id": "m2026_106",
+    "league": "Latvian Virsliga",
+    "homeTeam": "Super Nova",
+    "awayTeam": "FK Liepaja",
+    "date": "2026-04-23",
+    "time": "18:00",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "LDLLL",
+    "awayForm": "WWWWL",
+    "avgGoals": 2.8,
+    "usersPickedPercent": 70,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.66",
+      "confidence": 78,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 28, "odds": "8.00", "isCorrect": false },
+      { "score": "0-2", "probability": 26, "odds": "7.50", "isCorrect": false }
+    ],
+    "analysis": "Liepaja are far superior and in strong away form. Super Nova are struggling but often score at home, so an away win with goals is likely."
+  },
+  {
+    "id": "m2026_107",
+    "league": "Turkish Cup",
+    "homeTeam": "Samsunspor",
+    "awayTeam": "Trabzonspor",
+    "date": "2026-04-23",
+    "time": "18:45",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "DWLDW",
+    "awayForm": "WWWLW",
+    "avgGoals": 3.0,
+    "usersPickedPercent": 73,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.51",
+      "confidence": 80,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 26, "odds": "8.00", "isCorrect": false },
+      { "score": "1-2", "probability": 24, "odds": "8.80", "isCorrect": false }
+    ],
+    "analysis": "Cup ties between these two often deliver goals. Trabzonspor's aggressive style leaves space, and Samsunspor are capable in attack."
+  },
+  {
+    "id": "m2026_108",
+    "league": "Danish Superliga, Relegation Round",
+    "homeTeam": "Randers",
+    "awayTeam": "Fredericia",
+    "date": "2026-04-23",
+    "time": "19:00",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "WLLLD",
+    "awayForm": "LLWLD",
+    "avgGoals": 3.2,
+    "usersPickedPercent": 76,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.37",
+      "confidence": 85,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 30, "odds": "7.50", "isCorrect": false },
+      { "score": "3-1", "probability": 22, "odds": "9.00", "isCorrect": false }
+    ],
+    "analysis": "Randers are strong at home in the relegation group and Fredericia are vulnerable away. The over 2.5 market is heavily backed."
+  },
+  {
+    "id": "m2026_109",
+    "league": "Danish Superliga, Championship Group",
+    "homeTeam": "Nordsjælland",
+    "awayTeam": "AGF Aarhus",
+    "date": "2026-04-23",
+    "time": "19:00",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "DWWWL",
+    "awayForm": "WWLDW",
+    "avgGoals": 3.1,
+    "usersPickedPercent": 72,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.36",
+      "confidence": 84,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 28, "odds": "8.00", "isCorrect": false },
+      { "score": "1-2", "probability": 25, "odds": "8.20", "isCorrect": false }
+    ],
+    "analysis": "Two attacking teams in the championship group. Previous meetings have been goal‑filled, and the odds accurately price a high‑scoring contest."
+  },
+  {
+    "id": "m2026_110",
+    "league": "Russian Premier League",
+    "homeTeam": "S. Moskova",
+    "awayTeam": "Krasnodar",
+    "date": "2026-04-23",
+    "time": "19:45",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "WWLWW",
+    "awayForm": "WWWLW",
+    "avgGoals": 2.5,
+    "usersPickedPercent": 66,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.63",
+      "confidence": 73,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-1", "probability": 28, "odds": "6.80", "isCorrect": false },
+      { "score": "2-1", "probability": 24, "odds": "8.50", "isCorrect": false }
+    ],
+    "analysis": "Spartak Moskova and Krasnodar are both well‑matched attacking sides. The odds suggest goals, and the head‑to‑head supports over 2.5."
+  },
+  {
+    "id": "m2026_111",
+    "league": "Russian Premier League",
+    "homeTeam": "Akhmat Grozny",
+    "awayTeam": "B. Kaliningrad",
+    "date": "2026-04-23",
+    "time": "19:45",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "WWDDW",
+    "awayForm": "DDWLL",
+    "avgGoals": 1.6,
+    "usersPickedPercent": 78,
+    "prediction": {
+      "mainPick": "Under 2.5 Goals",
+      "odds": "1.39",
+      "confidence": 80,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 34, "odds": "5.80", "isCorrect": false },
+      { "score": "0-0", "probability": 30, "odds": "6.50", "isCorrect": false }
+    ],
+    "analysis": "Akhmat are defensively solid at home, while Baltika struggle to score away. A low‑scoring affair is highly probable."
+  },
+  {
+    "id": "m2026_112",
+    "league": "Dutch Eredivisie",
+    "homeTeam": "Go Ahead Eagles",
+    "awayTeam": "AZ Alkmaar",
+    "date": "2026-04-23",
+    "time": "19:45",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "WWLWL",
+    "awayForm": "WWLWW",
+    "avgGoals": 3.5,
+    "usersPickedPercent": 82,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.29",
+      "confidence": 90,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 27, "odds": "7.50", "isCorrect": false },
+      { "score": "2-2", "probability": 23, "odds": "11.00", "isCorrect": false }
+    ],
+    "analysis": "AZ Alkmaar's games are rarely dull. Eagles are competitive at home and will push for goals. The low odds for over 2.5 reflect the market sentiment."
+  },
+  {
+    "id": "m2026_113",
+    "league": "Spanish La Liga",
+    "homeTeam": "Levante",
+    "awayTeam": "Sevilla",
+    "date": "2026-04-23",
+    "time": "20:00",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "WLDWD",
+    "awayForm": "WLLLW",
+    "avgGoals": 2.6,
+    "usersPickedPercent": 62,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "2.14",
+      "confidence": 65,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 22, "odds": "9.00", "isCorrect": false },
+      { "score": "1-1", "probability": 26, "odds": "6.50", "isCorrect": false }
+    ],
+    "analysis": "Levante are fighting to avoid relegation and are strong at home. Sevilla have been inconsistent on the road, giving value to the home side."
+  },
+  {
+    "id": "m2026_114",
+    "league": "Swedish Allsvenskan",
+    "homeTeam": "Degerfors IF",
+    "awayTeam": "AIK Solna",
+    "date": "2026-04-23",
+    "time": "20:00",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "DLWLL",
+    "awayForm": "LWWLW",
+    "avgGoals": 1.7,
+    "usersPickedPercent": 75,
+    "prediction": {
+      "mainPick": "Under 2.5 Goals",
+      "odds": "1.44",
+      "confidence": 81,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-1", "probability": 33, "odds": "6.60", "isCorrect": false },
+      { "score": "0-0", "probability": 31, "odds": "7.20", "isCorrect": false }
+    ],
+    "analysis": "Early‑season Allsvenskan often sees cagey away performances from AIK. Degerfors lack cutting edge up front, making under 2.5 the smart play."
+  },
+  {
+    "id": "m2026_115",
+    "league": "Swedish Allsvenskan",
+    "homeTeam": "Malmö",
+    "awayTeam": "IK Sirius",
+    "date": "2026-04-23",
+    "time": "20:00",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "LWWWL",
+    "awayForm": "WLDLL",
+    "avgGoals": 2.9,
+    "usersPickedPercent": 77,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.52",
+      "confidence": 79,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 29, "odds": "7.80", "isCorrect": false },
+      { "score": "3-1", "probability": 23, "odds": "9.50", "isCorrect": false }
+    ],
+    "analysis": "Malmö are the league's top scorers at home, and Sirius often concede but can grab a goal. The match is set up for over 2.5."
+  },
+  {
+    "id": "m2026_116",
+    "league": "Turkish Cup",
+    "homeTeam": "Beşiktaş",
+    "awayTeam": "Alanyaspor",
+    "date": "2026-04-23",
+    "time": "20:45",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "WLWWL",
+    "awayForm": "LWLWD",
+    "avgGoals": 3.3,
+    "usersPickedPercent": 88,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.35",
+      "confidence": 88,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 26, "odds": "7.20", "isCorrect": false },
+      { "score": "3-1", "probability": 24, "odds": "8.00", "isCorrect": false }
+    ],
+    "analysis": "Beşiktaş are in fine form and the Turkish Cup produces goals. Alanyaspor can be dangerous on the counter, but the home side should dominate and secure a high‑scoring win."
+  },
+  {
+    "id": "m2026_117",
+    "league": "Portuguese Primeira Liga",
+    "homeTeam": "Casa Pia",
+    "awayTeam": "Braga",
+    "date": "2026-04-23",
+    "time": "21:00",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "DLDLL",
+    "awayForm": "WWLWW",
+    "avgGoals": 2.7,
+    "usersPickedPercent": 83,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.39",
+      "confidence": 85,
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-2", "probability": 37, "odds": "6.00", "isCorrect": false },
+      { "score": "1-2", "probability": 28, "odds": "7.50", "isCorrect": false }
+    ],
+    "analysis": "Braga are a class above and Casa Pia are in poor shape. The visitors should claim a straightforward victory, likely with a clean sheet."
+  },
+  {
+    "id": "m2026_118",
+    "league": "Egyptian Premier League, Championship Round",
+    "homeTeam": "Zamalek",
+    "awayTeam": "Pyramids",
+    "date": "2026-04-23",
+    "time": "21:00",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "WWWDD",
+    "awayForm": "LWDWW",
+    "avgGoals": 1.8,
+    "usersPickedPercent": 79,
+    "prediction": {
+      "mainPick": "Under 2.5 Goals",
+      "odds": "1.37",
+      "confidence": 83,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-0", "probability": 36, "odds": "5.90", "isCorrect": false },
+      { "score": "1-0", "probability": 32, "odds": "6.80", "isCorrect": false }
+    ],
+    "analysis": "A tight championship group encounter between two tactical sides. Both defensive records are strong, and history shows low‑scoring clashes."
+  },
+  {
+    "id": "m2026_119",
+    "league": "Saudi Pro League",
+    "homeTeam": "Damac",
+    "awayTeam": "AL Akhdood",
+    "date": "2026-04-23",
+    "time": "21:00",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "WWDWL",
+    "awayForm": "LLLDL",
+    "avgGoals": 2.3,
+    "usersPickedPercent": 84,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.43",
+      "confidence": 82,
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-0", "probability": 34, "odds": "6.00", "isCorrect": false },
+      { "score": "1-0", "probability": 29, "odds": "6.50", "isCorrect": false }
+    ],
+    "analysis": "Damac are strong at home and face an out‑of‑form Al Akhdood. The hosts should secure a win with a clean sheet, but the match may open up if they score early."
+  }
+ ]
 }
+ 
+  
+
   
 
