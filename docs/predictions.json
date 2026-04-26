@@ -3743,9 +3743,561 @@
       { "score": "0-0", "probability": 29, "odds": "7.20", "isCorrect": false }
     ],
     "analysis": "West Ham have been inconsistent but are tough to break down at home. Everton have found some form with back-to-back wins. A cagey, low-scoring London Stadium affair is expected."
+  },
+  {
+    "id": "m350",
+    "league": "Italian Serie A",
+    "homeTeam": "Fiorentina",
+    "awayTeam": "Sassuolo",
+    "date": "2026-04-26",
+    "time": "13:30",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "WLDWW",
+    "awayForm": "LWLLD",
+    "avgGoals": 2.4,
+    "usersPickedPercent": 68,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.79",
+      "confidence": 73,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 29, "odds": "8.00", "isCorrect": false },
+      { "score": "1-0", "probability": 24, "odds": "7.20", "isCorrect": false }
+    ],
+    "analysis": "Fiorentina have won 3 of their last 5, showing strong form at home. Sassuolo are inconsistent with just 2 wins in 5, conceding regularly. Fiorentina's attacking quality should edge this."
+  },
+  {
+    "id": "m351",
+    "league": "Turkish Super Lig",
+    "homeTeam": "Gençlerbirliği",
+    "awayTeam": "Kocaelispor",
+    "date": "2026-04-26",
+    "time": "14:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LDLLL",
+    "awayForm": "LDLWD",
+    "avgGoals": 2.1,
+    "usersPickedPercent": 57,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "2.02",
+      "confidence": 65,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 25, "odds": "9.00", "isCorrect": false },
+      { "score": "2-2", "probability": 20, "odds": "12.00", "isCorrect": false }
+    ],
+    "analysis": "Gençlerbirliği are winless in their last 5, conceding heavily. Kocaelispor have been slightly better but both defences are vulnerable, which should lead to an open game with goals."
+  },
+  {
+    "id": "m352",
+    "league": "Spanish La Liga",
+    "homeTeam": "Vallecano",
+    "awayTeam": "R. Sociedad",
+    "date": "2026-04-26",
+    "time": "15:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WLLDD",
+    "awayForm": "WLDWW",
+    "avgGoals": 2.0,
+    "usersPickedPercent": 63,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "2.21",
+      "confidence": 70,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-1", "probability": 34, "odds": "6.40", "isCorrect": false },
+      { "score": "0-2", "probability": 26, "odds": "8.50", "isCorrect": false }
+    ],
+    "analysis": "Vallecano sit 13th and have won just 1 of their last 5. Real Sociedad are pushing for Europe in 8th, with 3 wins in 5 and a strong defensive record on the road."
+  },
+  {
+    "id": "m353",
+    "league": "Italian Serie A",
+    "homeTeam": "Genoa",
+    "awayTeam": "Como 1907",
+    "date": "2026-04-26",
+    "time": "16:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WDLWL",
+    "awayForm": "WWLWD",
+    "avgGoals": 2.9,
+    "usersPickedPercent": 72,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.50",
+      "confidence": 78,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 28, "odds": "7.80", "isCorrect": false },
+      { "score": "0-2", "probability": 24, "odds": "8.20", "isCorrect": false }
+    ],
+    "analysis": "Como 1907 are flying high in 5th place, scoring freely with 3 wins in their last 5. Genoa have been inconsistent in 13th and may struggle to contain Como's dynamic attack."
+  },
+  {
+    "id": "m354",
+    "league": "French Ligue 1",
+    "homeTeam": "Lorient",
+    "awayTeam": "Strasbourg",
+    "date": "2026-04-26",
+    "time": "16:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "DWLDL",
+    "awayForm": "WDWLD",
+    "avgGoals": 2.4,
+    "usersPickedPercent": 64,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.53",
+      "confidence": 75,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 26, "odds": "8.50", "isCorrect": false },
+      { "score": "1-2", "probability": 24, "odds": "8.80", "isCorrect": false }
+    ],
+    "analysis": "Both sides have been inconsistent but carry an attacking threat. Lorient need points at home while Strasbourg have been solid on the road, setting up an entertaining contest."
+  },
+  {
+    "id": "m355",
+    "league": "German Bundesliga",
+    "homeTeam": "Stuttgart",
+    "awayTeam": "Werder Bremen",
+    "date": "2026-04-26",
+    "time": "16:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWLWD",
+    "awayForm": "LWLLW",
+    "avgGoals": 2.8,
+    "usersPickedPercent": 71,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.67",
+      "confidence": 74,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 30, "odds": "7.80", "isCorrect": false },
+      { "score": "3-1", "probability": 22, "odds": "9.50", "isCorrect": false }
+    ],
+    "analysis": "Stuttgart are 4th in the Bundesliga and pushing for Champions League football, with 3 wins in their last 5. Werder Bremen sit 15th and have lost 3 of 5, struggling on the road."
+  },
+  {
+    "id": "m356",
+    "league": "English FA Cup",
+    "homeTeam": "Chelsea",
+    "awayTeam": "Leeds Utd",
+    "date": "2026-04-26",
+    "time": "17:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LLLLL",
+    "awayForm": "WLDWL",
+    "avgGoals": 2.0,
+    "usersPickedPercent": 66,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "3.15",
+      "confidence": 67,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-1", "probability": 35, "odds": "7.00", "isCorrect": false },
+      { "score": "1-2", "probability": 22, "odds": "10.50", "isCorrect": false }
+    ],
+    "analysis": "Chelsea are in complete crisis, losing their last 5 league matches without scoring. Leeds have shown fight in the Premier League and could take advantage of Chelsea's fragile confidence."
+  },
+  {
+    "id": "m357",
+    "league": "Spanish La Liga",
+    "homeTeam": "Real Oviedo",
+    "awayTeam": "Elche",
+    "date": "2026-04-26",
+    "time": "17:15",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WLLDL",
+    "awayForm": "LWLWD",
+    "avgGoals": 1.9,
+    "usersPickedPercent": 59,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "2.00",
+      "confidence": 64,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 33, "odds": "6.20", "isCorrect": false },
+      { "score": "0-0", "probability": 28, "odds": "7.00", "isCorrect": false }
+    ],
+    "analysis": "Real Oviedo are bottom of La Liga but have shown fight at home. Elche are 13th and inconsistent away. A tight, low-scoring relegation battle is expected with the hosts having a slight edge."
+  },
+  {
+    "id": "m358",
+    "league": "UEFA Women's Champions League",
+    "homeTeam": "Arsenal (K)",
+    "awayTeam": "O. Lyon (K)",
+    "date": "2026-04-26",
+    "time": "17:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWWWL",
+    "awayForm": "WWWWW",
+    "avgGoals": 3.5,
+    "usersPickedPercent": 74,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.40",
+      "confidence": 85,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 27, "odds": "8.50", "isCorrect": false },
+      { "score": "1-2", "probability": 26, "odds": "8.00", "isCorrect": false }
+    ],
+    "analysis": "A clash between two European heavyweights. Arsenal have been strong at home while Lyon are dominant in France. Both teams score freely and this should be an open, high-quality encounter."
+  },
+  {
+    "id": "m359",
+    "league": "French Ligue 1",
+    "homeTeam": "Rennes",
+    "awayTeam": "Nantes",
+    "date": "2026-04-26",
+    "time": "18:15",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWWLW",
+    "awayForm": "LDLLD",
+    "avgGoals": 2.7,
+    "usersPickedPercent": 81,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.27",
+      "confidence": 88,
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-0", "probability": 38, "odds": "5.80", "isCorrect": false },
+      { "score": "3-0", "probability": 30, "odds": "7.50", "isCorrect": false }
+    ],
+    "analysis": "Rennes are in superb form with 3 straight wins, scoring 9 goals. Nantes are winless in 5, failing to score in most of those matches. A comfortable home victory is highly probable."
+  },
+  {
+    "id": "m360",
+    "league": "French Ligue 1",
+    "homeTeam": "Paris FC",
+    "awayTeam": "Lille",
+    "date": "2026-04-26",
+    "time": "18:15",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LDLWD",
+    "awayForm": "WWLWW",
+    "avgGoals": 2.4,
+    "usersPickedPercent": 73,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.56",
+      "confidence": 79,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 30, "odds": "7.80", "isCorrect": false },
+      { "score": "0-2", "probability": 26, "odds": "8.00", "isCorrect": false }
+    ],
+    "analysis": "Paris FC have been inconsistent in 12th place while Lille are 5th and have won 3 of their last 5. Lille's superior quality and form should see them through."
+  },
+  {
+    "id": "m361",
+    "league": "French Ligue 1",
+    "homeTeam": "Le Havre",
+    "awayTeam": "Metz",
+    "date": "2026-04-26",
+    "time": "18:15",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LLLDD",
+    "awayForm": "LLWLL",
+    "avgGoals": 1.9,
+    "usersPickedPercent": 65,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.34",
+      "confidence": 80,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 37, "odds": "5.60", "isCorrect": false },
+      { "score": "2-0", "probability": 29, "odds": "7.00", "isCorrect": false }
+    ],
+    "analysis": "Le Havre are winless in 5 but face a Metz side that is bottom of Ligue 1 with just 3 wins all season. Le Havre's home advantage should be enough in this relegation six-pointer."
+  },
+  {
+    "id": "m362",
+    "league": "German Bundesliga",
+    "homeTeam": "Bayern Munich",
+    "awayTeam": "Mainz 05",
+    "date": "2026-04-26",
+    "time": "18:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWWWW",
+    "awayForm": "LWLLD",
+    "avgGoals": 3.6,
+    "usersPickedPercent": 92,
+    "prediction": {
+      "mainPick": "Home Win & Over 2.5",
+      "odds": "1.35",
+      "confidence": 95,
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "3-0", "probability": 42, "odds": "5.50", "isCorrect": false },
+      { "score": "4-0", "probability": 34, "odds": "7.00", "isCorrect": false }
+    ],
+    "analysis": "Bayern Munich are top of the Bundesliga with a near-perfect record. Mainz have been inconsistent and will struggle to contain Bayern's attacking firepower at the Allianz Arena."
+  },
+  {
+    "id": "m363",
+    "league": "Italian Serie A",
+    "homeTeam": "Torino",
+    "awayTeam": "Inter",
+    "date": "2026-04-26",
+    "time": "19:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWLWD",
+    "awayForm": "WWWWL",
+    "avgGoals": 2.8,
+    "usersPickedPercent": 78,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.20",
+      "confidence": 90,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 31, "odds": "7.50", "isCorrect": false },
+      { "score": "0-2", "probability": 29, "odds": "7.00", "isCorrect": false }
+    ],
+    "analysis": "Torino have been solid at home but Inter are league leaders with a formidable attack. Inter have won 4 of their last 5 and the reverse fixture ended 5-0, highlighting the gulf in class."
+  },
+  {
+    "id": "m364",
+    "league": "Spanish La Liga",
+    "homeTeam": "Osasuna",
+    "awayTeam": "Sevilla",
+    "date": "2026-04-26",
+    "time": "19:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WDDWD",
+    "awayForm": "LLLWL",
+    "avgGoals": 2.2,
+    "usersPickedPercent": 69,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.69",
+      "confidence": 76,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 29, "odds": "8.00", "isCorrect": false },
+      { "score": "1-0", "probability": 25, "odds": "6.80", "isCorrect": false }
+    ],
+    "analysis": "Osasuna are 10th and unbeaten in 5, showing great resilience at home. Sevilla are in relegation trouble (18th) with 4 losses in their last 5 league matches. The form guide strongly favours the hosts."
+  },
+  {
+    "id": "m365",
+    "league": "Turkish Super Lig",
+    "homeTeam": "Galatasaray",
+    "awayTeam": "Fenerbahçe",
+    "date": "2026-04-26",
+    "time": "20:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWLWW",
+    "awayForm": "DWWWW",
+    "avgGoals": 2.8,
+    "usersPickedPercent": 88,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "2.63",
+      "confidence": 73,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-6", "probability": 1, "odds": "130.00", "isCorrect": false },
+      { "score": "0-4", "probability": 22, "odds": "15.00", "isCorrect": false }
+    ],
+    "analysis": "The biggest derby in Turkish football. Galatasaray lead the league but Fenerbahçe are in relentless form and unbeaten in their last 5. Fenerbahçe's attacking firepower, led by Dorgeles Nene who has 5 goals in his last 5 appearances, could overwhelm the hosts in a stunning away victory."
+  },
+  {
+    "id": "m366",
+    "league": "French Ligue 1",
+    "homeTeam": "Marseille",
+    "awayTeam": "Nice",
+    "date": "2026-04-26",
+    "time": "21:45",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LWLWL",
+    "awayForm": "DWLDW",
+    "avgGoals": 2.5,
+    "usersPickedPercent": 75,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.38",
+      "confidence": 82,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 30, "odds": "7.80", "isCorrect": false },
+      { "score": "3-1", "probability": 24, "odds": "9.50", "isCorrect": false }
+    ],
+    "analysis": "Marseille are 4th and pushing for Champions League qualification. Nice are 15th and battling relegation. Marseille's home form has been strong and they should have too much quality."
+  },
+  {
+    "id": "m367",
+    "league": "Italian Serie A",
+    "homeTeam": "AC Milan",
+    "awayTeam": "Juventus",
+    "date": "2026-04-26",
+    "time": "21:45",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWLWL",
+    "awayForm": "WDWWL",
+    "avgGoals": 2.3,
+    "usersPickedPercent": 77,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.77",
+      "confidence": 72,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-1", "probability": 28, "odds": "6.50", "isCorrect": false },
+      { "score": "2-1", "probability": 25, "odds": "9.00", "isCorrect": false }
+    ],
+    "analysis": "A classic Serie A clash between two Italian giants. Both sides have been in decent form and matches between them are typically tight but high on quality. Goals are expected at both ends."
+  },
+  {
+    "id": "m368",
+    "league": "Spanish La Liga",
+    "homeTeam": "Villarreal",
+    "awayTeam": "Celta Vigo",
+    "date": "2026-04-26",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWWLW",
+    "awayForm": "WLWLD",
+    "avgGoals": 3.1,
+    "usersPickedPercent": 76,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.62",
+      "confidence": 78,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 31, "odds": "7.80", "isCorrect": false },
+      { "score": "3-1", "probability": 24, "odds": "10.00", "isCorrect": false }
+    ],
+    "analysis": "Villarreal are 4th in La Liga with 4 wins in their last 5, playing attacking football. Celta Vigo have been inconsistent and Villarreal's home form should prove decisive."
   }
  ]
 } 
+
 
  
   
