@@ -5114,7 +5114,7 @@
     "awayTeam": "Coquimbo Unido",
     "date": "2026-04-29",
     "time": "05:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "LDLLW",
@@ -5143,7 +5143,7 @@
     "awayTeam": "Atl Junior",
     "date": "2026-04-29",
     "time": "05:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "LWDWL",
@@ -5172,7 +5172,7 @@
     "awayTeam": "Boston River",
     "date": "2026-04-29",
     "time": "05:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "LWWDW",
@@ -5201,7 +5201,7 @@
     "awayTeam": "Brann",
     "date": "2026-04-29",
     "time": "20:00",
-    "status": "PENDING",
+    "status": "lost",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WWWWD",
@@ -5230,7 +5230,7 @@
     "awayTeam": "US Yacoub Mansour",
     "date": "2026-04-29",
     "time": "20:00",
-    "status": "PENDING",
+    "status": "lost",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "DDLDD",
@@ -5259,7 +5259,7 @@
     "awayTeam": "Mamelodi Sundowns",
     "date": "2026-04-29",
     "time": "20:30",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "DDLWW",
@@ -5276,7 +5276,7 @@
       "corner": "Under 9.5"
     },
     "correctScoreOptions": [
-      { "score": "0-1", "probability": 36, "odds": "5.80", "isCorrect": false },
+      { "score": "0-1", "probability": 36, "odds": "5.80", "isCorrect": true },
       { "score": "0-2", "probability": 30, "odds": "7.00", "isCorrect": false }
     ],
     "analysis": "Mamelodi Sundowns sit 2nd with 58 points, just one behind Orlando Pirates with a game in hand. Despite two frustrating draws, they remain the strongest side in the PSL. Polokwane City are 6th and competitive, but Sundowns have won 6 of the last 9 meetings between these sides and should return to winning ways."
@@ -5317,7 +5317,7 @@
     "awayTeam": "Arsenal",
     "date": "2026-04-29",
     "time": "22:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "LLLLW",
@@ -5335,7 +5335,7 @@
     },
     "correctScoreOptions": [
       { "score": "0-1", "probability": 30, "odds": "7.50", "isCorrect": false },
-      { "score": "1-1", "probability": 28, "odds": "6.50", "isCorrect": false }
+      { "score": "1-1", "probability": 28, "odds": "6.50", "isCorrect": true }
     ],
     "analysis": "A heavyweight Champions League semi-final first leg at the Metropolitano. Atletico snapped a four-game losing streak with a 3-2 win over Athletic Club on Saturday, but remain vulnerable. Arsenal returned to the top of the Premier League with a 1-0 win over Newcastle and beat Atletico 4-0 in the league phase. First-leg caution typically prevails at this stage, with a low-scoring draw or narrow away win the most likely outcome."
   },
