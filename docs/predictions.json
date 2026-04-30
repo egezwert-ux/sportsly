@@ -5396,9 +5396,182 @@
       { "score": "3-0", "probability": 28, "odds": "7.50", "isCorrect": false }
     ],
     "analysis": "Sporting CP sit 3rd on 72 points and have won all of their last 5 meetings against Tondela, who are 17th with just 21 points and fighting relegation. Despite Sporting's recent dip in form with just 1 win in 6, the visit of the league's second-worst defence offers the perfect opportunity to return to winning ways in style at the Estádio José Alvalade."
+  },
+  {
+    "id": "m485",
+    "league": "Turkish 2. Lig, Promotion",
+    "homeTeam": "Aliağa Futbol",
+    "awayTeam": "Muş SK",
+    "date": "2026-04-30",
+    "time": "17:00",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "LWWDL",
+    "awayForm": "WDWWW",
+    "avgGoals": 2.9,
+    "usersPickedPercent": 63,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.62",
+      "confidence": 72,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 28, "odds": "8.00", "isCorrect": false },
+      { "score": "1-2", "probability": 24, "odds": "9.50", "isCorrect": false }
+    ],
+    "analysis": "Aliağa Futbol finished 4th in the 2. Lig Kırmızı group with 69 points, while Muş SK sit 3rd with 70 points and are in excellent form with 4 wins in their last 5 matches, scoring 12 goals. Aliağa suffered a heavy 5-0 defeat to champions Bursaspor in their last outing but have been strong at home all season with 13 wins. Both promotion-chasing sides play attacking football and this first-leg playoff clash should produce goals."
+  },
+  {
+    "id": "m486",
+    "league": "Turkish 2. Lig, Promotion",
+    "homeTeam": "Şanlıurfaspor",
+    "awayTeam": "Muğlaşpor",
+    "date": "2026-04-30",
+    "time": "20:00",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "WLWWW",
+    "awayForm": "WWWLW",
+    "avgGoals": 2.5,
+    "usersPickedPercent": 67,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "2.39",
+      "confidence": 67,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 26, "odds": "8.50", "isCorrect": false },
+      { "score": "1-0", "probability": 24, "odds": "7.20", "isCorrect": false }
+    ],
+    "analysis": "Şanlıurfaspor finished 5th in the 2. Lig Beyaz group with 65 points and are in excellent form with 4 wins in their last 5 matches. Muğlaşpor sit 2nd with 72 points and have been one of the strongest sides in the division, winning 10 away games. Şanlıurfaspor held Muğlaşpor to a 0-0 draw in the regular season meeting and home advantage at the 11 Nisan Stadyumu could prove decisive in this playoff encounter."
+  },
+  {
+    "id": "m487",
+    "league": "UEFA Conference League",
+    "homeTeam": "Vallecano",
+    "awayTeam": "Strasbourg",
+    "date": "2026-04-30",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LDDLW",
+    "awayForm": "DWWWW",
+    "avgGoals": 3.0,
+    "usersPickedPercent": 78,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.66",
+      "confidence": 81,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-1", "probability": 28, "odds": "6.50", "isCorrect": false },
+      { "score": "2-1", "probability": 23, "odds": "8.80", "isCorrect": false }
+    ],
+    "analysis": "Rayo Vallecano sit 13th in La Liga but have been impressive in Europe, scoring 20 goals across the competition. Strasbourg are 7th in Ligue 1 and are yet to lose in Europe this season over ten matches across knockout stages and the league phase, winning each of their last two Ligue 1 matches. Both teams score in 83% of their respective matches and this historic first-leg semi-final at Vallecas promises an open, entertaining contest."
+  },
+  {
+    "id": "m488",
+    "league": "UEFA Conference League",
+    "homeTeam": "Shakhtar D.",
+    "awayTeam": "Crystal Palace",
+    "date": "2026-04-30",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWWDD",
+    "awayForm": "LDLWW",
+    "avgGoals": 2.4,
+    "usersPickedPercent": 62,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "3.32",
+      "confidence": 65,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 33, "odds": "7.50", "isCorrect": false },
+      { "score": "2-0", "probability": 25, "odds": "9.00", "isCorrect": false }
+    ],
+    "analysis": "Shakhtar Donetsk top the Ukrainian Premier League with 57 points from 24 matches and have won 3 of their last 5 in all competitions, keeping 3 clean sheets. Crystal Palace sit 13th in the Premier League with 43 points and have been inconsistent with 2 wins, 1 draw and 2 losses in their last 5. Shakhtar's European experience and home advantage at the NSK Olimpiyskyi give them a slight edge in this first-leg semi-final."
+  },
+  {
+    "id": "m489",
+    "league": "UEFA Europa League",
+    "homeTeam": "Braga",
+    "awayTeam": "Freiburg",
+    "date": "2026-04-30",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LWWWL",
+    "awayForm": "LWLWL",
+    "avgGoals": 2.6,
+    "usersPickedPercent": 71,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.98",
+      "confidence": 70,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 29, "odds": "8.20", "isCorrect": false },
+      { "score": "1-1", "probability": 26, "odds": "6.60", "isCorrect": false }
+    ],
+    "analysis": "Braga are competing in just their second major European semi-final, 15 years after losing the Europa League final to Porto. They have kept a competition-high seven clean sheets and are unbeaten in four home games against German opposition (W3 D1), winning three of five European home games without conceding this term. Freiburg suffered a heavy 4-0 defeat to Borussia Dortmund last weekend and have won just two of their last nine Europa League away matches. Braga's home fortress at the Estádio Municipal gives them the edge."
+  },
+  {
+    "id": "m490",
+    "league": "UEFA Europa League",
+    "homeTeam": "Nottingham Forest",
+    "awayTeam": "Aston Villa",
+    "date": "2026-04-30",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWWDW",
+    "awayForm": "LWWWD",
+    "avgGoals": 3.2,
+    "usersPickedPercent": 82,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.56",
+      "confidence": 83,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 27, "odds": "8.50", "isCorrect": false },
+      { "score": "1-2", "probability": 25, "odds": "9.00", "isCorrect": false }
+    ],
+    "analysis": "An all-English Europa League semi-final first leg at the City Ground. Nottingham Forest are third in the Premier League form table over their past six games, scoring 15 goals including a 5-0 thrashing of Sunderland, and are unbeaten in eight matches. Aston Villa are on an 11-match winning streak in all competitions and are legitimate Premier League title challengers. The last meeting between these sides ended 1-1 on 12 April 2026. Both teams are in devastating attacking form and this historic clash promises goals at both ends."
   }
  ]
-}     
-  
+} 
  
   
