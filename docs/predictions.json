@@ -5433,7 +5433,7 @@
     "awayTeam": "Muğlaşpor",
     "date": "2026-04-30",
     "time": "20:00",
-    "status": "PENDING",
+    "status": "lost",
     "access_type": "FREE",
     "is_finished": false,
     "homeForm": "WLWWW",
@@ -5462,7 +5462,7 @@
     "awayTeam": "Strasbourg",
     "date": "2026-04-30",
     "time": "22:00",
-    "status": "PENDING",
+    "status": "lost",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "LDDLW",
@@ -5491,7 +5491,7 @@
     "awayTeam": "Crystal Palace",
     "date": "2026-04-30",
     "time": "22:00",
-    "status": "PENDING",
+    "status": "lost",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WWWDD",
@@ -5520,7 +5520,7 @@
     "awayTeam": "Freiburg",
     "date": "2026-04-30",
     "time": "22:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "LWWWL",
@@ -5537,7 +5537,7 @@
       "corner": "Over 9.5"
     },
     "correctScoreOptions": [
-      { "score": "2-1", "probability": 29, "odds": "8.20", "isCorrect": false },
+      { "score": "2-1", "probability": 29, "odds": "8.20", "isCorrect": true },
       { "score": "1-1", "probability": 26, "odds": "6.60", "isCorrect": false }
     ],
     "analysis": "Braga are competing in just their second major European semi-final, 15 years after losing the Europa League final to Porto. They have kept a competition-high seven clean sheets and are unbeaten in four home games against German opposition (W3 D1), winning three of five European home games without conceding this term. Freiburg suffered a heavy 4-0 defeat to Borussia Dortmund last weekend and have won just two of their last nine Europa League away matches. Braga's home fortress at the Estádio Municipal gives them the edge."
