@@ -5570,8 +5570,444 @@
       { "score": "1-2", "probability": 25, "odds": "9.00", "isCorrect": false }
     ],
     "analysis": "An all-English Europa League semi-final first leg at the City Ground. Nottingham Forest are third in the Premier League form table over their past six games, scoring 15 goals including a 5-0 thrashing of Sunderland, and are unbeaten in eight matches. Aston Villa are on an 11-match winning streak in all competitions and are legitimate Premier League title challengers. The last meeting between these sides ended 1-1 on 12 April 2026. Both teams are in devastating attacking form and this historic clash promises goals at both ends."
+  },
+  {
+    "id": "m500",
+    "league": "Chinese Super League",
+    "homeTeam": "Henan Songs.",
+    "awayTeam": "Liaoning S.",
+    "date": "2026-05-01",
+    "time": "14:00",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "LLLDL",
+    "awayForm": "LLDLL",
+    "avgGoals": 1.9,
+    "usersPickedPercent": 57,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.68",
+      "confidence": 67,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 33, "odds": "6.20", "isCorrect": false },
+      { "score": "2-0", "probability": 25, "odds": "7.50", "isCorrect": false }
+    ],
+    "analysis": "Henan have lost four of their last five league matches, with only a goalless draw at Qingdao West Coast interrupting the run[reference:0]. Both sides sit at the wrong end of the table in this relegation six-pointer, but Henan's home advantage at Zhengzhou Hanghai Stadium gives them a slight edge in what should be a tense, low-scoring affair."
+  },
+  {
+    "id": "m501",
+    "league": "Chinese Super League",
+    "homeTeam": "Dalian Yingbo",
+    "awayTeam": "Chongqing T.",
+    "date": "2026-05-01",
+    "time": "14:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWWWL",
+    "awayForm": "WWDWW",
+    "avgGoals": 3.2,
+    "usersPickedPercent": 71,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.62",
+      "confidence": 78,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 27, "odds": "8.50", "isCorrect": false },
+      { "score": "1-1", "probability": 24, "odds": "6.80", "isCorrect": false }
+    ],
+    "analysis": "A mouth-watering clash between two newly promoted sides now sitting 3rd and 2nd in the CSL. Dalian won five straight before losing to Yunnan Yukun, while Chongqing remain unbeaten with 5 wins and 3 draws[reference:1]. Both teams play expansive attacking football and this top-of-the-table encounter promises goals at both ends."
+  },
+  {
+    "id": "m502",
+    "league": "Chinese Super League",
+    "homeTeam": "Tianjin Jin.",
+    "awayTeam": "Wuhan T. T.",
+    "date": "2026-05-01",
+    "time": "14:35",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WLLWD",
+    "awayForm": "LWLLL",
+    "avgGoals": 2.2,
+    "usersPickedPercent": 64,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.74",
+      "confidence": 66,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 34, "odds": "6.00", "isCorrect": false },
+      { "score": "2-0", "probability": 25, "odds": "7.80", "isCorrect": false }
+    ],
+    "analysis": "A relegation six-pointer at the bottom of the CSL table. Tianjin sit 15th with just 8 points but showed signs of life with a 4-2 away win at Beijing Guoan last round[reference:2]. Wuhan are 14th and have lost 5 of 8 matches, conceding 16 goals. Tianjin's home crowd and recent momentum should tip this crucial survival battle in their favour."
+  },
+  {
+    "id": "m503",
+    "league": "Chinese Super League",
+    "homeTeam": "Shandong Taishan",
+    "awayTeam": "Qingdao Yth. Is.",
+    "date": "2026-05-01",
+    "time": "14:35",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WLWLD",
+    "awayForm": "LDDLW",
+    "avgGoals": 2.0,
+    "usersPickedPercent": 73,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.26",
+      "confidence": 82,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 36, "odds": "5.50", "isCorrect": false },
+      { "score": "2-0", "probability": 29, "odds": "6.80", "isCorrect": false }
+    ],
+    "analysis": "Shandong Taishan started the season on minus-6 points but have worked their way to 7 points with 4 wins from 8 matches[reference:3]. Qingdao Youth Island sit 7th and have been solid defensively but lack firepower away from home. The most likely scoreline according to data models is 1-0 to Shandong, reflecting the hosts' superior quality[reference:4]."
+  },
+  {
+    "id": "m504",
+    "league": "Chinese Super League",
+    "homeTeam": "Shanghai S.",
+    "awayTeam": "Chengdu Ron.",
+    "date": "2026-05-01",
+    "time": "15:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWWWD",
+    "awayForm": "WWWWD",
+    "avgGoals": 3.4,
+    "usersPickedPercent": 88,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.68",
+      "confidence": 83,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 24, "odds": "8.50", "isCorrect": false },
+      { "score": "1-2", "probability": 23, "odds": "9.00", "isCorrect": false }
+    ],
+    "analysis": "The standout fixture of the CSL weekend. Chengdu Rongcheng lead the league with 7 wins and 1 draw, scoring freely, while Shanghai Shenhua are unbeaten with 6 wins and 2 draws despite a 10-point deduction[reference:5]. Chengdu have dominated this fixture historically with 4 wins in 8 meetings, but Shenhua's 5-game winning streak makes this a genuine blockbuster between the division's two standout sides."
+  },
+  {
+    "id": "m505",
+    "league": "League of Ireland Premier Division",
+    "homeTeam": "Galway Utd",
+    "awayTeam": "St. Patricks",
+    "date": "2026-05-01",
+    "time": "21:45",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LWDLL",
+    "awayForm": "WWWLW",
+    "avgGoals": 2.4,
+    "usersPickedPercent": 66,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.66",
+      "confidence": 74,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-1", "probability": 30, "odds": "6.80", "isCorrect": false },
+      { "score": "1-2", "probability": 26, "odds": "8.20", "isCorrect": false }
+    ],
+    "analysis": "St Patrick's Athletic lead the Premier Division table with 8 wins from 13 matches and have won away at Drogheda, Waterford and Shelbourne already this season[reference:6]. Galway sit 6th with 15 points and have been inconsistent. The visitors' superior attacking firepower and title-chasing momentum should prove decisive at Eamonn Deacy Park."
+  },
+  {
+    "id": "m506",
+    "league": "League of Ireland Premier Division",
+    "homeTeam": "Dundalk",
+    "awayTeam": "Shelbourne",
+    "date": "2026-05-01",
+    "time": "21:45",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WDWWW",
+    "awayForm": "LWDWL",
+    "avgGoals": 3.0,
+    "usersPickedPercent": 70,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "2.11",
+      "confidence": 72,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 28, "odds": "8.00", "isCorrect": false },
+      { "score": "3-1", "probability": 22, "odds": "10.50", "isCorrect": false }
+    ],
+    "analysis": "Dundalk sit 3rd in the Premier Division and are in strong form, winning 3 of their last 5 including a 3-2 victory over Shelbourne in their most recent meeting and a 2-0 win over leaders St Patrick's[reference:7]. Shelbourne are 5th with 13 points and have struggled to match Dundalk's intensity. The hosts' attacking momentum at Oriel Park should secure another three points."
+  },
+  {
+    "id": "m507",
+    "league": "Belgian Pro League, Relegation Round",
+    "homeTeam": "Cercle Brugge",
+    "awayTeam": "Zulte Waregem",
+    "date": "2026-05-01",
+    "time": "21:45",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "DWDLW",
+    "awayForm": "WDWWL",
+    "avgGoals": 2.8,
+    "usersPickedPercent": 63,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.37",
+      "confidence": 79,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 27, "odds": "7.80", "isCorrect": false },
+      { "score": "2-2", "probability": 22, "odds": "10.00", "isCorrect": false }
+    ],
+    "analysis": "Both sides have already secured their Pro League survival thanks to Zulte Waregem's win at Dender[reference:8]. This takes the pressure off and should free both teams to play expansive football. Their last meeting ended 2-2 in April, and with nothing at stake, another entertaining, high-scoring encounter is expected at the Jan Breydel Stadium."
+  },
+  {
+    "id": "m508",
+    "league": "Italian Serie A",
+    "homeTeam": "AC Pisa",
+    "awayTeam": "Lecce",
+    "date": "2026-05-01",
+    "time": "21:45",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LLLLL",
+    "awayForm": "DLLLD",
+    "avgGoals": 1.2,
+    "usersPickedPercent": 69,
+    "prediction": {
+      "mainPick": "Under 2.5 Goals",
+      "odds": "1.35",
+      "confidence": 88,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-0", "probability": 36, "odds": "5.80", "isCorrect": false },
+      { "score": "1-0", "probability": 30, "odds": "6.50", "isCorrect": false }
+    ],
+    "analysis": "Pisa are bottom of Serie A with just 18 points and have lost 4 consecutive matches, scoring just once in that run[reference:9]. Lecce sit 17th with 29 points and have the worst attack in Serie A with 22 goals in 34 matches[reference:10]. This relegation battle features the league's two weakest attacks, making under 2.5 goals an overwhelmingly likely outcome."
+  },
+  {
+    "id": "m509",
+    "league": "Scottish Premiership, Relegation Round",
+    "homeTeam": "Livingston",
+    "awayTeam": "Aberdeen",
+    "date": "2026-05-01",
+    "time": "21:45",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WLLLD",
+    "awayForm": "LLWWW",
+    "avgGoals": 1.9,
+    "usersPickedPercent": 65,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "2.03",
+      "confidence": 71,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-1", "probability": 34, "odds": "6.40", "isCorrect": false },
+      { "score": "0-2", "probability": 27, "odds": "8.00", "isCorrect": false }
+    ],
+    "analysis": "Livingston are bottom of the Premiership with 19 points and are winless in their last 8 league meetings with Aberdeen[reference:11]. Aberdeen have won their last two matches and have kept a clean sheet in each of their last 3 visits to the Tony Macaroni Arena. The Dons need a result to secure their Premiership status and should deliver."
+  },
+  {
+    "id": "m510",
+    "league": "League of Ireland Premier Division",
+    "homeTeam": "Shamrock R.",
+    "awayTeam": "Waterford",
+    "date": "2026-05-01",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWDWW",
+    "awayForm": "DLLLD",
+    "avgGoals": 2.1,
+    "usersPickedPercent": 78,
+    "prediction": {
+      "mainPick": "Home Win & Under 2.5",
+      "odds": "1.32",
+      "confidence": 86,
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-0", "probability": 37, "odds": "5.60", "isCorrect": false },
+      { "score": "1-0", "probability": 33, "odds": "5.90", "isCorrect": false }
+    ],
+    "analysis": "Shamrock Rovers sit 2nd in the Premier Division with 25 points, just 1 behind leaders St Patrick's. Waterford are bottom with just 5 points from 12 matches and have yet to win a league game this season[reference:12]. Rovers have dominated this fixture historically with 7 wins and 1 draw in the last 8 meetings. A comfortable home victory is expected at Tallaght Stadium."
+  },
+  {
+    "id": "m511",
+    "league": "English Premier League",
+    "homeTeam": "Leeds Utd",
+    "awayTeam": "Burnley",
+    "date": "2026-05-01",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "DWLLD",
+    "awayForm": "LLLLD",
+    "avgGoals": 2.8,
+    "usersPickedPercent": 75,
+    "prediction": {
+      "mainPick": "Home Win & Over 2.5",
+      "odds": "1.40",
+      "confidence": 82,
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-0", "probability": 34, "odds": "6.50", "isCorrect": false },
+      { "score": "3-0", "probability": 27, "odds": "8.00", "isCorrect": false }
+    ],
+    "analysis": "Leeds United have reached the 40-point mark and need a win to further cement their Premier League survival[reference:13]. Burnley have already been relegated following a 1-0 defeat to Manchester City and have won just 1 of their last 25 Premier League games[reference:14]. The Clarets have also just sacked manager Scott Parker. Leeds should cruise to a comfortable victory at Elland Road."
+  },
+  {
+    "id": "m512",
+    "league": "Spanish Segunda Division",
+    "homeTeam": "Zaragoza",
+    "awayTeam": "Granada",
+    "date": "2026-05-01",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LLLWL",
+    "awayForm": "LLLWL",
+    "avgGoals": 1.8,
+    "usersPickedPercent": 61,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.98",
+      "confidence": 68,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 32, "odds": "6.60", "isCorrect": false },
+      { "score": "0-0", "probability": 27, "odds": "7.40", "isCorrect": false }
+    ],
+    "analysis": "Real Zaragoza are fighting for their Segunda Division survival and are more than obliged to win at La Romareda[reference:15]. Granada sit on 45 points and are virtually safe, but arrive in dreadful form having lost four of their last five matches[reference:16]. Zaragoza's desperation and home advantage should prove decisive against a Granada side with little to play for."
+  },
+  {
+    "id": "m513",
+    "league": "Spanish La Liga",
+    "homeTeam": "Girona",
+    "awayTeam": "Mallorca",
+    "date": "2026-05-01",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LLWLW",
+    "awayForm": "WLLDW",
+    "avgGoals": 2.6,
+    "usersPickedPercent": 64,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.78",
+      "confidence": 69,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 28, "odds": "8.20", "isCorrect": false },
+      { "score": "1-1", "probability": 25, "odds": "6.60", "isCorrect": false }
+    ],
+    "analysis": "Girona sit 15th with 38 points and have lost two consecutive matches[reference:17]. Mallorca are the worst away team in La Liga and have never even picked up a point at Montilivi in the top flight[reference:18]. Girona have also won the last three head-to-head meetings including a 2-1 victory in January. Home advantage should extend that streak."
+  },
+  {
+    "id": "m514",
+    "league": "Bolivian Professional League",
+    "homeTeam": "S. A. Bulo Bulo",
+    "awayTeam": "Independiente P.",
+    "date": "2026-05-01",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWDLW",
+    "awayForm": "LWDLL",
+    "avgGoals": 2.3,
+    "usersPickedPercent": 59,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.45",
+      "confidence": 76,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 36, "odds": "5.40", "isCorrect": false },
+      { "score": "2-0", "probability": 29, "odds": "6.80", "isCorrect": false }
+    ],
+    "analysis": "San Antonio Bulo Bulo enjoy the significant advantage of playing at altitude in Bolivia, where visiting sides traditionally struggle. Independiente Petrolero have been inconsistent on the road and face a daunting trip to one of the toughest venues in Bolivian football. The hosts should secure a narrow victory in challenging conditions."
   }
  ]
-} 
+}
+
  
   
