@@ -6005,9 +6005,590 @@
       { "score": "2-0", "probability": 29, "odds": "6.80", "isCorrect": false }
     ],
     "analysis": "San Antonio Bulo Bulo enjoy the significant advantage of playing at altitude in Bolivia, where visiting sides traditionally struggle. Independiente Petrolero have been inconsistent on the road and face a daunting trip to one of the toughest venues in Bolivian football. The hosts should secure a narrow victory in challenging conditions."
+  },
+  {
+    "id": "m515",
+    "league": "French Ligue 1",
+    "homeTeam": "Nantes",
+    "awayTeam": "Marseille",
+    "date": "2026-05-02",
+    "time": "16:00",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "LDDDL",
+    "awayForm": "WDLDW",
+    "avgGoals": 2.1,
+    "usersPickedPercent": 71,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.53",
+      "confidence": 75,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-1", "probability": 35, "odds": "6.50", "isCorrect": false },
+      { "score": "0-2", "probability": 28, "odds": "7.80", "isCorrect": false }
+    ],
+    "analysis": "Nantes sit 17th with 20 points, winless in 8 Ligue 1 matches under Vahid Halilhodzic, losing 2-1 to Rennes last time out. Marseille are 6th with 53 points, drew 1-1 with Nice, and are unbeaten in their last 6 visits to Stade de la Beaujoire, winning this fixture 2-1 last season. Nantes' relegation desperation against Marseille's European ambitions should see the visitors' superior quality prevail."
+  },
+  {
+    "id": "m516",
+    "league": "Italian Serie A",
+    "homeTeam": "Udinese",
+    "awayTeam": "Torino",
+    "date": "2026-05-02",
+    "time": "16:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LDWDL",
+    "awayForm": "WWLWW",
+    "avgGoals": 2.6,
+    "usersPickedPercent": 64,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.75",
+      "confidence": 72,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-1", "probability": 30, "odds": "6.40", "isCorrect": false },
+      { "score": "2-2", "probability": 22, "odds": "12.00", "isCorrect": false }
+    ],
+    "analysis": "Udinese sit 11th with 44 points, drew 3-3 at Lazio on Monday in a frantic finale where Arthur Atta scored twice. Torino are 13th with 41 points, drew 2-2 with Inter after Giovanni Simeone's hot streak continued. Since Roberto D'Aversa's arrival, Torino would rank 5th in Serie A with 14 goals scored — only Inter and Como have more. Both sides are in attacking form and free from pressure, promising an open, entertaining mid-table clash."
+  },
+  {
+    "id": "m517",
+    "league": "German Bundesliga",
+    "homeTeam": "Hoffenheim",
+    "awayTeam": "Stuttgart",
+    "date": "2026-05-02",
+    "time": "16:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWDLL",
+    "awayForm": "DWDWW",
+    "avgGoals": 3.1,
+    "usersPickedPercent": 73,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.19",
+      "confidence": 86,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 27, "odds": "8.50", "isCorrect": false },
+      { "score": "1-2", "probability": 25, "odds": "9.00", "isCorrect": false }
+    ],
+    "analysis": "A direct Champions League qualification battle — both Hoffenheim and Stuttgart are locked on 56 points in 5th and 4th respectively. Hoffenheim have won back-to-back games (2-1 vs Dortmund and Hamburg) after a poor stretch of 1 win in 7. Stuttgart beat Freiburg 2-1 in the DFB Pokal semi-final with a 119th-minute winner but drew 1-1 with Werder Bremen in the league. The last three meetings have all ended in draws, and with 61 and 63 goals scored respectively, this high-stakes encounter promises goals."
+  },
+  {
+    "id": "m518",
+    "league": "German Bundesliga",
+    "homeTeam": "Bayern Munich",
+    "awayTeam": "Heidenheim",
+    "date": "2026-05-02",
+    "time": "16:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWWWW",
+    "awayForm": "WLLWW",
+    "avgGoals": 3.8,
+    "usersPickedPercent": 91,
+    "prediction": {
+      "mainPick": "Home Win & Over 2.5",
+      "odds": "1.34",
+      "confidence": 94,
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "3-0", "probability": 40, "odds": "5.50", "isCorrect": false },
+      { "score": "4-0", "probability": 32, "odds": "7.00", "isCorrect": false }
+    ],
+    "analysis": "Bayern Munich have already wrapped up their 35th Bundesliga title with 82 points and 113 goals scored — a European record. Vincent Kompany's side lost 5-4 at PSG in the Champions League semi-final first leg but remain utterly dominant domestically, winning their home games by an average of 4-1. Heidenheim are 16th with 22 points and have the joint-worst defence (66 conceded). Bayern won the reverse fixture and Kompany has promised no gifts."
+  },
+  {
+    "id": "m519",
+    "league": "German Bundesliga",
+    "homeTeam": "Eintracht Frankfurt",
+    "awayTeam": "Hamburger SV",
+    "date": "2026-05-02",
+    "time": "16:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "DLDWD",
+    "awayForm": "LLLDL",
+    "avgGoals": 2.2,
+    "usersPickedPercent": 65,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.50",
+      "confidence": 76,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 34, "odds": "6.20", "isCorrect": false },
+      { "score": "2-0", "probability": 28, "odds": "7.50", "isCorrect": false }
+    ],
+    "analysis": "Eintracht Frankfurt sit 7th with 43 points and are in the driving seat for the Europa Conference League spot, drawing 1-1 at Augsburg last time out. Hamburg are 15th with 31 points, 5 above the relegation playoff spot, but have lost 3 consecutive matches for the first time this season and won just once in their last 10. Frankfurt are unbeaten in this fixture since 2011 — a run of 13 games — and should extend that streak at Deutsche Bank Park."
+  },
+  {
+    "id": "m520",
+    "league": "German Bundesliga",
+    "homeTeam": "Union Berlin",
+    "awayTeam": "FC Köln",
+    "date": "2026-05-02",
+    "time": "16:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LLLDL",
+    "awayForm": "DDWDL",
+    "avgGoals": 1.9,
+    "usersPickedPercent": 58,
+    "prediction": {
+      "mainPick": "Under 2.5 Goals",
+      "odds": "1.67",
+      "confidence": 78,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-0", "probability": 32, "odds": "7.20", "isCorrect": false },
+      { "score": "1-0", "probability": 30, "odds": "6.80", "isCorrect": false }
+    ],
+    "analysis": "Union Berlin made global headlines by appointing Marie-Louise Eta as the Bundesliga's first female head coach, but she has lost her opening two games and the club are on a 3-match losing run, shipping 13 goals in 5 matches. Köln's 5-match unbeaten run ended with a 2-1 derby defeat to Bayer Leverkusen, and they remain winless in 11 away matches since October. Union have kept a clean sheet in 5 of their last 7 home matches against Köln, making this a likely low-scoring relegation tussle."
+  },
+  {
+    "id": "m521",
+    "league": "German Bundesliga",
+    "homeTeam": "Werder Bremen",
+    "awayTeam": "Augsburg",
+    "date": "2026-05-02",
+    "time": "16:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "DWLWL",
+    "awayForm": "WDDWD",
+    "avgGoals": 2.3,
+    "usersPickedPercent": 61,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.65",
+      "confidence": 70,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 26, "odds": "8.50", "isCorrect": false },
+      { "score": "2-2", "probability": 23, "odds": "10.00", "isCorrect": false }
+    ],
+    "analysis": "Werder Bremen have made a remarkable turnaround under Daniel Thioune, picking up 4 wins from 8 games to move 6 points clear of the bottom three — a win here could mathematically secure safety. Augsburg are 9th under Manuel Baum, unbeaten in 4 matches with 5 points from their last 3 against top-7 opponents, and still hungry for a European push. Bremen have scored in each of their last 5 home games while Augsburg's recent resilience suggests both sides will find the net."
+  },
+  {
+    "id": "m522",
+    "league": "English Premier League",
+    "homeTeam": "Newcastle United",
+    "awayTeam": "Brighton",
+    "date": "2026-05-02",
+    "time": "17:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LLLLL",
+    "awayForm": "WWWWD",
+    "avgGoals": 2.9,
+    "usersPickedPercent": 68,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "2.27",
+      "confidence": 73,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 30, "odds": "8.50", "isCorrect": false },
+      { "score": "0-2", "probability": 26, "odds": "9.00", "isCorrect": false }
+    ],
+    "analysis": "Newcastle are in freefall — 5 straight defeats in all competitions, 9 losses in 12 league games since January, and just 3 points from losing positions all season. Brighton are flying — 6 wins in 8 league games since Valentine's Day, including a 3-0 demolition of Chelsea, and are unbeaten in their last 6 meetings with Newcastle (W3 D3). Danny Welbeck has 13 goals, and the Seagulls' European charge meets a Magpies side in complete disarray at St James' Park."
+  },
+  {
+    "id": "m523",
+    "league": "English Premier League",
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "Sunderland",
+    "date": "2026-05-02",
+    "time": "17:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LLLDL",
+    "awayForm": "LLWLW",
+    "avgGoals": 2.0,
+    "usersPickedPercent": 63,
+    "prediction": {
+      "mainPick": "Under 2.5 Goals",
+      "odds": "1.57",
+      "confidence": 77,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-1", "probability": 34, "odds": "6.80", "isCorrect": false },
+      { "score": "0-0", "probability": 28, "odds": "7.50", "isCorrect": false }
+    ],
+    "analysis": "Wolves are already relegated with just 17 points and 3 wins from 34 games — the worst campaign in Premier League history for any club. They have failed to score in a division-high 18 matches and in their last 3 consecutive games. Sunderland have lost their last 2, conceding 9 goals including a 5-0 drubbing by Nottingham Forest, but kept clean sheets in their previous 4 away games. Wolves are unbeaten in 7 home league games against Sunderland (W3 D4). A low-quality contest between two struggling sides."
+  },
+  {
+    "id": "m524",
+    "league": "English Premier League",
+    "homeTeam": "Brentford",
+    "awayTeam": "West Ham United",
+    "date": "2026-05-02",
+    "time": "17:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "DDDDL",
+    "awayForm": "LLDWW",
+    "avgGoals": 2.7,
+    "usersPickedPercent": 66,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.41",
+      "confidence": 79,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 28, "odds": "8.00", "isCorrect": false },
+      { "score": "3-2", "probability": 20, "odds": "15.00", "isCorrect": false }
+    ],
+    "analysis": "Brentford ended a run of 5 consecutive draws with a 2-1 defeat at Manchester United, leaving them 9th with 48 points — just 2 points off 6th place. Igor Thiago's 21 goals account for 43% of their total, the highest proportion in the division. West Ham are 17th with 36 points, won 2-1 against Everton through Callum Wilson's injury-time winner, and have taken 22 points from their last 13 games. The reverse fixture in March produced a 2-2 draw, and with both sides needing points, another high-scoring London derby is expected."
+  },
+  {
+    "id": "m525",
+    "league": "Spanish La Liga",
+    "homeTeam": "Valencia",
+    "awayTeam": "Atletico Madrid",
+    "date": "2026-05-02",
+    "time": "17:15",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WDLWD",
+    "awayForm": "LLLLW",
+    "avgGoals": 2.4,
+    "usersPickedPercent": 60,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.54",
+      "confidence": 67,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 33, "odds": "6.50", "isCorrect": false },
+      { "score": "2-0", "probability": 25, "odds": "8.00", "isCorrect": false }
+    ],
+    "analysis": "Valencia sit 12th with 39 points, beat Girona 3-2 after three losses from four, and are targeting survival at Mestalla where they have 26 home points (44% win rate). Atletico Madrid are 4th with 60 points but have lost 4 of their last 5 league games before snapping the streak with a 3-2 win over Athletic Bilbao, and their focus is split ahead of the Champions League semi-final second leg against Arsenal. Valencia can exploit Atletico's divided attention and secure a vital victory."
+  },
+  {
+    "id": "m526",
+    "league": "Portuguese Primeira Liga",
+    "homeTeam": "Moreirense",
+    "awayTeam": "Estrela Amadora",
+    "date": "2026-05-02",
+    "time": "17:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LLLWD",
+    "awayForm": "LLLL",
+    "avgGoals": 2.0,
+    "usersPickedPercent": 57,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "2.22",
+      "confidence": 65,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 37, "odds": "6.00", "isCorrect": false },
+      { "score": "0-0", "probability": 29, "odds": "7.20", "isCorrect": false }
+    ],
+    "analysis": "Moreirense are 8th with 39 points, snapped a 7-match winless run with a 1-0 victory over Estoril Praia before falling 4-1 to Benfica. Estrela Amadora sit 15th with 28 points, just 2 points above the relegation playoff spot, and have lost 4 consecutive matches conceding 6 and scoring just once. Moreirense are unbeaten in their last 4 meetings with Estrela and can edge a tight, low-scoring affair."
+  },
+  {
+    "id": "m527",
+    "league": "Portuguese Primeira Liga",
+    "homeTeam": "Arouca",
+    "awayTeam": "Santa Clara",
+    "date": "2026-05-02",
+    "time": "17:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WLWLD",
+    "awayForm": "LLWDW",
+    "avgGoals": 2.5,
+    "usersPickedPercent": 59,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.87",
+      "confidence": 68,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 29, "odds": "8.50", "isCorrect": false },
+      { "score": "1-2", "probability": 24, "odds": "9.00", "isCorrect": false }
+    ],
+    "analysis": "Arouca are 11th with 35 points and have won 4 of their last 5 home matches including a 1-0 win over Estrela, but recently lost 2-1 at Alverca. Santa Clara are 13th with 32 points and fresh from an impressive 2-1 home win over Braga, but have picked up just 2 away wins in 15 attempts. Arouca have the second-worst defence in the league (60 conceded) while both sides have scored in 4 of Santa Clara's last 5 matches — making an open contest likely."
+  },
+  {
+    "id": "m528",
+    "league": "Dutch Eredivisie",
+    "homeTeam": "Ajax",
+    "awayTeam": "PSV Eindhoven",
+    "date": "2026-05-02",
+    "time": "21:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWWDL",
+    "awayForm": "LWWWW",
+    "avgGoals": 3.5,
+    "usersPickedPercent": 85,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.45",
+      "confidence": 84,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-1", "probability": 30, "odds": "7.20", "isCorrect": false },
+      { "score": "2-1", "probability": 28, "odds": "7.80", "isCorrect": false }
+    ],
+    "analysis": "De Topper — Dutch football's biggest rivalry. Ajax sit 4th with 54 points, are unbeaten in their last 5 against PSV (W2 D3), and have earned 10 points in their last 5 league games under Oscar Garcia. PSV have already secured their 27th Eredivisie title with 77 points but haven't beaten Ajax in three years since their 5-2 thrashing in October 2023. While PSV boast 13 away wins from 15 games, they have lost their last 2 road trips to relegation-threatened sides. Ajax's Champions League desperation meets champions' pride in a classic Johan Cruyff Arena showdown."
+  },
+  {
+    "id": "m529",
+    "league": "Italian Serie A",
+    "homeTeam": "Atalanta",
+    "awayTeam": "Genoa",
+    "date": "2026-05-02",
+    "time": "21:45",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WLDWL",
+    "awayForm": "LWWLD",
+    "avgGoals": 2.0,
+    "usersPickedPercent": 75,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.36",
+      "confidence": 83,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 36, "odds": "5.80", "isCorrect": false },
+      { "score": "2-0", "probability": 29, "odds": "7.00", "isCorrect": false }
+    ],
+    "analysis": "Atalanta sit 7th with 54 points, 7 behind 6th-placed Roma, and need a win to keep their faint European hopes alive after a 3-2 loss at Cagliari where Gianluca Scamacca scored twice. Genoa are 14th with 39 points, 11 clear of the drop zone but coming off a 2-0 home defeat to Como. Genoa have won just 1 of their last 18 league games against Atalanta, and with Palladino's side desperate at the Gewiss Stadium, a routine home win is expected."
+  },
+  {
+    "id": "m530",
+    "league": "Dutch Eredivisie",
+    "homeTeam": "NEC Nijmegen",
+    "awayTeam": "Telstar",
+    "date": "2026-05-02",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WDDLW",
+    "awayForm": "LWLWL",
+    "avgGoals": 3.2,
+    "usersPickedPercent": 79,
+    "prediction": {
+      "mainPick": "Home Win & Over 2.5",
+      "odds": "1.23",
+      "confidence": 85,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "3-1", "probability": 31, "odds": "8.00", "isCorrect": false },
+      { "score": "2-0", "probability": 27, "odds": "7.00", "isCorrect": false }
+    ],
+    "analysis": "NEC Nijmegen sit 3rd with 55 points, on course for a first-ever top-three finish and Champions League qualification, but have drawn both league games since their KNVB Beker final thrashing by AZ Alkmaar. They average 2.5 goals per league game at home and have scored 73 goals this season at 2.4 per game. Telstar are 16th, beat Sparta Rotterdam 4-1 last time out, but have never won at Stadion de Goffert. The reverse fixture ended 2-2, but NEC's attacking firepower should secure a comfortable victory."
+  },
+  {
+    "id": "m531",
+    "league": "Spanish La Liga",
+    "homeTeam": "Osasuna",
+    "awayTeam": "Barcelona",
+    "date": "2026-05-02",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LDWLD",
+    "awayForm": "WWWWW",
+    "avgGoals": 3.0,
+    "usersPickedPercent": 90,
+    "prediction": {
+      "mainPick": "Away Win & Under 2.5",
+      "odds": "1.48",
+      "confidence": 75,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-2", "probability": 35, "odds": "6.50", "isCorrect": false },
+      { "score": "0-1", "probability": 30, "odds": "6.80", "isCorrect": false }
+    ],
+    "analysis": "Barcelona lead La Liga with 85 points from 33 games (28 wins, 1 draw, 4 losses) and have won 9 straight league games. They travel to El Sadar where Osasuna have lost only twice this season and are on a 10-match unbeaten home run. Ante Budimir has 16 league goals for the hosts, but Raphinha returns for Barcelona, softening Lamine Yamal's absence. Barcelona won the reverse fixture 2-0 in December and a professional performance here could effectively seal the title before next week's Clasico."
+  },
+  {
+    "id": "m532",
+    "league": "French Ligue 1",
+    "homeTeam": "Nice",
+    "awayTeam": "RC Lens",
+    "date": "2026-05-02",
+    "time": "22:05",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LLLDD",
+    "awayForm": "WWWLD",
+    "avgGoals": 2.5,
+    "usersPickedPercent": 72,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.53",
+      "confidence": 74,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 31, "odds": "8.00", "isCorrect": false },
+      { "score": "1-3", "probability": 22, "odds": "12.00", "isCorrect": false }
+    ],
+    "analysis": "Nice are 15th with 28 points, winless at home in 2026 and 5 points above the relegation playoff, drawing 1-1 at Marseille last time out. Lens are 2nd with 63 points, 6 behind PSG, and drew 3-3 at Brest. Lens have scored 60 league goals — the third-highest in Ligue 1 — and won the reverse fixture 2-0 in December. Nice's defensive frailties (57 conceded, 3+ goals in 3 of last 4 home games) should be exploited by Lens' Champions League-chasing firepower."
+  },
+  {
+    "id": "m533",
+    "league": "Portuguese Primeira Liga",
+    "homeTeam": "FC Porto",
+    "awayTeam": "Alverca",
+    "date": "2026-05-02",
+    "time": "22:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWWWL",
+    "awayForm": "WWLWL",
+    "avgGoals": 3.0,
+    "usersPickedPercent": 88,
+    "prediction": {
+      "mainPick": "Home Win & Over 2.5",
+      "odds": "1.35",
+      "confidence": 90,
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-0", "probability": 36, "odds": "6.00", "isCorrect": false },
+      { "score": "3-0", "probability": 31, "odds": "7.50", "isCorrect": false }
+    ],
+    "analysis": "Victory at the Estádio do Dragão will crown Porto as Primeira Liga champions for the first time since 2021-22, ending a four-year wait. Francesco Farioli's side are unbeaten at home in the league (12 wins, 3 draws) with 63 goals scored and just 15 conceded — the best defensive record by far. Alverca are 9th with 38 points, promoted this season, and have secured survival with 3 wins in 5. Porto won the reverse fixture 3-0 in December and should seal the title in style."
+  },
+  {
+    "id": "m534",
+    "league": "Spanish Segunda Division",
+    "homeTeam": "Real Zaragoza",
+    "awayTeam": "Granada",
+    "date": "2026-05-02",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LLLDL",
+    "awayForm": "LWLLL",
+    "avgGoals": 1.7,
+    "usersPickedPercent": 62,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.98",
+      "confidence": 66,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 36, "odds": "6.00", "isCorrect": false },
+      { "score": "0-0", "probability": 28, "odds": "7.40", "isCorrect": false }
+    ],
+    "analysis": "Real Zaragoza are 21st with 35 points, in the relegation zone and winless in 5, but host Granada at La Romareda with desperate need. Granada are 14th with 45 points, virtually safe, but have conceded 13 goals in their last 5 matches and lost 4 of those — including a 4-1 thrashing at Albacete and a 2-4 home loss to Almería. Granada's complacency and Zaragoza's survival desperation at home should give the hosts a narrow edge in this Segunda Division clash."
   }
  ]
 }
+
 
  
   
