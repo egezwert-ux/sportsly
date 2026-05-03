@@ -6585,9 +6585,619 @@
       { "score": "0-0", "probability": 28, "odds": "7.40", "isCorrect": false }
     ],
     "analysis": "Real Zaragoza are 21st with 35 points, in the relegation zone and winless in 5, but host Granada at La Romareda with desperate need. Granada are 14th with 45 points, virtually safe, but have conceded 13 goals in their last 5 matches and lost 4 of those — including a 4-1 thrashing at Albacete and a 2-4 home loss to Almería. Granada's complacency and Zaragoza's survival desperation at home should give the hosts a narrow edge in this Segunda Division clash."
+  },
+  {
+    "id": "m535",
+    "league": "Brazilian Serie A",
+    "homeTeam": "Cruzeiro MG",
+    "awayTeam": "Atlético Mineiro",
+    "date": "2026-05-03",
+    "time": "03:00",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "WDWLW",
+    "awayForm": "LWDWL",
+    "avgGoals": 2.0,
+    "usersPickedPercent": 74,
+    "prediction": {
+      "mainPick": "Under 2.5 Goals",
+      "odds": "1.41",
+      "confidence": 76,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 36, "odds": "6.20", "isCorrect": false },
+      { "score": "0-0", "probability": 28, "odds": "7.50", "isCorrect": false }
+    ],
+    "analysis": "The Clássico Mineiro at the Mineirão. Cruzeiro beat Atlético 1-0 to win the Campeonato Mineiro in March and have had the edge in recent meetings. Derby matches between these two are typically tight, low-scoring affairs — four of the last five have seen under 2.5 goals. Cruzeiro's home advantage and derby intensity should produce another tense, tactical battle."
+  },
+  {
+    "id": "m536",
+    "league": "Ecuadorian Pro Liga",
+    "homeTeam": "Barcelona (Ekv)",
+    "awayTeam": "Manta",
+    "date": "2026-05-03",
+    "time": "03:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWLWD",
+    "awayForm": "LLDLL",
+    "avgGoals": 2.3,
+    "usersPickedPercent": 62,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.53",
+      "confidence": 81,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 35, "odds": "5.60", "isCorrect": false },
+      { "score": "2-0", "probability": 29, "odds": "7.00", "isCorrect": false }
+    ],
+    "analysis": "Barcelona SC are traditionally strong at the Estadio Monumental and face a Manta side struggling near the foot of the table. The visitors have lost four of their last five away matches, conceding heavily on the road. Barcelona's squad depth and home advantage should secure a routine victory."
+  },
+  {
+    "id": "m537",
+    "league": "Argentine Primera LFP, Apertura",
+    "homeTeam": "CA Platense",
+    "awayTeam": "Estudiantes",
+    "date": "2026-05-03",
+    "time": "03:15",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LDDLD",
+    "awayForm": "WDWWL",
+    "avgGoals": 1.8,
+    "usersPickedPercent": 60,
+    "prediction": {
+      "mainPick": "Under 2.5 Goals",
+      "odds": "1.18",
+      "confidence": 87,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-1", "probability": 34, "odds": "5.80", "isCorrect": false },
+      { "score": "0-0", "probability": 32, "odds": "6.50", "isCorrect": false }
+    ],
+    "analysis": "A typical Argentine Primera clash between two defensively-minded sides. Platense have drawn three of their last five while Estudiantes have been solid on the road. Matches between these two average just 1.4 goals per game, and with both sides prioritising defensive structure, another low-scoring encounter is expected at the Estadio Ciudad de Vicente López."
+  },
+  {
+    "id": "m538",
+    "league": "South Korean K-League 2",
+    "homeTeam": "Suwon City",
+    "awayTeam": "Suwon Samsung Bluewings",
+    "date": "2026-05-03",
+    "time": "13:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WDWLW",
+    "awayForm": "WWWWW",
+    "avgGoals": 3.2,
+    "usersPickedPercent": 69,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.62",
+      "confidence": 80,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 27, "odds": "8.50", "isCorrect": false },
+      { "score": "1-2", "probability": 24, "odds": "9.00", "isCorrect": false }
+    ],
+    "analysis": "The Suwon Derby returns to K-League 2. Suwon City sit 4th with 14 points while the Bluewings are flying high with 7 wins from 9 matches at the top of the table. The last five meetings between these sides have averaged 3.25 goals per game, and both teams have scored in four of their last five matches respectively, promising another entertaining derby at the Suwon Civil Stadium."
+  },
+  {
+    "id": "m539",
+    "league": "Polish Ekstraklasa",
+    "homeTeam": "Katowice",
+    "awayTeam": "Nieciecza",
+    "date": "2026-05-03",
+    "time": "13:15",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LLWDL",
+    "awayForm": "LWDLL",
+    "avgGoals": 2.1,
+    "usersPickedPercent": 57,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.47",
+      "confidence": 66,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 35, "odds": "5.80", "isCorrect": false },
+      { "score": "0-0", "probability": 28, "odds": "7.00", "isCorrect": false }
+    ],
+    "analysis": "GKS Katowice won the reverse fixture 3-0 back in October and have the historical edge at the Arena Katowice. Nieciecza sit 16th and have struggled massively on their travels, losing their last four away matches without scoring. Katowice's mid-table security and home advantage should see them claim a narrow victory in this Ekstraklasa encounter."
+  },
+  {
+    "id": "m540",
+    "league": "Dutch Eredivisie",
+    "homeTeam": "FC Volendam",
+    "awayTeam": "SC Heerenveen",
+    "date": "2026-05-03",
+    "time": "13:15",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LDWLD",
+    "awayForm": "WLWWL",
+    "avgGoals": 2.8,
+    "usersPickedPercent": 62,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.30",
+      "confidence": 78,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 29, "odds": "7.80", "isCorrect": false },
+      { "score": "2-1", "probability": 24, "odds": "9.00", "isCorrect": false }
+    ],
+    "analysis": "Heerenveen sit 7th and are eyeing a European qualification play-off spot, winning three of their last five including a 4-1 thrashing of Heracles. Volendam are 15th and fighting to avoid the relegation play-off, but are unbeaten in five of their six home league matches in 2026. Both teams have scored in four of Heerenveen's last five road trips, and this clash at the Kras Stadion should produce goals."
+  },
+  {
+    "id": "m541",
+    "league": "Italian Serie A",
+    "homeTeam": "Bologna",
+    "awayTeam": "Cagliari",
+    "date": "2026-05-03",
+    "time": "13:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LWDLD",
+    "awayForm": "WLLWD",
+    "avgGoals": 2.5,
+    "usersPickedPercent": 72,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.85",
+      "confidence": 73,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 28, "odds": "8.20", "isCorrect": false },
+      { "score": "1-1", "probability": 25, "odds": "6.60", "isCorrect": false }
+    ],
+    "analysis": "Bologna sit 9th with 48 points and are unbeaten in a dozen home games against Cagliari, prevailing in all of the last four at the Dall'Ara. Cagliari are 16th with 36 points and need a result to edge closer to survival. Both teams are among the more attacking sides in Serie A's mid-to-lower section, and the data strongly suggests over 2.5 goals."
+  },
+  {
+    "id": "m542",
+    "league": "Norwegian 2. Liga, Group 2",
+    "homeTeam": "Levanger",
+    "awayTeam": "Tromsdalen",
+    "date": "2026-05-03",
+    "time": "13:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WLLWD",
+    "awayForm": "WWWLW",
+    "avgGoals": 3.4,
+    "usersPickedPercent": 64,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.28",
+      "confidence": 84,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 27, "odds": "8.00", "isCorrect": false },
+      { "score": "2-2", "probability": 23, "odds": "11.00", "isCorrect": false }
+    ],
+    "analysis": "Tromsdalen have scored 12 goals in their last 5 matches and seen over 2.5 goals in four of those. Levanger have been solid at home but face a Tromsdalen side that has both scored and conceded in 17 of their last 19 league matches. The visitors' attacking firepower should ensure another goal-filled contest in the Norwegian 2. Liga."
+  },
+  {
+    "id": "m543",
+    "league": "German 2. Bundesliga",
+    "homeTeam": "Magdeburg",
+    "awayTeam": "Hertha Berlin",
+    "date": "2026-05-03",
+    "time": "14:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWLLD",
+    "awayForm": "LLDLW",
+    "avgGoals": 3.2,
+    "usersPickedPercent": 67,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.25",
+      "confidence": 83,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 28, "odds": "8.00", "isCorrect": false },
+      { "score": "2-2", "probability": 22, "odds": "11.00", "isCorrect": false }
+    ],
+    "analysis": "Magdeburg are in the relegation play-off spot but have won back-to-back home games and beat Hertha 2-0 in the reverse fixture. Hertha Berlin have been inconsistent with three games without a win. This fixture has a history of goal fests — including a 6-4 thriller in the 2023/24 season — and Magdeburg's desperation combined with Hertha's defensive vulnerabilities should produce another high-scoring encounter."
+  },
+  {
+    "id": "m544",
+    "league": "German 2. Bundesliga",
+    "homeTeam": "Elversberg",
+    "awayTeam": "Paderborn",
+    "date": "2026-05-03",
+    "time": "14:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WLWWD",
+    "awayForm": "WDWLL",
+    "avgGoals": 3.5,
+    "usersPickedPercent": 78,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.60",
+      "confidence": 79,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 26, "odds": "8.50", "isCorrect": false },
+      { "score": "1-2", "probability": 24, "odds": "9.00", "isCorrect": false }
+    ],
+    "analysis": "Elversberg sit 4th and boast the best attack in the 2. Bundesliga with 55 goals, while Paderborn are 2nd with 58 points and the third-best offence at 54 goals. Paderborn have the best away defence in the division, but Elversberg's free-scoring home form — including a 3-2 comeback win last time out — makes this a mouth-watering clash between two promotion-chasing sides. Both teams to score is the standout pick."
+  },
+  {
+    "id": "m545",
+    "league": "German 2. Bundesliga",
+    "homeTeam": "Hannover 96",
+    "awayTeam": "Preussen Münster",
+    "date": "2026-05-03",
+    "time": "14:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WDWDD",
+    "awayForm": "LLDLL",
+    "avgGoals": 2.6,
+    "usersPickedPercent": 73,
+    "prediction": {
+      "mainPick": "Home Win & Over 2.5",
+      "odds": "1.29",
+      "confidence": 83,
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-0", "probability": 34, "odds": "6.00", "isCorrect": false },
+      { "score": "3-0", "probability": 27, "odds": "8.00", "isCorrect": false }
+    ],
+    "analysis": "Hannover 96 sit 7th and are pushing for promotion, going unbeaten in their last five at the Heinz von Heiden Arena. Preussen Münster are bottom of the table with just 2 wins all season and have lost four of their last five. The gulf in class is enormous: Hannover won the reverse fixture comfortably and should cruise to another emphatic victory here."
+  },
+  {
+    "id": "m546",
+    "league": "German 2. Bundesliga",
+    "homeTeam": "Karlsruhe",
+    "awayTeam": "Darmstadt 98",
+    "date": "2026-05-03",
+    "time": "14:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LWLWL",
+    "awayForm": "WWDWD",
+    "avgGoals": 3.1,
+    "usersPickedPercent": 65,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.90",
+      "confidence": 70,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 28, "odds": "8.00", "isCorrect": false },
+      { "score": "2-2", "probability": 23, "odds": "10.50", "isCorrect": false }
+    ],
+    "analysis": "Darmstadt sit 5th with 51 points and maintain slim promotion hopes, unbeaten in this fixture for nearly five years. Karlsruhe are 11th with 40 points and have the second-worst defence in the league with 59 goals conceded. Darmstadt won the reverse fixture 3-2 and Florian Kohfeldt's men should edge another high-scoring affair at the Wildparkstadion against Karlsruhe's leaky backline."
+  },
+  {
+    "id": "m547",
+    "league": "German 2. Bundesliga",
+    "homeTeam": "Greuther Fürth",
+    "awayTeam": "Nürnberg",
+    "date": "2026-05-03",
+    "time": "14:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LLWLD",
+    "awayForm": "DWLWD",
+    "avgGoals": 2.7,
+    "usersPickedPercent": 63,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.60",
+      "confidence": 74,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-1", "probability": 30, "odds": "6.50", "isCorrect": false },
+      { "score": "2-1", "probability": 26, "odds": "8.20", "isCorrect": false }
+    ],
+    "analysis": "The Franconian Derby at the Sportpark Ronhof. Greuther Fürth are hovering dangerously above the relegation zone and need points desperately, having lost 2-1 at Bochum last time out. Nürnberg are mid-table and playing with less pressure. Derby matches between these historic rivals are always fiercely contested, and with both sides finding the net in three of the last four meetings, goals at both ends are expected."
+  },
+  {
+    "id": "m548",
+    "league": "English Premier League",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Liverpool",
+    "date": "2026-05-03",
+    "time": "17:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWWLD",
+    "awayForm": "WLWWL",
+    "avgGoals": 3.0,
+    "usersPickedPercent": 91,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.57",
+      "confidence": 82,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 26, "odds": "8.50", "isCorrect": false },
+      { "score": "1-2", "probability": 24, "odds": "9.00", "isCorrect": false }
+    ],
+    "analysis": "The biggest fixture in English football. United sit 3rd with a 42.8% probability of victory according to Opta's supercomputer, while Liverpool trail three points behind in 4th. United have managed only three wins in their last 19 league meetings with Liverpool (D9 L7), but are at Old Trafford where they've been strong. Both sides possess devastating attacking talent and over 2.5 goals has landed in four of the last five meetings between these rivals."
+  },
+  {
+    "id": "m549",
+    "league": "Swedish Allsvenskan",
+    "homeTeam": "IF Elfsborg",
+    "awayTeam": "AIK Solna",
+    "date": "2026-05-03",
+    "time": "17:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWDLW",
+    "awayForm": "LWDWL",
+    "avgGoals": 3.0,
+    "usersPickedPercent": 70,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.75",
+      "confidence": 75,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 28, "odds": "8.00", "isCorrect": false },
+      { "score": "1-1", "probability": 24, "odds": "6.80", "isCorrect": false }
+    ],
+    "analysis": "Elfsborg sit 3rd in the Allsvenskan with 10 points and are unbeaten at Borås Arena this season. AIK are 8th with 7 points and have yet to win away from home in 2026, losing narrowly 1-0 at Malmö FF last time out. Over 2.5 goals has landed in the last six Elfsborg home games against AIK and in the last six AIK away games — two streaks that collide here promisingly."
+  },
+  {
+    "id": "m550",
+    "league": "Swedish Allsvenskan",
+    "homeTeam": "Gais",
+    "awayTeam": "Örgryte",
+    "date": "2026-05-03",
+    "time": "17:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LLLDD",
+    "awayForm": "DLWLD",
+    "avgGoals": 2.2,
+    "usersPickedPercent": 55,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.32",
+      "confidence": 65,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 32, "odds": "6.00", "isCorrect": false },
+      { "score": "0-0", "probability": 28, "odds": "7.50", "isCorrect": false }
+    ],
+    "analysis": "The Gothenburg derby at Gamla Ullevi. Gais sit 15th with just 2 points and are winless this season, but historically dominate this fixture — winning the most recent meeting 3-0 with 17 shots and 59% possession. Örgryte are 12th with 5 points and have been inconsistent on the road. Derby pride and home advantage could spark Gais's first victory of the campaign in what is likely to be a tense, low-scoring affair."
+  },
+  {
+    "id": "m551",
+    "league": "Swiss Super League, Championship Round",
+    "homeTeam": "Lugano",
+    "awayTeam": "Young Boys",
+    "date": "2026-05-03",
+    "time": "17:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWDLW",
+    "awayForm": "LWDWL",
+    "avgGoals": 2.0,
+    "usersPickedPercent": 66,
+    "prediction": {
+      "mainPick": "Under 2.5 Goals",
+      "odds": "2.19",
+      "confidence": 70,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 33, "odds": "7.00", "isCorrect": false },
+      { "score": "0-0", "probability": 27, "odds": "8.50", "isCorrect": false }
+    ],
+    "analysis": "Lugano sit 3rd in the Championship Round with 57 points and are known for their solid defence and low-scoring matches at the Cornaredo. Young Boys are 6th with 48 points and have been inconsistent. Lugano have won 50% of their last 10 home matches against Young Boys, and with both sides typically cautious in this stage of the season, under 2.5 goals is the value play."
+  },
+  {
+    "id": "m552",
+    "league": "German Bundesliga",
+    "homeTeam": "Borussia Mönchengladbach",
+    "awayTeam": "Borussia Dortmund",
+    "date": "2026-05-03",
+    "time": "18:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LWLDL",
+    "awayForm": "WLWWW",
+    "avgGoals": 2.9,
+    "usersPickedPercent": 79,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.68",
+      "confidence": 77,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 29, "odds": "7.80", "isCorrect": false },
+      { "score": "1-3", "probability": 23, "odds": "10.00", "isCorrect": false }
+    ],
+    "analysis": "Gladbach host Dortmund at Borussia-Park needing points to rule out any last-minute relegation fears. Dortmund have been in strong away form and possess superior quality across the pitch. Gladbach will play aggressively to counter the class difference, but Dortmund's pressing game and attacking firepower should prove decisive in what promises to be an entertaining Bundesliga clash."
+  },
+  {
+    "id": "m553",
+    "league": "Spanish La Liga",
+    "homeTeam": "Real Betis",
+    "awayTeam": "Real Oviedo",
+    "date": "2026-05-03",
+    "time": "19:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "DWDLW",
+    "awayForm": "LLDLW",
+    "avgGoals": 2.5,
+    "usersPickedPercent": 77,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.36",
+      "confidence": 80,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 28, "odds": "7.50", "isCorrect": false },
+      { "score": "2-0", "probability": 26, "odds": "6.80", "isCorrect": false }
+    ],
+    "analysis": "Real Betis sit 5th with 50 points and drew 1-1 at Real Madrid last time out, underlining their top-six credentials. Real Oviedo are bottom of La Liga with 28 points and have won just once in their last five. Betis have won 23 of 31 home meetings against Oviedo historically, and with the visitors' Uruguayan striker carrying nine goals as their only real threat, the home side's quality in the final third should secure all three points at the Benito Villamarín."
+  },
+  {
+    "id": "m554",
+    "league": "Belgian Pro League, Championship Round",
+    "homeTeam": "Anderlecht",
+    "awayTeam": "Club Brugge",
+    "date": "2026-05-03",
+    "time": "19:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LDWLL",
+    "awayForm": "WWWDW",
+    "avgGoals": 2.6,
+    "usersPickedPercent": 75,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.48",
+      "confidence": 78,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 30, "odds": "7.80", "isCorrect": false },
+      { "score": "0-2", "probability": 26, "odds": "8.50", "isCorrect": false }
+    ],
+    "analysis": "Anderlecht sit 4th in the Championship Round and are 16 points behind 2nd-placed Club Brugge, who won the regular season meeting 1-0 at Lotto Park but lost the reverse fixture. Anderlecht's form has been wildly inconsistent with just 6 points from their play-off campaign so far, while Club Brugge arrive in far superior shape, having beaten Gent 2-0. Brugge's momentum and quality should see them through in this classic Belgian clash."
+  },
+  {
+    "id": "m555",
+    "league": "Czech 1. Liga, Championship Round",
+    "homeTeam": "Sparta Prague",
+    "awayTeam": "Jablonec",
+    "date": "2026-05-03",
+    "time": "19:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWDLW",
+    "awayForm": "WDWLL",
+    "avgGoals": 2.8,
+    "usersPickedPercent": 71,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.48",
+      "confidence": 75,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 27, "odds": "7.80", "isCorrect": false },
+      { "score": "3-1", "probability": 22, "odds": "10.00", "isCorrect": false }
+    ],
+    "analysis": "Sparta Prague sit 2nd with 63 points, 8 behind Slavia Prague, and boast an impressive home scoring record with 60 goals in 30 matches. Jablonec are 4th and have been in decent form but struggle against the top sides away from home. Sparta's most frequent home scorelines are 2-0, 2-1, 3-1, and 5-2 — all of which support the over 2.5 goals market at the epet ARENA."
   }
  ]
-}
+} 
+
 
 
  
