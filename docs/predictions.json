@@ -7194,9 +7194,589 @@
       { "score": "3-1", "probability": 22, "odds": "10.00", "isCorrect": false }
     ],
     "analysis": "Sparta Prague sit 2nd with 63 points, 8 behind Slavia Prague, and boast an impressive home scoring record with 60 goals in 30 matches. Jablonec are 4th and have been in decent form but struggle against the top sides away from home. Sparta's most frequent home scorelines are 2-0, 2-1, 3-1, and 5-2 — all of which support the over 2.5 goals market at the epet ARENA."
+  },
+  {
+    "id": "m556",
+    "league": "Argentine Primera LFP, Apertura",
+    "homeTeam": "River Plate",
+    "awayTeam": "Atlético Tucumán",
+    "date": "2026-05-04",
+    "time": "00:30",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "LWDWW",
+    "awayForm": "LLDLL",
+    "avgGoals": 2.2,
+    "usersPickedPercent": 54,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.35",
+      "confidence": 82,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 36, "odds": "6.00", "isCorrect": false },
+      { "score": "2-0", "probability": 29, "odds": "7.20", "isCorrect": false }
+    ],
+    "analysis": "River Plate top Zone B with 11 wins and just 2 defeats in the Apertura, boasting a formidable defensive record of 17 goals conceded in 17 matches. Atlético Tucumán sit 14th with only 2 wins all campaign and have lost four of their last five. Marcelo Gallardo's men should cruise to a routine victory at the Monumental."
+  },
+  {
+    "id": "m557",
+    "league": "Brazilian Serie A",
+    "homeTeam": "Internacional",
+    "awayTeam": "Fluminense",
+    "date": "2026-05-04",
+    "time": "00:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WLLDD",
+    "awayForm": "LWDWW",
+    "avgGoals": 2.8,
+    "usersPickedPercent": 63,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.80",
+      "confidence": 76,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 28, "odds": "8.50", "isCorrect": false },
+      { "score": "2-1", "probability": 25, "odds": "9.00", "isCorrect": false }
+    ],
+    "analysis": "Internacional sit 16th with just two wins from nine Brasileirão matches and are winless in four, while Fluminense are 3rd with 63% win rate across all competitions this season. Despite the table disparity, Inter have drawn three of their last four and scored in six of their last seven at home. Four of the last five meetings between these two have seen both teams score, continuing that pattern."
+  },
+  {
+    "id": "m558",
+    "league": "Brazilian Serie A",
+    "homeTeam": "Chapecoense",
+    "awayTeam": "RB Bragantino",
+    "date": "2026-05-04",
+    "time": "00:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LLWLD",
+    "awayForm": "WLWWL",
+    "avgGoals": 2.4,
+    "usersPickedPercent": 68,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.68",
+      "confidence": 72,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-1", "probability": 28, "odds": "7.50", "isCorrect": false },
+      { "score": "1-2", "probability": 27, "odds": "8.80", "isCorrect": false }
+    ],
+    "analysis": "Chapecoense are rooted to the bottom of the Brasileirão with just 8 points from 12 games, while Bragantino sit 9th with 17 points and are eyeing a top-half finish. Bragantino have won three of their last five league outings and possess a far superior squad depth. Chape's leaky defence — averaging 2 goals conceded per home game — should be punished by the visitors' pace on the counter."
+  },
+  {
+    "id": "m559",
+    "league": "Major League Soccer",
+    "homeTeam": "Austin FC",
+    "awayTeam": "St. Louis City SC",
+    "date": "2026-05-04",
+    "time": "00:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LDLDW",
+    "awayForm": "LLWLD",
+    "avgGoals": 2.6,
+    "usersPickedPercent": 56,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.49",
+      "confidence": 70,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-2", "probability": 26, "odds": "11.00", "isCorrect": false },
+      { "score": "2-1", "probability": 24, "odds": "8.50", "isCorrect": false }
+    ],
+    "analysis": "Austin FC are winless in four of their five home games this season, conceding 14 goals and tied for fifth-most in the Western Conference. St. Louis City are 0-5-1 against Western Conference opponents and have struggled defensively on the road. Both sides are desperate to climb out of their respective funks and will throw caution to the wind at Q2 Stadium, where goals have been a regular feature."
+  },
+  {
+    "id": "m560",
+    "league": "English Premier League",
+    "homeTeam": "Chelsea",
+    "awayTeam": "Nottingham Forest",
+    "date": "2026-05-04",
+    "time": "17:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LLLWL",
+    "awayForm": "DWWWD",
+    "avgGoals": 2.9,
+    "usersPickedPercent": 85,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.67",
+      "confidence": 81,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 27, "odds": "10.00", "isCorrect": false },
+      { "score": "2-2", "probability": 24, "odds": "12.00", "isCorrect": false }
+    ],
+    "analysis": "Chelsea sacked Liam Rosenior after six consecutive league defeats without scoring — the worst run in the club's Premier League history. Nottingham Forest are unbeaten in nine league matches, surging away from relegation trouble with 10 points from their last four games. Morgan Gibbs-White is the league's joint top scorer in 2026. The Blues are in complete disarray, but Stamford Bridge pride and Forest's own defensive vulnerabilities suggest both nets will ripple."
+  },
+  {
+    "id": "m561",
+    "league": "Egyptian Premier League, Relegation Round",
+    "homeTeam": "Farco",
+    "awayTeam": "Al Mokawloon",
+    "date": "2026-05-04",
+    "time": "17:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LDLDD",
+    "awayForm": "DWLLW",
+    "avgGoals": 1.3,
+    "usersPickedPercent": 72,
+    "prediction": {
+      "mainPick": "Under 2.5 Goals",
+      "odds": "1.21",
+      "confidence": 88,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-0", "probability": 37, "odds": "5.80", "isCorrect": false },
+      { "score": "1-0", "probability": 32, "odds": "6.50", "isCorrect": false }
+    ],
+    "analysis": "Pharco are bottom of the relegation group with just 3 wins all season, averaging a miserable 0.74 goals per game across 27 matches. Al Mokawloon have been marginally better defensively. With both sides among the weakest attacks in the Egyptian Premier League and so much at stake in a survival battle, a tense, goalless stalemate is the most probable outcome."
+  },
+  {
+    "id": "m562",
+    "league": "Indian Super League",
+    "homeTeam": "Odisha FC",
+    "awayTeam": "Bengaluru FC",
+    "date": "2026-05-04",
+    "time": "17:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LLLDL",
+    "awayForm": "WDLDW",
+    "avgGoals": 1.9,
+    "usersPickedPercent": 50,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.59",
+      "confidence": 67,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-1", "probability": 35, "odds": "5.60", "isCorrect": false },
+      { "score": "0-2", "probability": 27, "odds": "8.00", "isCorrect": false }
+    ],
+    "analysis": "Odisha sit 13th with just one win from nine ISL matches and have lost four of their last five. Bengaluru are 6th and chasing a playoff spot, though winless in three themselves. The Blues have been more competitive against stronger opposition, and facing a struggling Odisha side at the neutral Fatorda Stadium should be enough to snap their winless streak."
+  },
+  {
+    "id": "m563",
+    "league": "Russian National League",
+    "homeTeam": "Ural",
+    "awayTeam": "Shinnik Yaroslavl",
+    "date": "2026-05-04",
+    "time": "17:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWWWD",
+    "awayForm": "LWDLL",
+    "avgGoals": 2.0,
+    "usersPickedPercent": 74,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.56",
+      "confidence": 79,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 38, "odds": "5.40", "isCorrect": false },
+      { "score": "2-0", "probability": 31, "odds": "6.80", "isCorrect": false }
+    ],
+    "analysis": "Ural sit 2nd in the FNL with 45 points from 25 matches and have been formidable at the Ekaterinburg Arena, winning their last four home league games consecutively. Shinnik are winless in their last three away trips and have struggled against top-half opposition. Ural should edge a tight, professional victory to maintain their promotion push."
+  },
+  {
+    "id": "m564",
+    "league": "Italian Serie A",
+    "homeTeam": "Cremonese",
+    "awayTeam": "Lazio",
+    "date": "2026-05-04",
+    "time": "19:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WLLLL",
+    "awayForm": "WDWLL",
+    "avgGoals": 1.8,
+    "usersPickedPercent": 61,
+    "prediction": {
+      "mainPick": "Under 2.5 Goals",
+      "odds": "1.50",
+      "confidence": 77,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-1", "probability": 34, "odds": "6.80", "isCorrect": false },
+      { "score": "0-0", "probability": 30, "odds": "8.20", "isCorrect": false }
+    ],
+    "analysis": "Cremonese are 18th with 28 points and yet to win any home Serie A match in 2026, drawing three and losing seven. Lazio sit 8th with 48 points and have collected 14 points since matchday 28. Both sides share the ignominious record of failing to score in 10 away matches each — Cremonese have mustered just four home goals in 2026. A low-scoring Lazio victory is the safest projection."
+  },
+  {
+    "id": "m565",
+    "league": "Austrian Bundesliga, Relegation Group",
+    "homeTeam": "Altach",
+    "awayTeam": "Wolfsberger AC",
+    "date": "2026-05-04",
+    "time": "19:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LWLWD",
+    "awayForm": "DDLLL",
+    "avgGoals": 2.3,
+    "usersPickedPercent": 56,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "2.09",
+      "confidence": 68,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 35, "odds": "6.20", "isCorrect": false },
+      { "score": "2-0", "probability": 27, "odds": "8.00", "isCorrect": false }
+    ],
+    "analysis": "A relegation six-pointer at the Cashpoint Arena. Altach will secure their Bundesliga survival with a home victory, while Wolfsberger are without a win in nine competitive matches and have slumped to the penultimate position. Altach have been far more competitive at home, and with survival within touching distance, they should edge a tense, nervy encounter."
+  },
+  {
+    "id": "m566",
+    "league": "Scottish Premiership, Championship Round",
+    "homeTeam": "Hearts",
+    "awayTeam": "Rangers",
+    "date": "2026-05-04",
+    "time": "19:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWWDD",
+    "awayForm": "DWWDW",
+    "avgGoals": 2.6,
+    "usersPickedPercent": 81,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.52",
+      "confidence": 74,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 26, "odds": "9.00", "isCorrect": false },
+      { "score": "1-2", "probability": 25, "odds": "10.00", "isCorrect": false }
+    ],
+    "analysis": "Hearts lead the Championship group with 73 points and are unbeaten at Tynecastle all season — 13 wins, 4 draws, 10 clean sheets, 32 goals scored. Rangers sit 3rd with 69 points in what Nico Raskin has labelled a 'do-or-die' game for their title hopes. Hearts won the most recent meeting 2-1 in December, and with the title race hanging in the balance, this blockbuster at a sold-out Tynecastle promises passion, intensity, and goals."
+  },
+  {
+    "id": "m567",
+    "league": "Spanish Segunda Division",
+    "homeTeam": "Almeria",
+    "awayTeam": "Mirandes",
+    "date": "2026-05-04",
+    "time": "21:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWLDW",
+    "awayForm": "LWLWD",
+    "avgGoals": 2.4,
+    "usersPickedPercent": 80,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.30",
+      "confidence": 74,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 27, "odds": "7.60", "isCorrect": false },
+      { "score": "3-1", "probability": 23, "odds": "10.00", "isCorrect": false }
+    ],
+    "analysis": "Almeria sit 3rd with 61 points, pushing for automatic promotion after a remarkable season turnaround. Mirandes are 22nd and fighting relegation with just 5 wins from 25 games, but have shown recent fight with a 1-1 draw against Albacete and a 2-1 win at Zaragoza. Almeria have won 50% of their last 10 home matches against Mirandes and the visitors have conceded 17 goals in their last 5 away trips, pointing to an open contest."
+  },
+  {
+    "id": "m568",
+    "league": "Austrian Bundesliga, Championship Group",
+    "homeTeam": "LASK Linz",
+    "awayTeam": "Rapid Wien",
+    "date": "2026-05-04",
+    "time": "21:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWWLW",
+    "awayForm": "LWWLW",
+    "avgGoals": 2.7,
+    "usersPickedPercent": 65,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.73",
+      "confidence": 69,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 29, "odds": "8.50", "isCorrect": false },
+      { "score": "3-1", "probability": 23, "odds": "12.00", "isCorrect": false }
+    ],
+    "analysis": "LASK are unbeaten in their last nine home Bundesliga matches against Rapid Wien, winning six and drawing three — the longest such streak in the fixture's history. They've won their last four home league games by scoring at least two goals each time. Rapid remain dangerous on the counter, but LASK's Raiffeisen Arena fortress should hold firm in this championship group clash."
+  },
+  {
+    "id": "m569",
+    "league": "Italian Serie A",
+    "homeTeam": "AS Roma",
+    "awayTeam": "Fiorentina",
+    "date": "2026-05-04",
+    "time": "21:45",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWLDW",
+    "awayForm": "LDDWD",
+    "avgGoals": 2.5,
+    "usersPickedPercent": 78,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.64",
+      "confidence": 73,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 28, "odds": "8.20", "isCorrect": false },
+      { "score": "1-1", "probability": 24, "odds": "6.60", "isCorrect": false }
+    ],
+    "analysis": "Roma sit 6th with 61 points and are chasing a crucial European spot, having scored in their last 11 consecutive Serie A matches. Fiorentina are 15th with 37 points — effectively safe but not mathematically so — and have shown considerable resilience on the road recently. Over 2.5 goals has landed in 6 of Roma's last 8 home matches, and the Giallorossi's attacking urgency should create an open encounter at the Stadio Olimpico."
+  },
+  {
+    "id": "m570",
+    "league": "English Premier League",
+    "homeTeam": "Everton",
+    "awayTeam": "Manchester City",
+    "date": "2026-05-04",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LLWDL",
+    "awayForm": "DWWWD",
+    "avgGoals": 2.2,
+    "usersPickedPercent": 83,
+    "prediction": {
+      "mainPick": "Away Win & Under 2.5",
+      "odds": "1.99",
+      "confidence": 76,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-2", "probability": 37, "odds": "6.50", "isCorrect": false },
+      { "score": "0-1", "probability": 33, "odds": "7.20", "isCorrect": false }
+    ],
+    "analysis": "Manchester City are unbeaten in 21 league matches and travel across the M62 for what could be a title-defining fixture. Pep Guardiola has won 14 of 18 meetings with David Moyes. Everton have won 48 of 100 home matches against City historically — more than any other venue — but the champions' relentless rhythm and Everton's cautious approach under Moyes point to a controlled City victory with few goals."
+  },
+  {
+    "id": "m571",
+    "league": "Spanish La Liga",
+    "homeTeam": "Sevilla",
+    "awayTeam": "Real Sociedad",
+    "date": "2026-05-04",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LLDLW",
+    "awayForm": "WDWLL",
+    "avgGoals": 2.3,
+    "usersPickedPercent": 72,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "2.13",
+      "confidence": 66,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 28, "odds": "7.50", "isCorrect": false },
+      { "score": "2-1", "probability": 26, "odds": "9.00", "isCorrect": false }
+    ],
+    "analysis": "Sevilla are 18th with 34 points and desperately need a home win to escape the relegation zone. Real Sociedad sit 8th with 48 points and have been inconsistent on their travels, drawing 3-3 with Rayo Vallecano last time out. Sevilla have won 51 of 141 meetings between the sides and claimed victory in the reverse league fixture 2-1. Desperation at the Ramón Sánchez-Pizjuán often brings out Sevilla's best."
+  },
+  {
+    "id": "m572",
+    "league": "Portuguese Primeira Liga",
+    "homeTeam": "Sporting CP",
+    "awayTeam": "Vitória Guimarães",
+    "date": "2026-05-04",
+    "time": "22:15",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWWLW",
+    "awayForm": "DWWWL",
+    "avgGoals": 2.9,
+    "usersPickedPercent": 89,
+    "prediction": {
+      "mainPick": "Home Win & Over 2.5",
+      "odds": "1.27",
+      "confidence": 87,
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-0", "probability": 34, "odds": "6.50", "isCorrect": false },
+      { "score": "3-0", "probability": 28, "odds": "8.50", "isCorrect": false }
+    ],
+    "analysis": "Sporting sit 3rd on 73 points, scoring a league-high 77 goals. They've won 112 of 176 meetings with Vitória de Guimarães, including the last 5 encounters at the Estádio José Alvalade. Guimarães have tightened defensively, conceding just once in four matches, but Sporting's attacking firepower — with multiple threats across the front line — should prove overwhelming as they seek to secure Champions League qualification."
+  },
+  {
+    "id": "m573",
+    "league": "Argentine Primera LFP, Apertura",
+    "homeTeam": "Gimnasia La Plata",
+    "awayTeam": "Defensa y Justicia",
+    "date": "2026-05-04",
+    "time": "23:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LLDLL",
+    "awayForm": "WDWWD",
+    "avgGoals": 1.5,
+    "usersPickedPercent": 41,
+    "prediction": {
+      "mainPick": "Under 2.5 Goals",
+      "odds": "1.21",
+      "confidence": 86,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-0", "probability": 36, "odds": "6.00", "isCorrect": false },
+      { "score": "0-1", "probability": 32, "odds": "6.80", "isCorrect": false }
+    ],
+    "analysis": "A genuine basement battle. Gimnasia have lost four of their last five and were thrashed 5-1 by Independiente Rivadavia last time out. Defensa y Justicia sit 7th with 19 points and have lost just once in five, but are draw specialists with 7 stalemates from 15 games. Both sides rank among the lowest scorers in the Apertura, and a tense, low-scoring stalemate is overwhelmingly likely."
+  },
+  {
+    "id": "m574",
+    "league": "Russian National League",
+    "homeTeam": "Ural",
+    "awayTeam": "Shinnik Yaroslavl",
+    "date": "2026-05-04",
+    "time": "19:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WDWWL",
+    "awayForm": "LDLWL",
+    "avgGoals": 1.8,
+    "usersPickedPercent": 60,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.56",
+      "confidence": 74,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 37, "odds": "5.80", "isCorrect": false },
+      { "score": "0-0", "probability": 28, "odds": "7.20", "isCorrect": false }
+    ],
+    "analysis": "A mid-table Russian National League encounter. Ural have been steady at the Ekaterinburg Arena and hold a strong home record against lower-half opposition. Shinnik Yaroslavl have struggled for consistency on their travels. The hosts' greater motivation and home advantage should translate into a narrow victory."
+  },
+  {
+    "id": "m575",
+    "league": "Moroccan Botola Pro",
+    "homeTeam": "K. Marrakech",
+    "awayTeam": "Olympique Dcheira",
+    "date": "2026-05-04",
+    "time": "23:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WDDLW",
+    "awayForm": "LDWLL",
+    "avgGoals": 1.6,
+    "usersPickedPercent": 46,
+    "prediction": {
+      "mainPick": "Home Win & Under 2.5",
+      "odds": "1.57",
+      "confidence": 78,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 38, "odds": "5.60", "isCorrect": false },
+      { "score": "0-0", "probability": 30, "odds": "7.00", "isCorrect": false }
+    ],
+    "analysis": "Kawkab Marrakech have been solid at home this Botola Pro campaign and face an Olympique Dcheira side that has lost three of their last five matches, including a 3-0 drubbing at IR Tanger. Botola Pro matches are notoriously low-scoring, and with the home side's defensive discipline at the Stade de Marrakech, a narrow 1-0 home win is the most probable outcome."
   }
  ]
-} 
+}   
 
 
 
