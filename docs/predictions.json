@@ -7231,7 +7231,7 @@
     "awayTeam": "Fluminense",
     "date": "2026-05-04",
     "time": "00:30",
-    "status": "PENDING",
+    "status": "lost",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WLLDD",
@@ -7260,7 +7260,7 @@
     "awayTeam": "RB Bragantino",
     "date": "2026-05-04",
     "time": "00:30",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "LLWLD",
@@ -7278,7 +7278,7 @@
     },
     "correctScoreOptions": [
       { "score": "0-1", "probability": 28, "odds": "7.50", "isCorrect": false },
-      { "score": "1-2", "probability": 27, "odds": "8.80", "isCorrect": false }
+      { "score": "1-2", "probability": 27, "odds": "8.80", "isCorrect": true }
     ],
     "analysis": "Chapecoense are rooted to the bottom of the Brasileirão with just 8 points from 12 games, while Bragantino sit 9th with 17 points and are eyeing a top-half finish. Bragantino have won three of their last five league outings and possess a far superior squad depth. Chape's leaky defence — averaging 2 goals conceded per home game — should be punished by the visitors' pace on the counter."
   },
@@ -7289,7 +7289,7 @@
     "awayTeam": "St. Louis City SC",
     "date": "2026-05-04",
     "time": "00:30",
-    "status": "PENDING",
+    "status": "lost",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "LDLDW",
@@ -7318,7 +7318,7 @@
     "awayTeam": "Nottingham Forest",
     "date": "2026-05-04",
     "time": "17:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "LLLWL",
@@ -7347,7 +7347,7 @@
     "awayTeam": "Al Mokawloon",
     "date": "2026-05-04",
     "time": "17:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "LDLDD",
@@ -7434,7 +7434,7 @@
     "awayTeam": "Lazio",
     "date": "2026-05-04",
     "time": "19:30",
-    "status": "PENDING",
+    "status": "lost",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WLLLL",
@@ -7463,7 +7463,7 @@
     "awayTeam": "Wolfsberger AC",
     "date": "2026-05-04",
     "time": "19:30",
-    "status": "PENDING",
+    "status": "lost",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "LWLWD",
@@ -7492,7 +7492,7 @@
     "awayTeam": "Rangers",
     "date": "2026-05-04",
     "time": "19:30",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WWWDD",
@@ -7509,7 +7509,7 @@
       "corner": "Over 9.5"
     },
     "correctScoreOptions": [
-      { "score": "2-1", "probability": 26, "odds": "9.00", "isCorrect": false },
+      { "score": "2-1", "probability": 26, "odds": "9.00", "isCorrect": true },
       { "score": "1-2", "probability": 25, "odds": "10.00", "isCorrect": false }
     ],
     "analysis": "Hearts lead the Championship group with 73 points and are unbeaten at Tynecastle all season — 13 wins, 4 draws, 10 clean sheets, 32 goals scored. Rangers sit 3rd with 69 points in what Nico Raskin has labelled a 'do-or-die' game for their title hopes. Hearts won the most recent meeting 2-1 in December, and with the title race hanging in the balance, this blockbuster at a sold-out Tynecastle promises passion, intensity, and goals."
@@ -7521,7 +7521,7 @@
     "awayTeam": "Mirandes",
     "date": "2026-05-04",
     "time": "21:30",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WWLDW",
@@ -7550,7 +7550,7 @@
     "awayTeam": "Rapid Wien",
     "date": "2026-05-04",
     "time": "21:30",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WWWLW",
@@ -7579,7 +7579,7 @@
     "awayTeam": "Fiorentina",
     "date": "2026-05-04",
     "time": "21:45",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WWLDW",
@@ -7637,7 +7637,7 @@
     "awayTeam": "Real Sociedad",
     "date": "2026-05-04",
     "time": "22:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "LLDLW",
@@ -7654,7 +7654,7 @@
       "corner": "Over 9.5"
     },
     "correctScoreOptions": [
-      { "score": "1-0", "probability": 28, "odds": "7.50", "isCorrect": false },
+      { "score": "1-0", "probability": 28, "odds": "7.50", "isCorrect": true },
       { "score": "2-1", "probability": 26, "odds": "9.00", "isCorrect": false }
     ],
     "analysis": "Sevilla are 18th with 34 points and desperately need a home win to escape the relegation zone. Real Sociedad sit 8th with 48 points and have been inconsistent on their travels, drawing 3-3 with Rayo Vallecano last time out. Sevilla have won 51 of 141 meetings between the sides and claimed victory in the reverse league fixture 2-1. Desperation at the Ramón Sánchez-Pizjuán often brings out Sevilla's best."
@@ -7666,7 +7666,7 @@
     "awayTeam": "Vitória Guimarães",
     "date": "2026-05-04",
     "time": "22:15",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WWWLW",
@@ -7695,7 +7695,7 @@
     "awayTeam": "Defensa y Justicia",
     "date": "2026-05-04",
     "time": "23:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "LLDLL",
@@ -7724,7 +7724,7 @@
     "awayTeam": "Shinnik Yaroslavl",
     "date": "2026-05-04",
     "time": "19:30",
-    "status": "PENDING",
+    "status": "lost",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WDWWL",
@@ -7753,7 +7753,7 @@
     "awayTeam": "Olympique Dcheira",
     "date": "2026-05-04",
     "time": "23:00",
-    "status": "PENDING",
+    "status": "lost",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WDDLW",
@@ -7774,9 +7774,589 @@
       { "score": "0-0", "probability": 30, "odds": "7.00", "isCorrect": false }
     ],
     "analysis": "Kawkab Marrakech have been solid at home this Botola Pro campaign and face an Olympique Dcheira side that has lost three of their last five matches, including a 3-0 drubbing at IR Tanger. Botola Pro matches are notoriously low-scoring, and with the home side's defensive discipline at the Stade de Marrakech, a narrow 1-0 home win is the most probable outcome."
-  }
- ]
-}   
+  },
+  {
+    "id": "m576",
+    "league": "CONMEBOL Libertadores",
+    "homeTeam": "Rosario Central",
+    "awayTeam": "Libertad Asunción",
+    "date": "2026-05-06",
+    "time": "01:00",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "WWWLW",
+    "awayForm": "WWLWD",
+    "avgGoals": 2.0,
+    "usersPickedPercent": 76,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.15",
+      "confidence": 85,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 36, "odds": "5.80", "isCorrect": false },
+      { "score": "2-0", "probability": 29, "odds": "6.50", "isCorrect": false }
+    ],
+    "analysis": "Rosario Central sit 3rd in Zone B of the Apertura with 3rd place and arrive in excellent form, having thrashed UCV 3-0 away in their last Libertadores outing and winning four of their last five across all competitions. Libertad won 5-0 in their domestic league but face a formidable Rosario side at the Gigante de Arroyito, where the Canalla have been near-impenetrable. A professional home win with a clean sheet is the most probable outcome."
+  },
+  {
+    "id": "m577",
+    "league": "CONMEBOL Libertadores",
+    "homeTeam": "Sporting Cristal",
+    "awayTeam": "Palmeiras",
+    "date": "2026-05-06",
+    "time": "01:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "DDWWD",
+    "awayForm": "WWWWL",
+    "avgGoals": 2.2,
+    "usersPickedPercent": 82,
+    "prediction": {
+      "mainPick": "Under 2.5 Goals",
+      "odds": "1.60",
+      "confidence": 76,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-1", "probability": 35, "odds": "6.80", "isCorrect": false },
+      { "score": "0-0", "probability": 28, "odds": "8.50", "isCorrect": false }
+    ],
+    "analysis": "A top-of-the-table Group F clash at the Estadio Alejandro Villanueva. Sporting Cristal lead the group with 6 points while Palmeiras sit second with 5. Palmeiras have won 4 of their last 5 matches, conceding just 1 goal in that span — their defence has been exceptional. Cristal are unbeaten in their last 5 at home. With Palmeiras' stingy backline and Cristal's cautious approach at altitude in Lima, this decisive group-stage encounter should be a tense, low-scoring tactical battle."
+  },
+  {
+    "id": "m578",
+    "league": "CONMEBOL Sudamericana",
+    "homeTeam": "CA Juventud De Las Piedras",
+    "awayTeam": "Atlético Mineiro",
+    "date": "2026-05-06",
+    "time": "01:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WLLWD",
+    "awayForm": "LWDWL",
+    "avgGoals": 2.8,
+    "usersPickedPercent": 65,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.73",
+      "confidence": 78,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 28, "odds": "8.50", "isCorrect": false },
+      { "score": "2-2", "probability": 22, "odds": "11.00", "isCorrect": false }
+    ],
+    "analysis": "Juventud thrashed Puerto Cabello 4-0 in their last Sudamericana outing and have scored in all three group-stage matches so far. Atlético Mineiro are bottom of Group B with just 3 points but beat Juventud 2-1 in the reverse fixture in April. Despite Galo's superior squad quality, their defensive fragility has been glaring — they've conceded in three consecutive Sudamericana games. With both sides needing a win, goals at both ends are highly probable."
+  },
+  {
+    "id": "m579",
+    "league": "CONMEBOL Sudamericana",
+    "homeTeam": "Independiente Petrolero",
+    "awayTeam": "Caracas FC",
+    "date": "2026-05-06",
+    "time": "01:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LLLLD",
+    "awayForm": "DDWWD",
+    "avgGoals": 2.0,
+    "usersPickedPercent": 61,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "2.85",
+      "confidence": 67,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-1", "probability": 35, "odds": "7.00", "isCorrect": false },
+      { "score": "0-0", "probability": 30, "odds": "8.00", "isCorrect": false }
+    ],
+    "analysis": "Independiente Petrolero are bottom of Group E with 0 points from three matches, having conceded 7 goals. Caracas sit 3rd with 4 points and are unbeaten in their last four Sudamericana matches. The altitude in Sucre offers the Bolivians some hope, but Caracas' experience in grinding out results on the road and Independiente's desperate lack of form make an away win the value pick at the Estadio Patria."
+  },
+  {
+    "id": "m580",
+    "league": "CONMEBOL Sudamericana",
+    "homeTeam": "Deportivo Riestra",
+    "awayTeam": "Grêmio",
+    "date": "2026-05-06",
+    "time": "01:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WDDWW",
+    "awayForm": "LDDWL",
+    "avgGoals": 1.5,
+    "usersPickedPercent": 64,
+    "prediction": {
+      "mainPick": "Under 2.5 Goals",
+      "odds": "1.13",
+      "confidence": 88,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 33, "odds": "6.50", "isCorrect": false },
+      { "score": "0-0", "probability": 32, "odds": "7.00", "isCorrect": false }
+    ],
+    "analysis": "Deportivo Riestra lead Group F with 7 points but have been labelled the worst attacking side in South America this season, averaging fewer than a goal per game across all competitions. Grêmio sit 2nd with 4 points and won the reverse fixture 1-0 in April. Riestra have built their campaign on defensive organisation at the Nuevo Gasómetro, while Grêmio's away form remains poor — no wins on the road in Brasileirão 2026. A low-scoring stalemate is overwhelmingly likely."
+  },
+  {
+    "id": "m581",
+    "league": "CONMEBOL Libertadores",
+    "homeTeam": "UCV FC",
+    "awayTeam": "Independiente del Valle",
+    "date": "2026-05-06",
+    "time": "03:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LDLLL",
+    "awayForm": "WWDLW",
+    "avgGoals": 2.5,
+    "usersPickedPercent": 79,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.40",
+      "confidence": 82,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 28, "odds": "8.00", "isCorrect": false },
+      { "score": "0-2", "probability": 26, "odds": "7.50", "isCorrect": false }
+    ],
+    "analysis": "UCV are bottom of Group H with 1 point and were thrashed 3-0 by Rosario Central in their last Libertadores outing. Independiente del Valle won the reverse fixture 3-1 and are pushing for qualification to the knockout stages. The Ecuadorian side have superior quality across the pitch and should secure a straightforward victory at the Olímpico de la UCV in Caracas, though UCV have enough attacking threat to potentially grab a consolation."
+  },
+  {
+    "id": "m582",
+    "league": "Japanese J1 League, East",
+    "homeTeam": "Kashiwa Reysol",
+    "awayTeam": "Urawa Red Diamonds",
+    "date": "2026-05-06",
+    "time": "13:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LLLLL",
+    "awayForm": "LDWWL",
+    "avgGoals": 2.6,
+    "usersPickedPercent": 55,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "2.71",
+      "confidence": 72,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 28, "odds": "9.00", "isCorrect": false },
+      { "score": "0-2", "probability": 24, "odds": "8.50", "isCorrect": false }
+    ],
+    "analysis": "Kashiwa Reysol are in freefall — five consecutive league defeats, scoring just twice and conceding 9 in that run. Urawa Reds sit 6th with a positive goal difference and have been far more consistent throughout the campaign. The reverse fixture in March ended 1-1, but Kashiwa's form has collapsed since. Urawa have the quality and momentum to pile more misery on their struggling hosts at the Sankyo Frontier Kashiwa Stadium."
+  },
+  {
+    "id": "m583",
+    "league": "Japanese J2/J3 100 Year Vision League",
+    "homeTeam": "FC Gifu",
+    "awayTeam": "Matsumoto Yamaga",
+    "date": "2026-05-06",
+    "time": "13:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LDLLW",
+    "awayForm": "WWDLW",
+    "avgGoals": 2.4,
+    "usersPickedPercent": 60,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.73",
+      "confidence": 71,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 27, "odds": "8.50", "isCorrect": false },
+      { "score": "2-1", "probability": 24, "odds": "9.00", "isCorrect": false }
+    ],
+    "analysis": "FC Gifu have been inconsistent but carry home advantage at the Nagaragawa Stadium. Matsumoto Yamaga have been in solid form with 3 wins in their last 5, including a 3-1 victory at Fukushima United. The reverse fixture ended 2-2 in March, and with both sides showing attacking intent in recent weeks, another open encounter with goals at both ends is expected."
+  },
+  {
+    "id": "m584",
+    "league": "South African Premier Soccer League",
+    "homeTeam": "Chippa United",
+    "awayTeam": "Sekhukhune United",
+    "date": "2026-05-06",
+    "time": "14:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LDLWL",
+    "awayForm": "DWWDW",
+    "avgGoals": 1.8,
+    "usersPickedPercent": 57,
+    "prediction": {
+      "mainPick": "Under 2.5 Goals",
+      "odds": "1.33",
+      "confidence": 80,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-1", "probability": 34, "odds": "6.50", "isCorrect": false },
+      { "score": "0-0", "probability": 30, "odds": "7.20", "isCorrect": false }
+    ],
+    "analysis": "Chippa United are deep in a relegation scrap with 24 points from 26 matches, just four points above bottom-placed Orbit College. Sekhukhune United sit comfortably in 5th with 39 points and have lost just once in their last five. Chippa have been poor at Buffalo City Stadium this season, and with so much at stake, a tense, low-scoring affair is expected — four of the last six meetings have seen under 2.5 goals."
+  },
+  {
+    "id": "m585",
+    "league": "Chinese Super League",
+    "homeTeam": "Wuhan Three Towns",
+    "awayTeam": "Qingdao Jonoon",
+    "date": "2026-05-06",
+    "time": "14:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LLWLD",
+    "awayForm": "WLWLL",
+    "avgGoals": 2.5,
+    "usersPickedPercent": 58,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.92",
+      "confidence": 69,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 34, "odds": "6.20", "isCorrect": false },
+      { "score": "2-0", "probability": 26, "odds": "7.50", "isCorrect": false }
+    ],
+    "analysis": "Wuhan Three Towns have won their last three home meetings against Qingdao Jonoon and are unbeaten in 5 of their last 6 against this opponent. Qingdao Jonoon have conceded 13 goals in 9 CSL matches and struggle on the road. Wuhan's home advantage at the Sports Center Stadium and historical dominance in this fixture make them worthy favourites in a match likely to be decided by fine margins."
+  },
+  {
+    "id": "m586",
+    "league": "Chinese Super League",
+    "homeTeam": "Beijing Guoan",
+    "awayTeam": "Dalian Yingbo",
+    "date": "2026-05-06",
+    "time": "14:35",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWLWD",
+    "awayForm": "WWWWD",
+    "avgGoals": 3.5,
+    "usersPickedPercent": 77,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.75",
+      "confidence": 82,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 27, "odds": "8.00", "isCorrect": false },
+      { "score": "2-2", "probability": 22, "odds": "12.00", "isCorrect": false }
+    ],
+    "analysis": "Beijing Guoan won the reverse CSL fixture 4-2 in September 2025 and hold a dominant head-to-head record. However, Dalian Yingbo arrive at Workers' Stadium in inspired form — they sit 2nd in the CSL with 5 wins and 3 draws from 8 matches under their new manager, playing expansive, fearless football. Guoan have scored in all of their last five home games while Yingbo have netted in each of their last seven matches across all competitions. A compelling contest with goals at both ends is the standout bet."
+  },
+  {
+    "id": "m587",
+    "league": "English Women's Super League",
+    "homeTeam": "Brighton & Hove Albion (W)",
+    "awayTeam": "Arsenal (W)",
+    "date": "2026-05-06",
+    "time": "21:45",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WLWWW",
+    "awayForm": "WWWWW",
+    "avgGoals": 2.8,
+    "usersPickedPercent": 85,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.70",
+      "confidence": 79,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 28, "odds": "8.50", "isCorrect": false },
+      { "score": "1-1", "probability": 26, "odds": "7.50", "isCorrect": false }
+    ],
+    "analysis": "Brighton stunned Arsenal 2-0 in the Women's FA Cup quarter-final and arrive having beaten Manchester City in their last WSL outing — they are genuine giant-killers at the Broadfield Stadium. Arsenal have won six consecutive WSL matches and are chasing down league leaders Manchester City. The Gunners' potent attack, led by Alessia Russo, meets a Brighton defence that has proven it can withstand elite opposition. Both teams finding the net is the smart play in this compelling WSL clash."
+  },
+  {
+    "id": "m588",
+    "league": "Italian Serie C, Promotion Playoff",
+    "homeTeam": "Calcio Lecco",
+    "awayTeam": "AS Giana Erminio",
+    "date": "2026-05-06",
+    "time": "21:45",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WDWLW",
+    "awayForm": "LWDLL",
+    "avgGoals": 2.1,
+    "usersPickedPercent": 58,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.73",
+      "confidence": 68,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 35, "odds": "6.00", "isCorrect": false },
+      { "score": "2-0", "probability": 27, "odds": "7.50", "isCorrect": false }
+    ],
+    "analysis": "Calcio Lecco have been solid at the Stadio Rigamonti-Ceppi in the Serie C promotion playoffs, while AS Giana Erminio have struggled on the road against top-half opposition. Lecco's home advantage and superior defensive organisation should prove decisive in a tight, tactical playoff encounter where fine margins will determine who advances."
+  },
+  {
+    "id": "m589",
+    "league": "Northern Irish Premiership, European Playoff",
+    "homeTeam": "Dungannon Swifts",
+    "awayTeam": "Carrick Rangers",
+    "date": "2026-05-06",
+    "time": "21:45",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LLWDL",
+    "awayForm": "WWLLW",
+    "avgGoals": 2.4,
+    "usersPickedPercent": 55,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.82",
+      "confidence": 70,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 29, "odds": "8.50", "isCorrect": false },
+      { "score": "1-3", "probability": 23, "odds": "12.00", "isCorrect": false }
+    ],
+    "analysis": "Carrick Rangers dismantled Dungannon Swifts 5-1 in their most recent meeting in January 2026 and hold a significant psychological edge heading into this European playoff first round at Stangmore Park. Dungannon have been inconsistent at home this campaign, while Carrick's direct, physical approach has proven difficult for the Swifts to handle. The visitors arrive as deserved favourites to progress."
+  },
+  {
+    "id": "m590",
+    "league": "UEFA Champions League",
+    "homeTeam": "Bayern Munich",
+    "awayTeam": "Paris Saint-Germain",
+    "date": "2026-05-06",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWLWW",
+    "awayForm": "WWWLW",
+    "avgGoals": 9.0,
+    "usersPickedPercent": 95,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.30",
+      "confidence": 92,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "3-2", "probability": 20, "odds": "12.00", "isCorrect": false },
+      { "score": "2-2", "probability": 18, "odds": "14.00", "isCorrect": false }
+    ],
+    "analysis": "The highest-scoring Champions League semi-final in history resumes at the Allianz Arena. PSG hold a slender 5-4 advantage from an astonishing first leg at the Parc des Princes, where the sides traded blows in a contest defined by attacking brilliance and defensive collapse. Vincent Kompany has promised to stick with his high-octane, high-risk approach, while Luis Enrique insists PSG are 'not here to defend'. Bayern must overturn a one-goal deficit; both teams are blessed with devastating firepower — Harry Kane has scored in six consecutive Champions League games, his 37th of the campaign. Expect nothing less than another classic European night with goals at both ends."
+  },
+  {
+    "id": "m591",
+    "league": "Moroccan Botola Pro",
+    "homeTeam": "MAS Maghrib A Fes",
+    "awayTeam": "Raja Casablanca",
+    "date": "2026-05-06",
+    "time": "23:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWDDD",
+    "awayForm": "WWWLW",
+    "avgGoals": 1.6,
+    "usersPickedPercent": 81,
+    "prediction": {
+      "mainPick": "Under 2.5 Goals",
+      "odds": "1.23",
+      "confidence": 84,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-0", "probability": 36, "odds": "6.50", "isCorrect": false },
+      { "score": "1-0", "probability": 32, "odds": "6.80", "isCorrect": false }
+    ],
+    "analysis": "A monumental top-of-the-table clash in the Botola Pro. MAS Fes lead the standings with 38 points after 18 rounds, while Raja Casablanca sit 3rd with 36 points, just two behind the leaders. MAS drew 0-0 at COD Meknès last time out while Raja edged Difaâ el Jadida 1-0. Moroccan football's title race rarely produces fireworks in these high-stakes encounters — defensive solidity and tactical discipline dominate. A tense, low-scoring affair where one moment of quality could decide the outcome is the safest projection."
+  },
+  {
+    "id": "m592",
+    "league": "Guatemalan National League, Clausura Playoff",
+    "homeTeam": "Deportivo Mixco",
+    "awayTeam": "Municipal",
+    "date": "2026-05-07",
+    "time": "00:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WDWLL",
+    "awayForm": "WWWLW",
+    "avgGoals": 2.2,
+    "usersPickedPercent": 63,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "2.05",
+      "confidence": 69,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 28, "odds": "8.50", "isCorrect": false },
+      { "score": "0-2", "probability": 24, "odds": "9.00", "isCorrect": false }
+    ],
+    "analysis": "Municipal have been the most consistent side in the Clausura and arrive at the Estadio Santo Domingo with strong momentum, winning 3 of their last 5. Deportivo Mixco have been inconsistent at home and face an uphill battle against one of Guatemala's most decorated clubs. The visitors' superior squad depth and playoff experience should prove decisive, though Mixco's passionate home support will ensure a competitive contest."
+  },
+  {
+    "id": "m593",
+    "league": "Japanese J1 League, East",
+    "homeTeam": "Kawasaki Frontale",
+    "awayTeam": "Kashima Antlers",
+    "date": "2026-05-06",
+    "time": "11:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWDLW",
+    "awayForm": "DWWWL",
+    "avgGoals": 2.8,
+    "usersPickedPercent": 73,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.69",
+      "confidence": 74,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 27, "odds": "8.00", "isCorrect": false },
+      { "score": "1-1", "probability": 25, "odds": "7.20", "isCorrect": false }
+    ],
+    "analysis": "A classic J1 League East encounter between two traditional heavyweights. Kawasaki Frontale have been in strong attacking form at the Todoroki Stadium, while Kashima Antlers possess the division's most potent counter-attack. The reverse fixture earlier this season produced three goals, and both sides have scored in four of their last five respective matches. This should be an entertaining contest befitting two of Japanese football's most storied clubs."
+  },
+  {
+    "id": "m594",
+    "league": "Egyptian Premier League, Relegation Round",
+    "homeTeam": "Ghazl El Mahallah",
+    "awayTeam": "Farco",
+    "date": "2026-05-06",
+    "time": "17:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LDDLW",
+    "awayForm": "LDLDD",
+    "avgGoals": 1.1,
+    "usersPickedPercent": 71,
+    "prediction": {
+      "mainPick": "Under 1.5 Goals",
+      "odds": "1.55",
+      "confidence": 85,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-0", "probability": 40, "odds": "5.50", "isCorrect": false },
+      { "score": "1-0", "probability": 33, "odds": "6.00", "isCorrect": false }
+    ],
+    "analysis": "Two of the Egyptian Premier League's most goal-shy sides meet in a genuine relegation six-pointer. Both teams average fewer than a goal per game and will approach this with extreme caution — a defeat could prove fatal to survival hopes. Pharco are bottom of the relegation group with just 3 wins all season, while Ghazl El Mahallah sit one place above. A tense, goalless stalemate is overwhelmingly the most probable outcome."
+  },
+  {
+    "id": "m595",
+    "league": "Swiss Super League, Championship Round",
+    "homeTeam": "FC Basel",
+    "awayTeam": "FC Zürich",
+    "date": "2026-05-06",
+    "time": "20:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWLWD",
+    "awayForm": "DLWWL",
+    "avgGoals": 2.8,
+    "usersPickedPercent": 69,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.55",
+      "confidence": 76,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 28, "odds": "8.00", "isCorrect": false },
+      { "score": "1-2", "probability": 24, "odds": "9.50", "isCorrect": false }
+    ],
+    "analysis": "Basel host Zürich at St. Jakob-Park in a fixture that has historically delivered goals — the last five meetings have averaged 3.2 goals per game. Basel are pushing for the title in the Championship Round while Zürich are fighting for European qualification. Both teams are at their best going forward, and with so much at stake in the closing stages of the Swiss Super League season, an open, entertaining contest is expected."
+   }
+  ]  
+ }  
 
 
 
