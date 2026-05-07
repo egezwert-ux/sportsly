@@ -7956,7 +7956,7 @@
     "awayTeam": "Urawa Red Diamonds",
     "date": "2026-05-06",
     "time": "13:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "LLLLL",
@@ -8043,7 +8043,7 @@
     "awayTeam": "Qingdao Jonoon",
     "date": "2026-05-06",
     "time": "14:00",
-    "status": "PENDING",
+    "status": "lost",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "LLWLD",
@@ -8072,7 +8072,7 @@
     "awayTeam": "Dalian Yingbo",
     "date": "2026-05-06",
     "time": "14:35",
-    "status": "PENDING",
+    "status": "lost",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WWLWD",
@@ -8101,7 +8101,7 @@
     "awayTeam": "Arsenal (W)",
     "date": "2026-05-06",
     "time": "21:45",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WLWWW",
@@ -8119,7 +8119,7 @@
     },
     "correctScoreOptions": [
       { "score": "1-2", "probability": 28, "odds": "8.50", "isCorrect": false },
-      { "score": "1-1", "probability": 26, "odds": "7.50", "isCorrect": false }
+      { "score": "1-1", "probability": 26, "odds": "7.50", "isCorrect": true }
     ],
     "analysis": "Brighton stunned Arsenal 2-0 in the Women's FA Cup quarter-final and arrive having beaten Manchester City in their last WSL outing — they are genuine giant-killers at the Broadfield Stadium. Arsenal have won six consecutive WSL matches and are chasing down league leaders Manchester City. The Gunners' potent attack, led by Alessia Russo, meets a Brighton defence that has proven it can withstand elite opposition. Both teams finding the net is the smart play in this compelling WSL clash."
   },
@@ -8159,7 +8159,7 @@
     "awayTeam": "Carrick Rangers",
     "date": "2026-05-06",
     "time": "21:45",
-    "status": "PENDING",
+    "status": "lost",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "LLWDL",
@@ -8188,7 +8188,7 @@
     "awayTeam": "Paris Saint-Germain",
     "date": "2026-05-06",
     "time": "22:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WWLWW",
@@ -8217,7 +8217,7 @@
     "awayTeam": "Raja Casablanca",
     "date": "2026-05-06",
     "time": "23:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WWDDD",
@@ -8246,7 +8246,7 @@
     "awayTeam": "Municipal",
     "date": "2026-05-07",
     "time": "00:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WDWLL",
@@ -8264,7 +8264,7 @@
     },
     "correctScoreOptions": [
       { "score": "1-2", "probability": 28, "odds": "8.50", "isCorrect": false },
-      { "score": "0-2", "probability": 24, "odds": "9.00", "isCorrect": false }
+      { "score": "0-2", "probability": 24, "odds": "9.00", "isCorrect": true }
     ],
     "analysis": "Municipal have been the most consistent side in the Clausura and arrive at the Estadio Santo Domingo with strong momentum, winning 3 of their last 5. Deportivo Mixco have been inconsistent at home and face an uphill battle against one of Guatemala's most decorated clubs. The visitors' superior squad depth and playoff experience should prove decisive, though Mixco's passionate home support will ensure a competitive contest."
   },
@@ -8333,7 +8333,7 @@
     "awayTeam": "FC Zürich",
     "date": "2026-05-06",
     "time": "20:30",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WWLWD",
@@ -8362,7 +8362,7 @@
     "awayTeam": "Braga",
     "date": "2026-05-07",
     "time": "22:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "FREE",
     "is_finished": false,
     "homeForm": "WWDWL",
@@ -8391,7 +8391,7 @@
     "awayTeam": "Nottingham Forest",
     "date": "2026-05-07",
     "time": "22:00",
-    "status": "PENDING",
+    "status": "lost",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "LWWWD",
@@ -8420,7 +8420,7 @@
     "awayTeam": "Shakhtar Donetsk",
     "date": "2026-05-07",
     "time": "22:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WDLWW",
@@ -8437,7 +8437,7 @@
       "corner": "Over 9.5"
     },
     "correctScoreOptions": [
-      { "score": "2-1", "probability": 27, "odds": "8.20", "isCorrect": false },
+      { "score": "2-1", "probability": 27, "odds": "8.20", "isCorrect": true },
       { "score": "1-0", "probability": 25, "odds": "7.50", "isCorrect": false }
     ],
     "analysis": "Crystal Palace won the first leg 2-0 in neutral Hamburg and are firmly in control. Shakhtar must come out and attack at Selhurst Park, which plays perfectly into Palace's counter-attacking strengths under Oliver Glasner. The Eagles' home form has been solid, and while Shakhtar’s experience could cause a few nervy moments, Palace's organisation should secure a second-leg victory, though the visitors may get on the scoresheet."
@@ -8449,7 +8449,7 @@
     "awayTeam": "Rayo Vallecano",
     "date": "2026-05-07",
     "time": "22:00",
-    "status": "PENDING",
+    "status": "lost",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WWWWD",
@@ -8478,7 +8478,7 @@
     "awayTeam": "ASO Chlef",
     "date": "2026-05-07",
     "time": "22:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WWDWL",
@@ -8507,7 +8507,7 @@
     "awayTeam": "Maroons FC",
     "date": "2026-05-07",
     "time": "20:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WWDWW",
@@ -8536,7 +8536,7 @@
     "awayTeam": "ZED FC",
     "date": "2026-05-07",
     "time": "20:00",
-    "status": "PENDING",
+    "status": "lost",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "LLDLL",
@@ -8565,7 +8565,7 @@
     "awayTeam": "Ismaily SC",
     "date": "2026-05-07",
     "time": "20:00",
-    "status": "PENDING",
+    "status": "lost",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WDWLW",
@@ -8594,7 +8594,7 @@
     "awayTeam": "A. Keçiörengücü",
     "date": "2026-05-07",
     "time": "20:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WDWWW",
@@ -8623,7 +8623,7 @@
     "awayTeam": "Pendikspor",
     "date": "2026-05-07",
     "time": "20:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WLWDW",
@@ -8641,7 +8641,7 @@
     },
     "correctScoreOptions": [
       { "score": "1-0", "probability": 35, "odds": "6.00", "isCorrect": false },
-      { "score": "2-0", "probability": 26, "odds": "8.50", "isCorrect": false }
+      { "score": "2-0", "probability": 26, "odds": "8.50", "isCorrect": true }
     ],
     "analysis": "Bodrum FK are in the playoff mix and have been defensively robust at the Bodrum İlçe Stadı, keeping three clean sheets in their last five. Pendikspor have been inconsistent on the road and struggle to break down organised defences. A narrow home win with few goals is the most probable outcome."
   },
@@ -8681,7 +8681,7 @@
     "awayTeam": "UTS Union Touarga",
     "date": "2026-05-07",
     "time": "21:00",
-    "status": "PENDING",
+    "status": "lost",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WWWDW",
@@ -8702,8 +8702,325 @@
       { "score": "2-0", "probability": 30, "odds": "6.80", "isCorrect": false }
     ],
     "analysis": "RSB Berkane are unbeaten in their last 11 home matches across all competitions and have kept seven clean sheets in that run. UTS Union Touarga have lost four of their last five away games and face a daunting trip to the Stade Municipal de Berkane, where the hosts rarely concede. A low‑scoring home victory is the most probable outcome."
+  },
+  {
+    "id": "m608",
+    "league": "CONMEBOL Libertadores",
+    "homeTeam": "CA Platense",
+    "awayTeam": "Peñarol",
+    "date": "2026-05-08",
+    "time": "01:00",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "LDDLD",
+    "awayForm": "WWWLW",
+    "avgGoals": 2.3,
+    "usersPickedPercent": 58,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "3.21",
+      "confidence": 68,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 28, "odds": "10.00", "isCorrect": false },
+      { "score": "1-1", "probability": 24, "odds": "7.50", "isCorrect": false }
+    ],
+    "analysis": "Argentine side Platense welcome Uruguayan giants Peñarol to the Estadio Ciudad de Vicente López. Platense have been inconsistent at home in the Libertadores, while Peñarol arrive with a near‑flawless recent record and superior continental experience. The visitors' attacking firepower should prove decisive, though the hosts will likely get on the scoresheet in a match that promises goals."
+  },
+  {
+    "id": "m609",
+    "league": "CONMEBOL Libertadores",
+    "homeTeam": "Mirassol SP",
+    "awayTeam": "LDU Quito",
+    "date": "2026-05-08",
+    "time": "01:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "DLLDL",
+    "awayForm": "WWWLW",
+    "avgGoals": 2.0,
+    "usersPickedPercent": 64,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "5.19",
+      "confidence": 74,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-1", "probability": 36, "odds": "7.00", "isCorrect": false },
+      { "score": "0-2", "probability": 27, "odds": "9.50", "isCorrect": false }
+    ],
+    "analysis": "Group H basement side Mirassol host high‑flying LDU Quito at the Estádio Municipal de Mirassol. The Brazilians have been hugely disappointing in their debut Libertadores campaign, while LDU Quito have been rock‑solid defensively, conceding just twice in five group games. Even at altitude, the visitors' defensive organisation and Mirassol's lack of attacking edge point towards a low‑scoring away victory."
+  },
+  {
+    "id": "m610",
+    "league": "CONMEBOL Sudamericana",
+    "homeTeam": "O'Higgins",
+    "awayTeam": "São Paulo SP",
+    "date": "2026-05-08",
+    "time": "01:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WDDLW",
+    "awayForm": "DWLWL",
+    "avgGoals": 2.1,
+    "usersPickedPercent": 55,
+    "prediction": {
+      "mainPick": "Under 2.5 Goals",
+      "odds": "1.41",
+      "confidence": 77,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-0", "probability": 32, "odds": "7.50", "isCorrect": false },
+      { "score": "0-1", "probability": 30, "odds": "6.80", "isCorrect": false }
+    ],
+    "analysis": "Group F leaders O'Higgins host Brazilian giants São Paulo at El Teniente. Both sides are defensively solid — the Chileans have kept three clean sheets in their last five, while São Paulo have been pragmatic on the road. The first leg ended 1-0 to São Paulo, and with qualification at stake, a cautious, low‑scoring tactical battle is the most probable outcome."
+  },
+  {
+    "id": "m611",
+    "league": "CONMEBOL Sudamericana",
+    "homeTeam": "Boston River",
+    "awayTeam": "Millonarios",
+    "date": "2026-05-08",
+    "time": "01:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "DLWLL",
+    "awayForm": "WWWDW",
+    "avgGoals": 2.4,
+    "usersPickedPercent": 69,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.54",
+      "confidence": 79,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 29, "odds": "8.00", "isCorrect": false },
+      { "score": "0-2", "probability": 25, "odds": "8.50", "isCorrect": false }
+    ],
+    "analysis": "Millonarios travel to Montevideo top of Group E with maximum points and a formidable attacking record. Boston River have conceded in four of their last five matches and will be forced to chase the game, leaving gaps at the back. The Colombian side's quality should secure another three points, though Boston River's home threat could see them net a consolation."
+  },
+  {
+    "id": "m612",
+    "league": "CONMEBOL Libertadores",
+    "homeTeam": "Atlético Junior",
+    "awayTeam": "Cerro Porteño",
+    "date": "2026-05-08",
+    "time": "05:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WLDWL",
+    "awayForm": "LWLWD",
+    "avgGoals": 2.2,
+    "usersPickedPercent": 66,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.80",
+      "confidence": 67,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 28, "odds": "8.00", "isCorrect": false },
+      { "score": "1-0", "probability": 26, "odds": "7.50", "isCorrect": false }
+    ],
+    "analysis": "Junior welcome Cerro Porteño to the Metropolitano Roberto Meléndez in a pivotal group stage clash. The Colombian side is traditionally formidable at home, where the Barranquilla heat and passionate crowd create a fortress. Cerro Porteño have been inconsistent on the road, and Junior's need for points to progress should see them edge a tight but entertaining contest."
+  },
+  {
+    "id": "m613",
+    "league": "Italian Serie B",
+    "homeTeam": "AC Cesena",
+    "awayTeam": "Padova",
+    "date": "2026-05-08",
+    "time": "21:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWWLW",
+    "awayForm": "LDLLL",
+    "avgGoals": 2.5,
+    "usersPickedPercent": 71,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.28",
+      "confidence": 88,
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "3-0", "probability": 35, "odds": "6.00", "isCorrect": false },
+      { "score": "2-0", "probability": 32, "odds": "5.80", "isCorrect": false }
+    ],
+    "analysis": "Serie B leaders Cesena host a Padova side stuck in the relegation mire. Cesena are unbeaten at the Orogel Stadium this season and possess the division's most potent attack, while Padova have lost four of their last five away games. A comfortable home win with a clean sheet is the overwhelmingly probable outcome."
+  },
+  {
+    "id": "m614",
+    "league": "Italian Serie B",
+    "homeTeam": "Pescara",
+    "awayTeam": "Spezia",
+    "date": "2026-05-08",
+    "time": "21:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "DWLWD",
+    "awayForm": "WDLWW",
+    "avgGoals": 2.7,
+    "usersPickedPercent": 59,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "2.76",
+      "confidence": 69,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 27, "odds": "9.00", "isCorrect": false },
+      { "score": "1-1", "probability": 25, "odds": "6.80", "isCorrect": false }
+    ],
+    "analysis": "Spezia are chasing automatic promotion and travel to the Stadio Adriatico in strong form, having won three of their last five. Pescara have been solid at home but face a Spezia side that has been ruthless on the counter‑attack. The reverse fixture ended 2-2, and another open, high‑scoring contest is expected with the visitors narrowly favoured."
+  },
+  {
+    "id": "m615",
+    "league": "Italian Serie B",
+    "homeTeam": "Catanzaro",
+    "awayTeam": "SSC Bari",
+    "date": "2026-05-08",
+    "time": "21:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WDWDL",
+    "awayForm": "LWLWD",
+    "avgGoals": 2.0,
+    "usersPickedPercent": 62,
+    "prediction": {
+      "mainPick": "Under 2.5 Goals",
+      "odds": "1.95",
+      "confidence": 72,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 34, "odds": "6.50", "isCorrect": false },
+      { "score": "0-0", "probability": 30, "odds": "7.20", "isCorrect": false }
+    ],
+    "analysis": "A mid‑table Serie B encounter between two teams separated by just a few points. The last four meetings between Catanzaro and Bari have all seen under 2.5 goals, with defences typically on top. With neither side in outstanding scoring form, a tight, low‑scoring stalemate or a one‑goal home win is the safest projection."
+  },
+  {
+    "id": "m616",
+    "league": "Italian Serie B",
+    "homeTeam": "Reggiana",
+    "awayTeam": "Sampdoria",
+    "date": "2026-05-08",
+    "time": "21:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LWLDL",
+    "awayForm": "WWWLW",
+    "avgGoals": 2.7,
+    "usersPickedPercent": 67,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.86",
+      "confidence": 76,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 30, "odds": "8.50", "isCorrect": false },
+      { "score": "0-2", "probability": 24, "odds": "8.00", "isCorrect": false }
+    ],
+    "analysis": "Sampdoria are in the thick of the Serie B promotion race and arrive at the Mapei Stadium in blistering form, winning four of their last five and scoring 11 goals. Reggiana have been inconsistent and struggle to contain top‑half opponents. The Blucerchiati's superior firepower should prove decisive in an entertaining away victory."
+  },
+  {
+    "id": "m617",
+    "league": "Italian Serie A",
+    "homeTeam": "Torino",
+    "awayTeam": "Sassuolo",
+    "date": "2026-05-08",
+    "time": "21:45",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWDLW",
+    "awayForm": "LLWLD",
+    "avgGoals": 2.4,
+    "usersPickedPercent": 63,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.62",
+      "confidence": 74,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 28, "odds": "8.20", "isCorrect": false },
+      { "score": "1-1", "probability": 25, "odds": "6.60", "isCorrect": false }
+    ],
+    "analysis": "Torino have climbed into the top half under Paolo Vanoli and are tough to beat at the Olimpico Grande Torino. Sassuolo are fighting for survival and have been involved in high‑scoring affairs recently — their last five matches have averaged 3.0 goals. Both teams possess attacking threats, and the odds undervalue the likelihood of goals at both ends."
+  },
+  {
+    "id": "m618",
+    "league": "French Ligue 1",
+    "homeTeam": "RC Lens",
+    "awayTeam": "Nantes",
+    "date": "2026-05-08",
+    "time": "21:45",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWWWD",
+    "awayForm": "LLLDL",
+    "avgGoals": 2.6,
+    "usersPickedPercent": 78,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.27",
+      "confidence": 86,
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-0", "probability": 35, "odds": "5.80", "isCorrect": false },
+      { "score": "3-0", "probability": 28, "odds": "7.50", "isCorrect": false }
+    ],
+    "analysis": "Lens are locked in a battle for Champions League qualification and have turned the Stade Bollaert into a fortress, winning their last five home matches. Nantes are winless in 12 Ligue 1 games and have one of the worst away records in the division. The hosts should cruise to a comfortable victory."
   }
  ]
-}  
- 
-  
+} 
