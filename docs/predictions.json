@@ -8354,11 +8354,356 @@
       { "score": "1-2", "probability": 24, "odds": "9.50", "isCorrect": false }
     ],
     "analysis": "Basel host Zürich at St. Jakob-Park in a fixture that has historically delivered goals — the last five meetings have averaged 3.2 goals per game. Basel are pushing for the title in the Championship Round while Zürich are fighting for European qualification. Both teams are at their best going forward, and with so much at stake in the closing stages of the Swiss Super League season, an open, entertaining contest is expected."
-   }
-  ]  
- }  
-
-
-
+   },
+   {
+    "id": "m596",
+    "league": "UEFA Europa League",
+    "homeTeam": "Freiburg",
+    "awayTeam": "Braga",
+    "date": "2026-05-07",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "WWDWL",
+    "awayForm": "LDDWL",
+    "avgGoals": 2.8,
+    "usersPickedPercent": 72,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.50",
+      "confidence": 74,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 34, "odds": "6.50", "isCorrect": false },
+      { "score": "2-0", "probability": 27, "odds": "7.80", "isCorrect": false }
+    ],
+    "analysis": "Freiburg hold a narrow aggregate lead after a 2-1 away win in the first leg and return to the Europa-Park Stadion with defensive discipline on their mind. Braga need to score at least twice but have struggled on the road in Europe this season. Freiburg's compact home form in the knockout stages points towards a controlled, low-scoring victory to secure a place in the final."
+  },
+  {
+    "id": "m597",
+    "league": "UEFA Europa League",
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Nottingham Forest",
+    "date": "2026-05-07",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LWWWD",
+    "awayForm": "DWWWD",
+    "avgGoals": 3.2,
+    "usersPickedPercent": 80,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.63",
+      "confidence": 82,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 28, "odds": "8.00", "isCorrect": false },
+      { "score": "1-1", "probability": 24, "odds": "7.50", "isCorrect": false }
+    ],
+    "analysis": "An all-English second leg with the tie finely poised at 1-1 from the City Ground. Aston Villa are on an 11-match winning streak in all competitions, but Forest are unbeaten in nine and scored at Villa Park in the league this season. Both sides possess devastating attacking pace on the break and will push for the final from the first whistle — Villa’s power against Forest’s counter-attacking excellence makes both teams scoring a high-probability outcome in what promises to be another classic."
+  },
+  {
+    "id": "m598",
+    "league": "UEFA Conference League",
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Shakhtar Donetsk",
+    "date": "2026-05-07",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WDLWW",
+    "awayForm": "WWWDD",
+    "avgGoals": 2.5,
+    "usersPickedPercent": 76,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.40",
+      "confidence": 79,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 27, "odds": "8.20", "isCorrect": false },
+      { "score": "1-0", "probability": 25, "odds": "7.50", "isCorrect": false }
+    ],
+    "analysis": "Crystal Palace won the first leg 2-0 in neutral Hamburg and are firmly in control. Shakhtar must come out and attack at Selhurst Park, which plays perfectly into Palace's counter-attacking strengths under Oliver Glasner. The Eagles' home form has been solid, and while Shakhtar’s experience could cause a few nervy moments, Palace's organisation should secure a second-leg victory, though the visitors may get on the scoresheet."
+  },
+  {
+    "id": "m599",
+    "league": "UEFA Conference League",
+    "homeTeam": "Strasbourg",
+    "awayTeam": "Rayo Vallecano",
+    "date": "2026-05-07",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWWWD",
+    "awayForm": "LDDLW",
+    "avgGoals": 3.0,
+    "usersPickedPercent": 71,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.57",
+      "confidence": 83,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 28, "odds": "8.00", "isCorrect": false },
+      { "score": "2-2", "probability": 22, "odds": "12.00", "isCorrect": false }
+    ],
+    "analysis": "Strasbourg drew 1-1 at Vallecas in the first leg and are yet to lose in Europe this season. At the Stade de la Meinau, Liam Rosenior’s side play with high intensity, and they have scored in every European home game. Rayo Vallecano are dangerous on the break and have found the net in 83% of their conference campaign. With the tie wide open, both teams to score is an excellent value pick in this semi-final shootout."
+  },
+  {
+    "id": "m600",
+    "league": "Algerian Ligue 1",
+    "homeTeam": "MC Oran",
+    "awayTeam": "ASO Chlef",
+    "date": "2026-05-07",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWDWL",
+    "awayForm": "DDLLL",
+    "avgGoals": 1.6,
+    "usersPickedPercent": 58,
+    "prediction": {
+      "mainPick": "Home Win & Under 2.5",
+      "odds": "1.37",
+      "confidence": 81,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 37, "odds": "5.60", "isCorrect": false },
+      { "score": "2-0", "probability": 29, "odds": "7.00", "isCorrect": false }
+    ],
+    "analysis": "MC Oran are pushing for a top‑three finish and have won 9 of their 13 home matches this season. ASO Chlef are winless in their last five away trips and have scored just 4 goals in that span. The Stade Ahmed Zabana is a fortress, and a routine, low‑scoring home victory is the most likely outcome."
+  },
+  {
+    "id": "m601",
+    "league": "Ugandan Premier League",
+    "homeTeam": "Kampala Capital City Authority",
+    "awayTeam": "Maroons FC",
+    "date": "2026-05-07",
+    "time": "20:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWDWW",
+    "awayForm": "LWDLL",
+    "avgGoals": 2.2,
+    "usersPickedPercent": 63,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.25",
+      "confidence": 84,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-0", "probability": 38, "odds": "5.50", "isCorrect": false },
+      { "score": "1-0", "probability": 33, "odds": "6.00", "isCorrect": false }
+    ],
+    "analysis": "KCCA are in formidable form at the MTN Omondi Stadium, winning four of their last five league outings without conceding a goal at home in three matches. Maroons FC have lost four of their last five away games and failed to score in three of those. The hosts' defensive solidity should secure a comfortable win."
+  },
+  {
+    "id": "m602",
+    "league": "Egyptian Premier League, Relegation Round",
+    "homeTeam": "Haras El Hodood",
+    "awayTeam": "ZED FC",
+    "date": "2026-05-07",
+    "time": "20:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LLDLL",
+    "awayForm": "DWDWL",
+    "avgGoals": 1.2,
+    "usersPickedPercent": 59,
+    "prediction": {
+      "mainPick": "Under 2.5 Goals",
+      "odds": "1.33",
+      "confidence": 85,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-0", "probability": 37, "odds": "5.80", "isCorrect": false },
+      { "score": "0-1", "probability": 31, "odds": "6.20", "isCorrect": false }
+    ],
+    "analysis": "A relegation scrap between two of the lowest‑scoring teams in the Egyptian top flight. Haras El Hodood have failed to score in four of their last five, while ZED have managed just two goals in the same period. With safety on the line, risk‑aversion will be the dominant theme — under 2.5 goals is the standout value."
+  },
+  {
+    "id": "m603",
+    "league": "Egyptian Premier League, Relegation Round",
+    "homeTeam": "National Bank of Egypt",
+    "awayTeam": "Ismaily SC",
+    "date": "2026-05-07",
+    "time": "20:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WDWLW",
+    "awayForm": "DDLLD",
+    "avgGoals": 1.9,
+    "usersPickedPercent": 64,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.55",
+      "confidence": 73,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 28, "odds": "8.00", "isCorrect": false },
+      { "score": "1-0", "probability": 25, "odds": "6.80", "isCorrect": false }
+    ],
+    "analysis": "National Bank have won three of their last five, scoring 7 goals in that run, and sit just above the relegation mire. Ismaily are winless in five and have the worst away defence in the division. The hosts' attacking momentum at Cairo Military Stadium should see them edge a crucial victory, though Ismaily's desperation may produce a consolation."
+  },
+  {
+    "id": "m604",
+    "league": "Turkish 1. Lig, Promotion",
+    "homeTeam": "Çorum FK",
+    "awayTeam": "A. Keçiörengücü",
+    "date": "2026-05-07",
+    "time": "20:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WDWWW",
+    "awayForm": "LWDDL",
+    "avgGoals": 2.6,
+    "usersPickedPercent": 66,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.45",
+      "confidence": 78,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 29, "odds": "8.20", "isCorrect": false },
+      { "score": "3-1", "probability": 22, "odds": "10.50", "isCorrect": false }
+    ],
+    "analysis": "Çorum sit 2nd in the 1. Lig and are unbeaten at home this calendar year, scoring 19 goals in their last 7 at the Çorum Şehir Stadyumu. A. Keçiörengücü have lost two of their last three away games and possess one of the leakiest defences in the division. The hosts should secure a vital promotion‑race win in an entertaining contest."
+  },
+  {
+    "id": "m605",
+    "league": "Turkish 1. Lig, Promotion",
+    "homeTeam": "Bodrum FK",
+    "awayTeam": "Pendikspor",
+    "date": "2026-05-07",
+    "time": "20:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WLWDW",
+    "awayForm": "LWLDL",
+    "avgGoals": 2.3,
+    "usersPickedPercent": 54,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.97",
+      "confidence": 67,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 35, "odds": "6.00", "isCorrect": false },
+      { "score": "2-0", "probability": 26, "odds": "8.50", "isCorrect": false }
+    ],
+    "analysis": "Bodrum FK are in the playoff mix and have been defensively robust at the Bodrum İlçe Stadı, keeping three clean sheets in their last five. Pendikspor have been inconsistent on the road and struggle to break down organised defences. A narrow home win with few goals is the most probable outcome."
+  },
+  {
+    "id": "m606",
+    "league": "Russian Cup",
+    "homeTeam": "Krasnodar",
+    "awayTeam": "Dynamo Moscow",
+    "date": "2026-05-07",
+    "time": "20:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWLDW",
+    "awayForm": "WLLWD",
+    "avgGoals": 2.4,
+    "usersPickedPercent": 56,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.51",
+      "confidence": 75,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 27, "odds": "8.00", "isCorrect": false },
+      { "score": "1-1", "probability": 24, "odds": "7.20", "isCorrect": false }
+    ],
+    "analysis": "A Russian Cup semi‑final at the Krasnodar Stadium. Both sides are among the most attack‑minded in the RPL, and the reverse league fixture produced a 2-2 draw in March. With a place in the final at stake, both teams will prioritise attack, and the 1.51 odds for both teams to score are a stand‑out value in this tie."
+  },
+  {
+    "id": "m607",
+    "league": "Moroccan Botola Pro",
+    "homeTeam": "RSB Berkane",
+    "awayTeam": "UTS Union Touarga",
+    "date": "2026-05-07",
+    "time": "21:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWWDW",
+    "awayForm": "WLLDL",
+    "avgGoals": 1.7,
+    "usersPickedPercent": 67,
+    "prediction": {
+      "mainPick": "Home Win & Under 2.5",
+      "odds": "1.48",
+      "confidence": 82,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 38, "odds": "5.50", "isCorrect": false },
+      { "score": "2-0", "probability": 30, "odds": "6.80", "isCorrect": false }
+    ],
+    "analysis": "RSB Berkane are unbeaten in their last 11 home matches across all competitions and have kept seven clean sheets in that run. UTS Union Touarga have lost four of their last five away games and face a daunting trip to the Stade Municipal de Berkane, where the hosts rarely concede. A low‑scoring home victory is the most probable outcome."
+  }
+ ]
+}  
  
   
