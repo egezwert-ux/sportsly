@@ -8728,7 +8728,7 @@
     },
     "correctScoreOptions": [
       { "score": "1-2", "probability": 28, "odds": "10.00", "isCorrect": false },
-      { "score": "1-1", "probability": 24, "odds": "7.50", "isCorrect": false }
+      { "score": "1-1", "probability": 24, "odds": "7.50", "isCorrect": true }
     ],
     "analysis": "Argentine side Platense welcome Uruguayan giants Peñarol to the Estadio Ciudad de Vicente López. Platense have been inconsistent at home in the Libertadores, while Peñarol arrive with a near‑flawless recent record and superior continental experience. The visitors' attacking firepower should prove decisive, though the hosts will likely get on the scoresheet in a match that promises goals."
   },
@@ -8768,7 +8768,7 @@
     "awayTeam": "São Paulo SP",
     "date": "2026-05-08",
     "time": "01:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WDDLW",
@@ -8785,7 +8785,7 @@
       "corner": "Under 9.5"
     },
     "correctScoreOptions": [
-      { "score": "0-0", "probability": 32, "odds": "7.50", "isCorrect": false },
+      { "score": "0-0", "probability": 32, "odds": "7.50", "isCorrect": true },
       { "score": "0-1", "probability": 30, "odds": "6.80", "isCorrect": false }
     ],
     "analysis": "Group F leaders O'Higgins host Brazilian giants São Paulo at El Teniente. Both sides are defensively solid — the Chileans have kept three clean sheets in their last five, while São Paulo have been pragmatic on the road. The first leg ended 1-0 to São Paulo, and with qualification at stake, a cautious, low‑scoring tactical battle is the most probable outcome."
@@ -8797,7 +8797,7 @@
     "awayTeam": "Millonarios",
     "date": "2026-05-08",
     "time": "01:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "DLWLL",
@@ -8855,7 +8855,7 @@
     "awayTeam": "Padova",
     "date": "2026-05-08",
     "time": "21:30",
-    "status": "PENDING",
+    "status": "lost",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WWWLW",
@@ -8902,7 +8902,7 @@
     },
     "correctScoreOptions": [
       { "score": "1-2", "probability": 27, "odds": "9.00", "isCorrect": false },
-      { "score": "1-1", "probability": 25, "odds": "6.80", "isCorrect": false }
+      { "score": "1-1", "probability": 25, "odds": "6.80", "isCorrect": true }
     ],
     "analysis": "Spezia are chasing automatic promotion and travel to the Stadio Adriatico in strong form, having won three of their last five. Pescara have been solid at home but face a Spezia side that has been ruthless on the counter‑attack. The reverse fixture ended 2-2, and another open, high‑scoring contest is expected with the visitors narrowly favoured."
   },
@@ -8971,7 +8971,7 @@
     "awayTeam": "Sassuolo",
     "date": "2026-05-08",
     "time": "21:45",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WWDLW",
@@ -8988,7 +8988,7 @@
       "corner": "Over 9.5"
     },
     "correctScoreOptions": [
-      { "score": "2-1", "probability": 28, "odds": "8.20", "isCorrect": false },
+      { "score": "2-1", "probability": 28, "odds": "8.20", "isCorrect": true },
       { "score": "1-1", "probability": 25, "odds": "6.60", "isCorrect": false }
     ],
     "analysis": "Torino have climbed into the top half under Paolo Vanoli and are tough to beat at the Olimpico Grande Torino. Sassuolo are fighting for survival and have been involved in high‑scoring affairs recently — their last five matches have averaged 3.0 goals. Both teams possess attacking threats, and the odds undervalue the likelihood of goals at both ends."
@@ -9000,7 +9000,7 @@
     "awayTeam": "Nantes",
     "date": "2026-05-08",
     "time": "21:45",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WWWWD",
