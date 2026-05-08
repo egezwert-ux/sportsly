@@ -9021,6 +9021,384 @@
       { "score": "3-0", "probability": 28, "odds": "7.50", "isCorrect": false }
     ],
     "analysis": "Lens are locked in a battle for Champions League qualification and have turned the Stade Bollaert into a fortress, winning their last five home matches. Nantes are winless in 12 Ligue 1 games and have one of the worst away records in the division. The hosts should cruise to a comfortable victory."
+  },
+  {
+    "id": "m623",
+    "league": "English Championship, Promotion Playoff",
+    "homeTeam": "Middlesbrough",
+    "awayTeam": "Southampton",
+    "date": "2026-05-09",
+    "time": "14:30",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "WDDLD",
+    "awayForm": "WWWDW",
+    "avgGoals": 2.4,
+    "usersPickedPercent": 78,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.84",
+      "confidence": 76,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-1", "probability": 28, "odds": "6.80", "isCorrect": false },
+      { "score": "2-1", "probability": 24, "odds": "9.00", "isCorrect": false }
+    ],
+    "analysis": "Middlesbrough won just two of their final 10 regular-season games (D5 L3) to miss automatic promotion, while Southampton enter the play-offs unbeaten in 19 Championship matches (W14 D5) since mid-January. Boro won the last meeting 4-0 in January but Saints are in rampant form. With both sides carrying attacking threats — Conway, Whittaker and Strelec for Boro; Larin involved in six goals in his past six starts for Saints — this play-off semi-final first leg at the Riverside promises goals at both ends."
+  },
+  {
+    "id": "m624",
+    "league": "Chinese Super League",
+    "homeTeam": "Shanghai Shenhua",
+    "awayTeam": "Chongqing Tonglianglong",
+    "date": "2026-05-09",
+    "time": "14:35",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWWLL",
+    "awayForm": "WWWDL",
+    "avgGoals": 2.8,
+    "usersPickedPercent": 71,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.65",
+      "confidence": 78,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 27, "odds": "8.00", "isCorrect": false },
+      { "score": "1-1", "probability": 25, "odds": "7.20", "isCorrect": false }
+    ],
+    "analysis": "Shanghai Shenhua are 6th with 10 points after suffering back-to-back defeats to Chengdu Rongcheng and Shandong Taishan, having previously won four straight. Chongqing sit 2nd with 19 points, losing just once in 10 CSL matches. Shenhua's Rafael Ratão leads the league with 7 goals, while Chongqing boast the best defensive record with Yao Haoyang keeping 4 clean sheets. This clash of attack vs defence at Shanghai Stadium should produce an open, entertaining contest."
+  },
+  {
+    "id": "m625",
+    "league": "German 3. Liga",
+    "homeTeam": "Rot-Weiss Essen",
+    "awayTeam": "SC Verl",
+    "date": "2026-05-09",
+    "time": "15:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WLWWD",
+    "awayForm": "LWWLW",
+    "avgGoals": 3.5,
+    "usersPickedPercent": 69,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.20",
+      "confidence": 87,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 26, "odds": "8.50", "isCorrect": false },
+      { "score": "2-2", "probability": 22, "odds": "11.00", "isCorrect": false }
+    ],
+    "analysis": "A massive 3. Liga promotion showdown — 4th vs 5th separated by just three points at the Stadion an der Hafenstraße. Essen boast 74 goals this season (second-best attack in the division), while Verl have scored 79. Neither side can afford to sit back with their promotion dreams on the line, and the last meeting produced a 3-2 thriller. Goals are all but guaranteed."
+  },
+  {
+    "id": "m626",
+    "league": "German 3. Liga",
+    "homeTeam": "Osnabrück",
+    "awayTeam": "Ulm 1846",
+    "date": "2026-05-09",
+    "time": "15:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWDWL",
+    "awayForm": "LLWDL",
+    "avgGoals": 2.3,
+    "usersPickedPercent": 55,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.29",
+      "confidence": 81,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 37, "odds": "5.80", "isCorrect": false },
+      { "score": "2-0", "probability": 29, "odds": "7.00", "isCorrect": false }
+    ],
+    "analysis": "Osnabrück hold a 67.65% win probability at the Bremer Brücke and have dominated this fixture historically, winning 2 of 3 meetings with Ulm yet to taste victory. Ulm have lost four of their last six away matches. With Osnabrück pushing for a top-half finish and home advantage firmly in their favour, a straightforward home win with a clean sheet is the most probable outcome."
+  },
+  {
+    "id": "m627",
+    "league": "English Premier League",
+    "homeTeam": "Brighton & Hove Albion",
+    "awayTeam": "Wolverhampton Wanderers",
+    "date": "2026-05-09",
+    "time": "17:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWWLL",
+    "awayForm": "LLDLL",
+    "avgGoals": 2.6,
+    "usersPickedPercent": 84,
+    "prediction": {
+      "mainPick": "Home Win & Over 2.5",
+      "odds": "1.09",
+      "confidence": 92,
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "3-0", "probability": 36, "odds": "6.00", "isCorrect": false },
+      { "score": "2-0", "probability": 31, "odds": "5.50", "isCorrect": false }
+    ],
+    "analysis": "Brighton are unbeaten in eight league meetings with Wolves (W5 D3) and hunt a European spot under Fabian Hurzeler. Already-relegated Wolves are winless in 19 away Premier League matches (D5 L14), scoring just seven goals on the road all season — an abysmal 0.41 per game. The Amex should witness a comfortable home victory, likely with a clean sheet."
+  },
+  {
+    "id": "m628",
+    "league": "English Premier League",
+    "homeTeam": "Sunderland",
+    "awayTeam": "Manchester United",
+    "date": "2026-05-09",
+    "time": "17:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WLDWL",
+    "awayForm": "WWWLW",
+    "avgGoals": 2.0,
+    "usersPickedPercent": 63,
+    "prediction": {
+      "mainPick": "Under 2.5 Goals",
+      "odds": "1.82",
+      "confidence": 74,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-1", "probability": 34, "odds": "6.80", "isCorrect": false },
+      { "score": "0-0", "probability": 28, "odds": "8.00", "isCorrect": false }
+    ],
+    "analysis": "Manchester United have won three straight league games but have beaten only eight of 18 bottom-half opponents this season. Sunderland are without suspended centre-back Dan Ballard and have won just three of 33 Premier League meetings with United. Bruno Fernandes is one assist shy of the season record (20). Both sides' recent matches have been tight — under 2.5 goals has landed in four of the last five meetings — and a low-scoring away win is the value play."
+  },
+  {
+    "id": "m629",
+    "league": "English Premier League",
+    "homeTeam": "Fulham",
+    "awayTeam": "Bournemouth",
+    "date": "2026-05-09",
+    "time": "17:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LLLDD",
+    "awayForm": "WDWWW",
+    "avgGoals": 2.1,
+    "usersPickedPercent": 66,
+    "prediction": {
+      "mainPick": "Under 2.5 Goals",
+      "odds": "2.07",
+      "confidence": 71,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-1", "probability": 33, "odds": "7.50", "isCorrect": false },
+      { "score": "0-0", "probability": 30, "odds": "7.80", "isCorrect": false }
+    ],
+    "analysis": "Fulham have failed to score in five of their last seven league games since Alex Iwobi's injury — managing just four goals in eight matches. Bournemouth are unbeaten in 15 league games (W7 D8), the longest run in Europe's top five leagues, and have conceded just six goals in their last eight away matches. Despite Fulham's strong home record, their attacking drought meets the Cherries' stingy defence — a low-scoring Bournemouth win is the most probable outcome."
+  },
+  {
+    "id": "m630",
+    "league": "Croatian HNL",
+    "homeTeam": "Dinamo Zagreb",
+    "awayTeam": "Hajduk Split",
+    "date": "2026-05-09",
+    "time": "17:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWWLW",
+    "awayForm": "LWWWD",
+    "avgGoals": 2.5,
+    "usersPickedPercent": 74,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.41",
+      "confidence": 82,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 29, "odds": "8.00", "isCorrect": false },
+      { "score": "3-1", "probability": 23, "odds": "10.50", "isCorrect": false }
+    ],
+    "analysis": "The Croatian Eternal Derby at a sold-out Maksimir. Dinamo have won both meetings with Hajduk this season — both in Split — and sit top of the HNL with a power score 8.5 points ahead of their rivals. Hajduk have lost four of their last five visits to the Maksimir. With the title race heating up and Dinamo's formidable home record, the hosts should secure another derby victory, though Hajduk's quality will likely see them on the scoresheet."
+  },
+  {
+    "id": "m631",
+    "league": "Greek Super League, Relegation Group",
+    "homeTeam": "Atromitos",
+    "awayTeam": "Panetolikos",
+    "date": "2026-05-09",
+    "time": "19:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WDLWD",
+    "awayForm": "DDLLL",
+    "avgGoals": 1.8,
+    "usersPickedPercent": 57,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.87",
+      "confidence": 68,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 36, "odds": "6.20", "isCorrect": false },
+      { "score": "2-0", "probability": 26, "odds": "8.00", "isCorrect": false }
+    ],
+    "analysis": "Atromitos are unbeaten in their last six home matches at the Stadio Peristeriou and have won 60% of the last 10 meetings with Panetolikos. The visitors have failed to win seven of their last eight Super League matches and struggle on the road, where 75% of their away games have ended with under 2.5 goals. A narrow home win is the safest projection in this relegation group encounter."
+  },
+  {
+    "id": "m632",
+    "league": "Croatian HNL",
+    "homeTeam": "Varaždin",
+    "awayTeam": "Lokomotiva Zagreb",
+    "date": "2026-05-09",
+    "time": "19:45",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWLWL",
+    "awayForm": "DLLWL",
+    "avgGoals": 2.3,
+    "usersPickedPercent": 58,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.77",
+      "confidence": 70,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 35, "odds": "6.50", "isCorrect": false },
+      { "score": "2-0", "probability": 27, "odds": "8.00", "isCorrect": false }
+    ],
+    "analysis": "Varaždin sit 3rd in the HNL with 45 points and have been solid at the Stadion Anđelko Herjavec this season. Lokomotiva Zagreb have won just 29% of their matches and have struggled historically in this fixture — Lokomotiva have won 13 of 30 meetings while Varaždin have taken 6 with 11 draws. The hosts' superior league position and home advantage should secure a narrow victory."
+  },
+  {
+    "id": "m633",
+    "league": "Turkish Super Lig",
+    "homeTeam": "Eyüpspor",
+    "awayTeam": "Rizespor",
+    "date": "2026-05-09",
+    "time": "20:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LWWLL",
+    "awayForm": "LLWDL",
+    "avgGoals": 2.2,
+    "usersPickedPercent": 59,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.81",
+      "confidence": 65,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 28, "odds": "8.20", "isCorrect": false },
+      { "score": "1-1", "probability": 25, "odds": "6.60", "isCorrect": false }
+    ],
+    "analysis": "Eyüpspor sit 15th with 29 points and desperately need a home win to ease relegation fears at the Eyüp Stadı. Rizespor have been inconsistent on the road, losing three of their last five away trips. The reverse fixture ended in a stalemate, but Eyüpspor's survival desperation and passionate home support should tip this tight Süper Lig contest in their favour."
+  },
+  {
+    "id": "m634",
+    "league": "Turkish Super Lig",
+    "homeTeam": "Kocaelispor",
+    "awayTeam": "Fatih Karagümrük",
+    "date": "2026-05-09",
+    "time": "20:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "DDDLD",
+    "awayForm": "WLLDW",
+    "avgGoals": 2.1,
+    "usersPickedPercent": 60,
+    "prediction": {
+      "mainPick": "Draw",
+      "odds": "3.01",
+      "confidence": 62,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-0", "probability": 32, "odds": "7.80", "isCorrect": false },
+      { "score": "1-1", "probability": 28, "odds": "6.80", "isCorrect": false }
+    ],
+    "analysis": "Kocaelispor sit 10th and have been draw specialists with a tight, organised defence (10 clean sheets) but just 26 goals scored all season. Karagümrük are 18th in the relegation zone, missing forwards Camacho, Sivri and Kone to injury. Three of the last five meetings have ended all square, and with Kocaelispor missing key defenders and the visitors' depleted attack, another low-scoring stalemate beckons at the Yıldız Entegre Kocaeli Stadyumu."
+  },
+  {
+    "id": "m635",
+    "league": "Turkish Super Lig",
+    "homeTeam": "Göztepe",
+    "awayTeam": "Gaziantep",
+    "date": "2026-05-09",
+    "time": "20:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WDDWD",
+    "awayForm": "LLLWD",
+    "avgGoals": 2.6,
+    "usersPickedPercent": 62,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.31",
+      "confidence": 75,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 29, "odds": "8.00", "isCorrect": false },
+      { "score": "3-1", "probability": 23, "odds": "10.00", "isCorrect": false }
+    ],
+    "analysis": "Göztepe are unbeaten in their last four league matches, drawing 1-1 at Trabzonspor last time out, and sit comfortably in the top half. Gaziantep have lost three of their last five away games and concede heavily on the road. The Gürsel Aksel Stadium has been a fortress, and Göztepe's attacking momentum should secure a home victory, though Gaziantep's desperation to avoid the drop may see them grab a consolation."
   }
  ]
 } 
+
