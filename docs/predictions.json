@@ -9398,7 +9398,472 @@
       { "score": "3-1", "probability": 23, "odds": "10.00", "isCorrect": false }
     ],
     "analysis": "Göztepe are unbeaten in their last four league matches, drawing 1-1 at Trabzonspor last time out, and sit comfortably in the top half. Gaziantep have lost three of their last five away games and concede heavily on the road. The Gürsel Aksel Stadium has been a fortress, and Göztepe's attacking momentum should secure a home victory, though Gaziantep's desperation to avoid the drop may see them grab a consolation."
+  },
+  {
+    "id": "m636",
+    "league": "English Premier League",
+    "homeTeam": "West Ham United",
+    "awayTeam": "Arsenal",
+    "date": "2026-05-10",
+    "time": "18:30",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "LLDLL",
+    "awayForm": "WWWWL",
+    "avgGoals": 2.8,
+    "usersPickedPercent": 84,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.36",
+      "confidence": 86,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-2", "probability": 37, "odds": "6.50", "isCorrect": false },
+      { "score": "0-1", "probability": 32, "odds": "7.00", "isCorrect": false }
+    ],
+    "analysis": "West Ham are winless in six league games and have slipped closer to the relegation zone. Arsenal, despite a recent wobble, remain in the top four and have scored 2+ goals in five of their last six away league matches. The Gunners' superior quality and West Ham's defensive disarray should produce a routine away win, likely with a clean sheet."
+  },
+  {
+    "id": "m637",
+    "league": "German Bundesliga",
+    "homeTeam": "1. FC Köln",
+    "awayTeam": "1. FC Heidenheim",
+    "date": "2026-05-10",
+    "time": "18:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "DWLDL",
+    "awayForm": "LLLWD",
+    "avgGoals": 3.0,
+    "usersPickedPercent": 72,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.21",
+      "confidence": 89,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 28, "odds": "8.00", "isCorrect": false },
+      { "score": "3-1", "probability": 23, "odds": "9.50", "isCorrect": false }
+    ],
+    "analysis": "Köln have been involved in high-scoring affairs at the RheinEnergieStadion, with over 2.5 goals landing in each of their last four home matches. Heidenheim are fighting relegation and have scored in three of their last five away games, but concede heavily. The reverse fixture ended 3-2, and another goal-fest is overwhelmingly probable."
+  },
+  {
+    "id": "m638",
+    "league": "German Bundesliga",
+    "homeTeam": "1. FSV Mainz 05",
+    "awayTeam": "1. FC Union Berlin",
+    "date": "2026-05-10",
+    "time": "20:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWDWL",
+    "awayForm": "LLDLL",
+    "avgGoals": 2.6,
+    "usersPickedPercent": 71,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.50",
+      "confidence": 78,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 29, "odds": "8.20", "isCorrect": false },
+      { "score": "3-1", "probability": 23, "odds": "10.50", "isCorrect": false }
+    ],
+    "analysis": "Mainz sit comfortably in the top half and have turned the MEWA Arena into a fortress, winning three of their last four at home. Union Berlin have lost four straight away matches and are deep in the relegation mire. The hosts' attacking momentum should secure a crucial three points, though Union's desperation may yield a consolation."
+  },
+  {
+    "id": "m639",
+    "league": "Turkish 2. Lig, Promotion",
+    "homeTeam": "Muğlaspor",
+    "awayTeam": "Elazığspor",
+    "date": "2026-05-10",
+    "time": "19:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WDLWW",
+    "awayForm": "DWLDL",
+    "avgGoals": 2.2,
+    "usersPickedPercent": 60,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "2.80",
+      "confidence": 67,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 34, "odds": "6.80", "isCorrect": false },
+      { "score": "2-0", "probability": 26, "odds": "8.50", "isCorrect": false }
+    ],
+    "analysis": "A promotion playoff clash at the Muğla Atatürk Stadyumu. Muğlaspor finished in the playoff spots and are strong at home, while Elazığspor barely scraped into the post‑season and have struggled on the road. In a tense, tight first‑leg encounter, home advantage could prove decisive."
+  },
+  {
+    "id": "m640",
+    "league": "Saudi Pro League",
+    "homeTeam": "Al Riyadh",
+    "awayTeam": "Al Fateh SC",
+    "date": "2026-05-10",
+    "time": "19:05",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WDLWD",
+    "awayForm": "DLWLL",
+    "avgGoals": 2.8,
+    "usersPickedPercent": 65,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.33",
+      "confidence": 80,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 27, "odds": "8.00", "isCorrect": false },
+      { "score": "2-2", "probability": 22, "odds": "11.50", "isCorrect": false }
+    ],
+    "analysis": "Al Riyadh are a mid‑table side that plays open football at the Prince Faisal bin Fahd Stadium, with their last five matches averaging 3.2 goals. Al Fateh are fighting the drop and have seen over 2.5 goals in 70% of their away games. With both teams needing points and neither defence reliable, goals are the standout bet."
+  },
+  {
+    "id": "m641",
+    "league": "Egypt Cup",
+    "homeTeam": "ZED FC",
+    "awayTeam": "Pyramids FC",
+    "date": "2026-05-10",
+    "time": "20:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LLDWL",
+    "awayForm": "WWWWL",
+    "avgGoals": 2.0,
+    "usersPickedPercent": 68,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.62",
+      "confidence": 75,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-1", "probability": 35, "odds": "6.50", "isCorrect": false },
+      { "score": "0-2", "probability": 29, "odds": "7.80", "isCorrect": false }
+    ],
+    "analysis": "Pyramids are one of the strongest sides in Egyptian football and have won four of their last five across all competitions, conceding just twice in that run. ZED are in the bottom half of the Premier League and struggle to score. The cup provides an opportunity for Pyramids to flex their superiority, and a professional away win with a clean sheet is the most probable outcome."
+  },
+  {
+    "id": "m642",
+    "league": "Saudi Pro League",
+    "homeTeam": "Al Ittihad",
+    "awayTeam": "Damac",
+    "date": "2026-05-10",
+    "time": "21:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWDWW",
+    "awayForm": "LLDWL",
+    "avgGoals": 3.0,
+    "usersPickedPercent": 73,
+    "prediction": {
+      "mainPick": "Home Win & Over 2.5",
+      "odds": "1.35",
+      "confidence": 84,
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-0", "probability": 36, "odds": "6.00", "isCorrect": false },
+      { "score": "3-0", "probability": 30, "odds": "7.50", "isCorrect": false }
+    ],
+    "analysis": "Al Ittihad are battling for the Pro League title and have been relentless at King Abdullah Sports City, winning their last five home matches with an aggregate score of 15-1. Damac have lost three of their last five away games and possess one of the division's leakiest defences. A comfortable, high‑scoring home victory is the overwhelmingly probable outcome."
+  },
+  {
+    "id": "m643",
+    "league": "Argentine Primera LFP, Playoff",
+    "homeTeam": "Rosario Central",
+    "awayTeam": "Independiente",
+    "date": "2026-05-10",
+    "time": "21:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWDLW",
+    "awayForm": "DWLDL",
+    "avgGoals": 2.1,
+    "usersPickedPercent": 62,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.83",
+      "confidence": 69,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 36, "odds": "6.00", "isCorrect": false },
+      { "score": "2-0", "probability": 27, "odds": "8.00", "isCorrect": false }
+    ],
+    "analysis": "Rosario Central have been formidable at the Gigante de Arroyito this season and enter this Apertura playoff in strong form. Independiente have been inconsistent and struggle to break down organised defences on the road. In a tense, tactical knockout tie, Rosario's defensive solidity and home advantage should prove decisive."
+  },
+  {
+    "id": "m644",
+    "league": "Italian Serie A",
+    "homeTeam": "AC Milan",
+    "awayTeam": "Atalanta",
+    "date": "2026-05-10",
+    "time": "21:45",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWDWL",
+    "awayForm": "WLWWL",
+    "avgGoals": 2.8,
+    "usersPickedPercent": 78,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.68",
+      "confidence": 82,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 28, "odds": "8.50", "isCorrect": false },
+      { "score": "1-1", "probability": 24, "odds": "7.00", "isCorrect": false }
+    ],
+    "analysis": "A crucial top‑four clash at the San Siro. AC Milan have been solid at home, while Atalanta possess one of the most potent attacks in Serie A. Both teams have found the net in four of the last five meetings between these sides, including a 2-2 draw earlier this season. With Champions League qualification at stake, an open, attacking game is expected."
+  },
+  {
+    "id": "m645",
+    "league": "Italian Serie C, Promotion Playoff",
+    "homeTeam": "Cittadella",
+    "awayTeam": "Ravenna 1913",
+    "date": "2026-05-10",
+    "time": "21:45",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WDWLW",
+    "awayForm": "LWDLL",
+    "avgGoals": 2.1,
+    "usersPickedPercent": 56,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "2.17",
+      "confidence": 64,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 37, "odds": "6.20", "isCorrect": false },
+      { "score": "0-0", "probability": 30, "odds": "7.50", "isCorrect": false }
+    ],
+    "analysis": "Cittadella have been solid at the Stadio Pier Cesare Tombolato this campaign and have the slight edge in this promotion playoff tie. Ravenna have struggled on their travels in recent months and face a tough assignment against a well‑organised home side. A tight, low‑scoring Cittadella victory is the safest projection."
+  },
+  {
+    "id": "m646",
+    "league": "Brazilian Série A",
+    "homeTeam": "Clube do Remo",
+    "awayTeam": "Palmeiras",
+    "date": "2026-05-10",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LDLLW",
+    "awayForm": "WWWWD",
+    "avgGoals": 2.4,
+    "usersPickedPercent": 71,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.74",
+      "confidence": 79,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 28, "odds": "8.50", "isCorrect": false },
+      { "score": "0-2", "probability": 26, "odds": "7.80", "isCorrect": false }
+    ],
+    "analysis": "Palmeiras sit near the top of the Brasileirão and are unbeaten in their last five, while Remo are newly promoted and have struggled for consistency at this level. The visitors' attacking firepower and defensive organisation should prove too much for the Belém side, though Remo's passionate home crowd could inspire a goal."
+  },
+  {
+    "id": "m647",
+    "league": "Brazilian Série A",
+    "homeTeam": "Atlético Mineiro",
+    "awayTeam": "Botafogo",
+    "date": "2026-05-10",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WDLWW",
+    "awayForm": "LWWWL",
+    "avgGoals": 2.6,
+    "usersPickedPercent": 63,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.73",
+      "confidence": 75,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 27, "odds": "8.00", "isCorrect": false },
+      { "score": "1-2", "probability": 24, "odds": "9.00", "isCorrect": false }
+    ],
+    "analysis": "A clash between two attacking sides in Belo Horizonte. Atlético Mineiro have scored in each of their last seven home games, while Botafogo's front line has been clicking in recent weeks. The reverse fixture ended 1-1, and with both teams pushing for a top‑six finish, another open encounter with goals at both ends is on the cards."
+  },
+  {
+    "id": "m648",
+    "league": "French Ligue 1",
+    "homeTeam": "Toulouse",
+    "awayTeam": "Lyon",
+    "date": "2026-05-10",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "DWLDL",
+    "awayForm": "WWDWW",
+    "avgGoals": 2.8,
+    "usersPickedPercent": 75,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.57",
+      "confidence": 77,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 29, "odds": "8.20", "isCorrect": false },
+      { "score": "1-3", "probability": 24, "odds": "10.50", "isCorrect": false }
+    ],
+    "analysis": "Lyon are chasing a European spot and have won three of their last four away matches. Toulouse have been inconsistent at the Stadium de Toulouse and have struggled against top‑half opponents. Les Gones' superior quality in the final third should secure an away victory, though Toulouse's home threat could see them on the scoresheet."
+  },
+  {
+    "id": "m649",
+    "league": "French Ligue 1",
+    "homeTeam": "Rennes",
+    "awayTeam": "Paris FC",
+    "date": "2026-05-10",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WDLWW",
+    "awayForm": "LDWDL",
+    "avgGoals": 2.4,
+    "usersPickedPercent": 66,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "3.67",
+      "confidence": 73,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 28, "odds": "9.00", "isCorrect": false },
+      { "score": "1-0", "probability": 25, "odds": "8.00", "isCorrect": false }
+    ],
+    "analysis": "Rennes have won their last seven home Ligue 1 matches against Paris FC, dating back to 2016. Both sides are in mixed form, but Rennes' fortress at Roazhon Park — where they have conceded just eight goals all season — gives them a significant edge in this encounter."
+  },
+  {
+    "id": "m651",
+    "league": "Moroccan Botola Pro",
+    "homeTeam": "IR Tanger",
+    "awayTeam": "Hassan Jdidi",
+    "date": "2026-05-10",
+    "time": "19:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "DWLWD",
+    "awayForm": "LDLLW",
+    "avgGoals": 1.5,
+    "usersPickedPercent": 52,
+    "prediction": {
+      "mainPick": "Home Win & Under 2.5",
+      "odds": "1.79",
+      "confidence": 74,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 38, "odds": "5.60", "isCorrect": false },
+      { "score": "0-0", "probability": 28, "odds": "7.20", "isCorrect": false }
+    ],
+    "analysis": "IR Tanger are a solid mid‑table Botola side that is particularly tough to break down at the Stade Ibn Batouta. Hassan Jdidi are one of the division's promoted teams and have found goals hard to come by on the road. A narrow home victory with few goals is the most probable outcome in this Moroccan top‑flight encounter."
+  },
+  {
+    "id": "m650",
+    "league": "Romanian Liga 1, Championship Round",
+    "homeTeam": "Dinamo Bucureşti",
+    "awayTeam": "Argeş Piteşti",
+    "date": "2026-05-10",
+    "time": "19:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWDWW",
+    "awayForm": "LLDWL",
+    "avgGoals": 2.2,
+    "usersPickedPercent": 67,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.39",
+      "confidence": 81,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-0", "probability": 35, "odds": "6.00", "isCorrect": false },
+      { "score": "1-0", "probability": 31, "odds": "6.20", "isCorrect": false }
+    ],
+    "analysis": "Dinamo Bucureşti are pushing for the title in the championship round and have been formidable at the Stadionul Dinamo. Argeş Piteşti have lost four of their last five away matches and face a daunting task against one of Romania's most in‑form sides. A routine home victory with a clean sheet is the expected outcome."
   }
  ]
-} 
+}     
+
 
