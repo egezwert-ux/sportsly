@@ -9862,8 +9862,328 @@
       { "score": "1-0", "probability": 31, "odds": "6.20", "isCorrect": false }
     ],
     "analysis": "Dinamo Bucureşti are pushing for the title in the championship round and have been formidable at the Stadionul Dinamo. Argeş Piteşti have lost four of their last five away matches and face a daunting task against one of Romania's most in‑form sides. A routine home victory with a clean sheet is the expected outcome."
+  },
+  {
+    "id": "m652",
+    "league": "Swedish Allsvenskan",
+    "homeTeam": "IK Sirius",
+    "awayTeam": "Örgryte",
+    "date": "2026-05-11",
+    "time": "20:00",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "LWLDD",
+    "awayForm": "WLLWL",
+    "avgGoals": 3.0,
+    "usersPickedPercent": 74,
+    "prediction": {
+      "mainPick": "Home Win & Over 2.5",
+      "odds": "1.17",
+      "confidence": 85,
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "3-0", "probability": 38, "odds": "5.50", "isCorrect": false },
+      { "score": "2-0", "probability": 32, "odds": "5.80", "isCorrect": false }
+    ],
+    "analysis": "IK Sirius face promoted Örgryte at Studenternas IP with a massive gulf in class. Sirius have won all 10 home meetings in the Allsvenskan era against Örgryte, keeping clean sheets in six of the last seven. The visitors have lost four of their last five away games, conceding heavily. A comfortable home win with multiple goals is the overwhelmingly probable outcome."
+  },
+  {
+    "id": "m653",
+    "league": "Danish Superliga, Relegation Round",
+    "homeTeam": "Randers",
+    "awayTeam": "Odense",
+    "date": "2026-05-11",
+    "time": "20:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "DLWDL",
+    "awayForm": "LWDLL",
+    "avgGoals": 2.4,
+    "usersPickedPercent": 58,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.62",
+      "confidence": 72,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 27, "odds": "8.50", "isCorrect": false },
+      { "score": "1-1", "probability": 25, "odds": "6.80", "isCorrect": false }
+    ],
+    "analysis": "Both sides are in the Danish Superliga relegation round and desperate for points. Randers have been solid at home but have kept just one clean sheet in their last five at Cepheus Park Randers. OB have scored in three of their last four away games. With both defences vulnerable and so much at stake, both teams finding the net is a strong value pick."
+  },
+  {
+    "id": "m654",
+    "league": "Russian Premier League",
+    "homeTeam": "Dynamo Moscow",
+    "awayTeam": "Krasnodar",
+    "date": "2026-05-11",
+    "time": "20:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WDWLL",
+    "awayForm": "WWWWD",
+    "avgGoals": 2.7,
+    "usersPickedPercent": 76,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.60",
+      "confidence": 80,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 30, "odds": "8.00", "isCorrect": false },
+      { "score": "1-3", "probability": 24, "odds": "10.00", "isCorrect": false }
+    ],
+    "analysis": "Krasnodar are pushing for the RPL title and have been relentless on the road, winning four of their last five away matches with an average of 2.4 goals scored. Dynamo Moscow have lost two of their last three at home and struggle against the league's top sides. The visitors' superior attacking firepower should prove decisive, though Dynamo's home threat could yield a consolation."
+  },
+  {
+    "id": "m655",
+    "league": "Latvian Virsliga",
+    "homeTeam": "Super Nova",
+    "awayTeam": "FK Tukums 2000 TSS",
+    "date": "2026-05-11",
+    "time": "20:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LDLLL",
+    "awayForm": "WDLWD",
+    "avgGoals": 2.2,
+    "usersPickedPercent": 55,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.89",
+      "confidence": 67,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-1", "probability": 34, "odds": "6.50", "isCorrect": false },
+      { "score": "0-2", "probability": 26, "odds": "8.00", "isCorrect": false }
+    ],
+    "analysis": "Super Nova are bottom of the Virsliga with just one win all season and have lost four straight. Tukums have been inconsistent but possess superior quality and have won three of the last five meetings between these sides. A low-scoring away win is the most probable outcome, with the hosts likely to draw a blank."
+  },
+  {
+    "id": "m656",
+    "league": "Turkish 1. Lig, Promotion",
+    "homeTeam": "Bodrum FK",
+    "awayTeam": "Çorum FK",
+    "date": "2026-05-11",
+    "time": "20:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWLWL",
+    "awayForm": "WDWWW",
+    "avgGoals": 2.5,
+    "usersPickedPercent": 61,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.68",
+      "confidence": 76,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 28, "odds": "8.20", "isCorrect": false },
+      { "score": "1-1", "probability": 24, "odds": "6.80", "isCorrect": false }
+    ],
+    "analysis": "A massive promotion playoff clash at the Bodrum İlçe Stadı. Bodrum have been strong at home, while Çorum have been one of the division's most consistent sides, unbeaten in five. The reverse fixture ended 2-2 in the regular season, and with so much at stake, both sides will push for goals. BTTS is a strong value pick in this evenly-matched contest."
+  },
+  {
+    "id": "m657",
+    "league": "Spanish La Liga",
+    "homeTeam": "Rayo Vallecano",
+    "awayTeam": "Girona",
+    "date": "2026-05-11",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LDDLW",
+    "awayForm": "DWLWL",
+    "avgGoals": 2.4,
+    "usersPickedPercent": 67,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.78",
+      "confidence": 74,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-1", "probability": 30, "odds": "6.50", "isCorrect": false },
+      { "score": "1-2", "probability": 26, "odds": "9.00", "isCorrect": false }
+    ],
+    "analysis": "Rayo Vallecano have been inconsistent but play with intensity at Vallecas, scoring in 80% of their home matches. Girona are fighting for a top-half finish and have been dangerous on the counter, finding the net in four of their last five on the road. The reverse fixture ended 2-2, and another open, entertaining contest is expected."
+  },
+  {
+    "id": "m658",
+    "league": "Bolivian Professional League",
+    "homeTeam": "Academia del Balompié",
+    "awayTeam": "Oriente Petrolero",
+    "date": "2026-05-11",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWDWL",
+    "awayForm": "LLDLL",
+    "avgGoals": 2.0,
+    "usersPickedPercent": 54,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.48",
+      "confidence": 79,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 37, "odds": "5.80", "isCorrect": false },
+      { "score": "2-0", "probability": 29, "odds": "7.00", "isCorrect": false }
+    ],
+    "analysis": "Academia del Balompié enjoy the significant advantage of altitude at the Estadio Hernando Siles in La Paz. Oriente Petrolero have lost four of their last five away games and historically struggle in the thin air. The hosts' home fortress should secure a narrow but comfortable victory."
+  },
+  {
+    "id": "m659",
+    "league": "English Championship, Promotion Playoff",
+    "homeTeam": "Millwall",
+    "awayTeam": "Hull City",
+    "date": "2026-05-11",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWDWW",
+    "awayForm": "WWLDW",
+    "avgGoals": 2.6,
+    "usersPickedPercent": 72,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.50",
+      "confidence": 78,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 30, "odds": "8.00", "isCorrect": false },
+      { "score": "3-1", "probability": 23, "odds": "11.00", "isCorrect": false }
+    ],
+    "analysis": "Millwall hold a narrow aggregate lead after the first leg and return to a raucous Den for the return fixture. Hull City must score and will come out attacking, which plays into Millwall's direct, physical style. The Lions are unbeaten in seven at home and should secure a place at Wembley with an entertaining victory."
+  },
+  {
+    "id": "m660",
+    "league": "Portuguese Primeira Liga",
+    "homeTeam": "Estrela Amadora",
+    "awayTeam": "Famalicão",
+    "date": "2026-05-11",
+    "time": "22:15",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "DLWLL",
+    "awayForm": "WDLWD",
+    "avgGoals": 2.2,
+    "usersPickedPercent": 60,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "2.90",
+      "confidence": 62,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 26, "odds": "10.00", "isCorrect": false },
+      { "score": "1-0", "probability": 24, "odds": "8.50", "isCorrect": false }
+    ],
+    "analysis": "Estrela are fighting for Primeira Liga survival at the Estádio José Gomes and have been competitive against mid-table sides at home. Famalicão are safe in mid-table and have little to play for, potentially opening the door for a desperate Estrela side to snatch a crucial win in an open contest."
+  },
+  {
+    "id": "m661",
+    "league": "Portuguese Primeira Liga",
+    "homeTeam": "Gil Vicente",
+    "awayTeam": "Arouca",
+    "date": "2026-05-11",
+    "time": "22:15",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWDWL",
+    "awayForm": "LLWLD",
+    "avgGoals": 2.5,
+    "usersPickedPercent": 65,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.44",
+      "confidence": 78,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 29, "odds": "8.00", "isCorrect": false },
+      { "score": "3-1", "probability": 24, "odds": "10.50", "isCorrect": false }
+    ],
+    "analysis": "Gil Vicente have been excellent at the Estádio Cidade de Barcelos, losing just twice at home all season. Arouca have the league's second-worst defence and have conceded heavily on the road. The hosts should secure a comfortable victory, though Arouca's counter-attack could grab a consolation."
+  },
+  {
+    "id": "m662",
+    "league": "Portuguese Primeira Liga",
+    "homeTeam": "Rio Ave",
+    "awayTeam": "Sporting CP",
+    "date": "2026-05-11",
+    "time": "22:15",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LLDLL",
+    "awayForm": "WWWLW",
+    "avgGoals": 3.2,
+    "usersPickedPercent": 88,
+    "prediction": {
+      "mainPick": "Away Win & Over 2.5",
+      "odds": "1.23",
+      "confidence": 95,
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-3", "probability": 38, "odds": "7.00", "isCorrect": false },
+      { "score": "0-4", "probability": 31, "odds": "10.00", "isCorrect": false }
+    ],
+    "analysis": "Sporting CP are chasing the Primeira Liga title and have been devastating going forward, scoring 17 goals in their last five away matches. Rio Ave are already relegated and have lost four straight, conceding an average of 3.2 goals per game in that run. A routine, high‑scoring away victory is the overwhelmingly probable outcome."
   }
  ]
-}     
+}
+  
 
 
