@@ -9145,7 +9145,7 @@
     "awayTeam": "Wolverhampton Wanderers",
     "date": "2026-05-09",
     "time": "17:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WWWLL",
@@ -9162,7 +9162,7 @@
       "corner": "Over 9.5"
     },
     "correctScoreOptions": [
-      { "score": "3-0", "probability": 36, "odds": "6.00", "isCorrect": false },
+      { "score": "3-0", "probability": 36, "odds": "6.00", "isCorrect": true },
       { "score": "2-0", "probability": 31, "odds": "5.50", "isCorrect": false }
     ],
     "analysis": "Brighton are unbeaten in eight league meetings with Wolves (W5 D3) and hunt a European spot under Fabian Hurzeler. Already-relegated Wolves are winless in 19 away Premier League matches (D5 L14), scoring just seven goals on the road all season — an abysmal 0.41 per game. The Amex should witness a comfortable home victory, likely with a clean sheet."
@@ -9174,7 +9174,7 @@
     "awayTeam": "Manchester United",
     "date": "2026-05-09",
     "time": "17:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WLDWL",
@@ -9192,7 +9192,7 @@
     },
     "correctScoreOptions": [
       { "score": "0-1", "probability": 34, "odds": "6.80", "isCorrect": false },
-      { "score": "0-0", "probability": 28, "odds": "8.00", "isCorrect": false }
+      { "score": "0-0", "probability": 28, "odds": "8.00", "isCorrect": true }
     ],
     "analysis": "Manchester United have won three straight league games but have beaten only eight of 18 bottom-half opponents this season. Sunderland are without suspended centre-back Dan Ballard and have won just three of 33 Premier League meetings with United. Bruno Fernandes is one assist shy of the season record (20). Both sides' recent matches have been tight — under 2.5 goals has landed in four of the last five meetings — and a low-scoring away win is the value play."
   },
@@ -9203,7 +9203,7 @@
     "awayTeam": "Bournemouth",
     "date": "2026-05-09",
     "time": "17:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "LLLDD",
@@ -9220,7 +9220,7 @@
       "corner": "Under 9.5"
     },
     "correctScoreOptions": [
-      { "score": "0-1", "probability": 33, "odds": "7.50", "isCorrect": false },
+      { "score": "0-1", "probability": 33, "odds": "7.50", "isCorrect": true },
       { "score": "0-0", "probability": 30, "odds": "7.80", "isCorrect": false }
     ],
     "analysis": "Fulham have failed to score in five of their last seven league games since Alex Iwobi's injury — managing just four goals in eight matches. Bournemouth are unbeaten in 15 league games (W7 D8), the longest run in Europe's top five leagues, and have conceded just six goals in their last eight away matches. Despite Fulham's strong home record, their attacking drought meets the Cherries' stingy defence — a low-scoring Bournemouth win is the most probable outcome."
@@ -9232,7 +9232,7 @@
     "awayTeam": "Hajduk Split",
     "date": "2026-05-09",
     "time": "17:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WWWLW",
@@ -9290,7 +9290,7 @@
     "awayTeam": "Lokomotiva Zagreb",
     "date": "2026-05-09",
     "time": "19:45",
-    "status": "PENDING",
+    "status": "lost",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WWLWL",
@@ -9319,7 +9319,7 @@
     "awayTeam": "Rizespor",
     "date": "2026-05-09",
     "time": "20:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "LWWLL",
@@ -9377,7 +9377,7 @@
     "awayTeam": "Gaziantep",
     "date": "2026-05-09",
     "time": "20:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WDDWD",
@@ -9394,7 +9394,7 @@
       "corner": "Over 9.5"
     },
     "correctScoreOptions": [
-      { "score": "2-1", "probability": 29, "odds": "8.00", "isCorrect": false },
+      { "score": "2-1", "probability": 29, "odds": "8.00", "isCorrect": true },
       { "score": "3-1", "probability": 23, "odds": "10.00", "isCorrect": false }
     ],
     "analysis": "Göztepe are unbeaten in their last four league matches, drawing 1-1 at Trabzonspor last time out, and sit comfortably in the top half. Gaziantep have lost three of their last five away games and concede heavily on the road. The Gürsel Aksel Stadium has been a fortress, and Göztepe's attacking momentum should secure a home victory, though Gaziantep's desperation to avoid the drop may see them grab a consolation."
@@ -9406,7 +9406,7 @@
     "awayTeam": "Arsenal",
     "date": "2026-05-10",
     "time": "18:30",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "FREE",
     "is_finished": false,
     "homeForm": "LLDLL",
@@ -9424,7 +9424,7 @@
     },
     "correctScoreOptions": [
       { "score": "0-2", "probability": 37, "odds": "6.50", "isCorrect": false },
-      { "score": "0-1", "probability": 32, "odds": "7.00", "isCorrect": false }
+      { "score": "0-1", "probability": 32, "odds": "7.00", "isCorrect": true }
     ],
     "analysis": "West Ham are winless in six league games and have slipped closer to the relegation zone. Arsenal, despite a recent wobble, remain in the top four and have scored 2+ goals in five of their last six away league matches. The Gunners' superior quality and West Ham's defensive disarray should produce a routine away win, likely with a clean sheet."
   },
@@ -9435,7 +9435,7 @@
     "awayTeam": "1. FC Heidenheim",
     "date": "2026-05-10",
     "time": "18:30",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "DWLDL",
@@ -9493,7 +9493,7 @@
     "awayTeam": "Elazığspor",
     "date": "2026-05-10",
     "time": "19:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WDLWW",
@@ -9522,7 +9522,7 @@
     "awayTeam": "Al Fateh SC",
     "date": "2026-05-10",
     "time": "19:05",
-    "status": "PENDING",
+    "status": "lost",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WDLWD",
@@ -9551,7 +9551,7 @@
     "awayTeam": "Pyramids FC",
     "date": "2026-05-10",
     "time": "20:30",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "LLDWL",
@@ -9580,7 +9580,7 @@
     "awayTeam": "Damac",
     "date": "2026-05-10",
     "time": "21:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WWDWW",
@@ -9609,7 +9609,7 @@
     "awayTeam": "Independiente",
     "date": "2026-05-10",
     "time": "21:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WWDLW",
@@ -9638,7 +9638,7 @@
     "awayTeam": "Atalanta",
     "date": "2026-05-10",
     "time": "21:45",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WWDWL",
@@ -9725,7 +9725,7 @@
     "awayTeam": "Botafogo",
     "date": "2026-05-10",
     "time": "22:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WDLWW",
@@ -9754,7 +9754,7 @@
     "awayTeam": "Lyon",
     "date": "2026-05-10",
     "time": "22:00",
-    "status": "PENDING",
+    "status": "lost",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "DWLDL",
@@ -9783,7 +9783,7 @@
     "awayTeam": "Paris FC",
     "date": "2026-05-10",
     "time": "22:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WDLWW",
@@ -9800,7 +9800,7 @@
       "corner": "Over 9.5"
     },
     "correctScoreOptions": [
-      { "score": "2-1", "probability": 28, "odds": "9.00", "isCorrect": false },
+      { "score": "2-1", "probability": 28, "odds": "9.00", "isCorrect": true },
       { "score": "1-0", "probability": 25, "odds": "8.00", "isCorrect": false }
     ],
     "analysis": "Rennes have won their last seven home Ligue 1 matches against Paris FC, dating back to 2016. Both sides are in mixed form, but Rennes' fortress at Roazhon Park — where they have conceded just eight goals all season — gives them a significant edge in this encounter."
