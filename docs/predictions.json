@@ -10537,7 +10537,7 @@
     "awayTeam": "Middlesbrough",
     "date": "2026-05-12",
     "time": "22:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "DWDWW",
@@ -10555,7 +10555,7 @@
     },
     "correctScoreOptions": [
       { "score": "2-1", "probability": 29, "odds": "8.50", "isCorrect": false },
-      { "score": "1-1", "probability": 26, "odds": "7.00", "isCorrect": false }
+      { "score": "1-1", "probability": 26, "odds": "7.00", "isCorrect": true }
     ],
     "analysis": "The play-off semi-final second leg at St Mary's is finely poised after a 1-1 draw at the Riverside. Southampton are unbeaten in 20 league games, while Boro must score to have any chance. Both sides possess dangerous forwards, and with the tie on a knife-edge, an open, attacking contest with goals at both ends is the value play."
   },
