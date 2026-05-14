@@ -11254,9 +11254,358 @@
       { "score": "1-0", "probability": 28, "odds": "7.50", "isCorrect": false }
     ],
     "analysis": "Both sides are mid-table in the Paraguayan Apertura and matches between them tend to be tight, with three of the last four ending level. A low-scoring draw is the most likely outcome."
-  }
- ] 
-}
+  },
+  {
+    "id": "m701",
+    "league": "Spanish La Liga",
+    "homeTeam": "Valencia",
+    "awayTeam": "Rayo Vallecano",
+    "date": "2026-05-15",
+    "time": "20:00",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "LDLWD",
+    "awayForm": "DDWLD",
+    "avgGoals": 2.2,
+    "usersPickedPercent": 55,
+    "prediction": {
+      "mainPick": "Draw",
+      "odds": "3.10",
+      "confidence": 62,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-1", "probability": 30, "odds": "6.50", "isCorrect": false },
+      { "score": "0-0", "probability": 26, "odds": "8.00", "isCorrect": false }
+    ],
+    "analysis": "La Liga 36. hafta mücadelesi. Valencia 12. sırada, Rayo 10. sırada. İki takım arasındaki son 6 karşılaşmanın 4'ü beraberlikle sonuçlandı. Rayo'nun Konferans Ligi finali öncesi rotasyon yapma ihtimali var. Düşük skorlu bir beraberlik bekleniyor."
+  },
+  {
+    "id": "m702",
+    "league": "Spanish La Liga",
+    "homeTeam": "Girona",
+    "awayTeam": "Real Sociedad",
+    "date": "2026-05-15",
+    "time": "20:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LLDWL",
+    "awayForm": "DLDLL",
+    "avgGoals": 2.5,
+    "usersPickedPercent": 63,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.65",
+      "confidence": 72,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 26, "odds": "9.00", "isCorrect": false },
+      { "score": "1-1", "probability": 25, "odds": "7.00", "isCorrect": false }
+    ],
+    "analysis": "Girona küme düşme hattının hemen üzerinde ve galibiyete ihtiyacı var. Real Sociedad son 5 maçında galibiyet alamadı ve savunmada zafiyetler gösteriyor. Son 5 karşılaşmanın 4'ünde karşılıklı gol var."
+  },
+  {
+    "id": "m703",
+    "league": "Spanish La Liga 2",
+    "homeTeam": "CD Castellón",
+    "awayTeam": "Cádiz CF",
+    "date": "2026-05-15",
+    "time": "20:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WDDWW",
+    "awayForm": "LLLLD",
+    "avgGoals": 2.4,
+    "usersPickedPercent": 70,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.35",
+      "confidence": 82,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 30, "odds": "8.00", "isCorrect": false },
+      { "score": "2-0", "probability": 26, "odds": "7.50", "isCorrect": false }
+    ],
+    "analysis": "La Liga 2'de Castellón 6. sırada ve playoff hattında. Cádiz 18. sırada ve son 5 maçında galibiyet alamadı. Castellón evinde 12 galibiyet alırken sadece 4 mağlubiyet yaşadı. Ev sahibi rahat bir galibiyet bekleniyor."
+  },
+  {
+    "id": "m704",
+    "league": "English Premier League",
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Liverpool",
+    "date": "2026-05-15",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWDWW",
+    "awayForm": "WDWWL",
+    "avgGoals": 3.0,
+    "usersPickedPercent": 78,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.62",
+      "confidence": 80,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 28, "odds": "8.50", "isCorrect": false },
+      { "score": "1-2", "probability": 26, "odds": "9.00", "isCorrect": false }
+    ],
+    "analysis": "Premier League 37. hafta. Villa Şampiyonlar Ligi bileti için 4 puan önde, Liverpool ise 4. sırada. İki takım da Avrupa kupaları için mücadele ediyor ve hücum odaklı oynuyor. Villa Park'ta karşılıklı goller bekleniyor."
+  },
+  {
+    "id": "m705",
+    "league": "Italian Serie A (Primavera 1)",
+    "homeTeam": "Juventus U20",
+    "awayTeam": "Atalanta U20",
+    "date": "2026-05-15",
+    "time": "16:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWWWL",
+    "awayForm": "WWLWD",
+    "avgGoals": 3.2,
+    "usersPickedPercent": 72,
+    "prediction": {
+      "mainPick": "Home Win & Over 2.5",
+      "odds": "1.72",
+      "confidence": 78,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "3-1", "probability": 30, "odds": "7.50", "isCorrect": false },
+      { "score": "2-1", "probability": 28, "odds": "8.00", "isCorrect": false }
+    ],
+    "analysis": "Primavera 1 son hafta. Juventus 3. sırada 68 puanla, Atalanta ise 7. sırada 58 puanla. Juventus evinde dominant ve ligi galibiyetle kapatmak isteyecek."
+  },
+  {
+    "id": "m706",
+    "league": "Italian Serie A (Primavera 1)",
+    "homeTeam": "Genoa U20",
+    "awayTeam": "Inter Milan U20",
+    "date": "2026-05-15",
+    "time": "16:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LLWDL",
+    "awayForm": "WWWWW",
+    "avgGoals": 3.5,
+    "usersPickedPercent": 85,
+    "prediction": {
+      "mainPick": "Away Win & Over 2.5",
+      "odds": "1.45",
+      "confidence": 88,
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-3", "probability": 38, "odds": "6.00", "isCorrect": false },
+      { "score": "1-3", "probability": 30, "odds": "8.50", "isCorrect": false }
+    ],
+    "analysis": "Inter Primavera lig lideri 85 puanla. Genoa alt sıralarda ve formda değil. Inter şampiyonluğa yaklaşırken rahat bir deplasman galibiyeti bekleniyor."
+  },
+  {
+    "id": "m707",
+    "league": "English League Two, Playoff Semi-Final",
+    "homeTeam": "Partick Thistle",
+    "awayTeam": "Dunfermline Athletic",
+    "date": "2026-05-15",
+    "time": "21:15",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WDWWL",
+    "awayForm": "WLWWD",
+    "avgGoals": 2.4,
+    "usersPickedPercent": 65,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "2.10",
+      "confidence": 68,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 28, "odds": "8.50", "isCorrect": false },
+      { "score": "1-1", "probability": 25, "odds": "7.00", "isCorrect": false }
+    ],
+    "analysis": "League Two playoff yarı final ikinci maçı. Partick evinde güçlü ve Wembley finaline çıkmak için avantaj arıyor. İki takım da gol yollarında etkili."
+  },
+  {
+    "id": "m708",
+    "league": "Spanish La Liga",
+    "homeTeam": "Real Madrid",
+    "awayTeam": "Real Oviedo",
+    "date": "2026-05-15",
+    "time": "23:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LWDWL",
+    "awayForm": "DLDLL",
+    "avgGoals": 3.2,
+    "usersPickedPercent": 86,
+    "prediction": {
+      "mainPick": "Home Win & Over 2.5",
+      "odds": "1.26",
+      "confidence": 94,
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "3-0", "probability": 40, "odds": "5.50", "isCorrect": false },
+      { "score": "4-0", "probability": 32, "odds": "7.00", "isCorrect": false }
+    ],
+    "analysis": "Real Madrid, Bernabéu'da son 13 maçında 35 gol attı ve 17 ev maçının 14'ünü kazandı. Oviedo son sırada ve 4 maçta gol atamadı. Rahat bir ev galibiyeti ve çoklu gol kesin görünüyor."
+  },
+  {
+    "id": "m709",
+    "league": "French Ligue 1",
+    "homeTeam": "Reims",
+    "awayTeam": "Olympique Marseille",
+    "date": "2026-05-15",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LWLDL",
+    "awayForm": "WWWLW",
+    "avgGoals": 2.6,
+    "usersPickedPercent": 70,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.85",
+      "confidence": 76,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 30, "odds": "8.50", "isCorrect": false },
+      { "score": "1-3", "probability": 25, "odds": "10.00", "isCorrect": false }
+    ],
+    "analysis": "Marsilya Avrupa kupası bileti peşinde ve formda. Reims orta sıralarda ve istikrarsız. Marsilya'nın hücum kalitesi deplasmanda galibiyeti getirecektir."
+  },
+  {
+    "id": "m710",
+    "league": "French Ligue 1",
+    "homeTeam": "Nice",
+    "awayTeam": "Paris Saint-Germain",
+    "date": "2026-05-15",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "DLWDW",
+    "awayForm": "WWWWW",
+    "avgGoals": 3.5,
+    "usersPickedPercent": 91,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.40",
+      "confidence": 88,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 26, "odds": "8.50", "isCorrect": false },
+      { "score": "1-3", "probability": 24, "odds": "10.00", "isCorrect": false }
+    ],
+    "analysis": "PSG şampiyonluk için sadece 1 puana ihtiyaç duyuyor ve son 5 maçını kazandı. Nice evinde dirençli ama PSG'nin Mbappe ve Dembélé gibi yıldızlarıyla gollü bir maç bekleniyor."
+  },
+  {
+    "id": "m711",
+    "league": "French Ligue 1 Qualification Playoff",
+    "homeTeam": "Saint-Étienne",
+    "awayTeam": "Rodez",
+    "date": "2026-05-15",
+    "time": "22:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WDWLW",
+    "awayForm": "DWLDW",
+    "avgGoals": 2.3,
+    "usersPickedPercent": 63,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.70",
+      "confidence": 74,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 35, "odds": "6.50", "isCorrect": false },
+      { "score": "2-0", "probability": 27, "odds": "8.00", "isCorrect": false }
+    ],
+    "analysis": "Ligue 1 play-off yarı finali. Saint-Étienne tarihi bir kulüp ve Ligue 1'e dönmek için büyük fırsat. Ev avantajı ve tecrübesiyle kazanmaları bekleniyor."
+  },
+  {
+    "id": "m712",
+    "league": "League of Ireland Premier Division",
+    "homeTeam": "Wayside Celtic",
+    "awayTeam": "St. Mochta's",
+    "date": "2026-05-15",
+    "time": "21:45",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "DWLWD",
+    "awayForm": "LDLWD",
+    "avgGoals": 2.2,
+    "usersPickedPercent": 48,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.90",
+      "confidence": 65,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 33, "odds": "6.80", "isCorrect": false },
+      { "score": "2-0", "probability": 25, "odds": "8.50", "isCorrect": false }
+    ],
+    "analysis": "FAI Cup 1. tur mücadelesi. Wayside Celtic evinde avantajlı ve alt lig takımına karşı favori konumda."
+  }  
+ ]
+}  
+
 
 
 
